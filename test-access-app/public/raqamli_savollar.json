@@ -1,0 +1,1779 @@
+[
+  
+  {
+    "savol": "Axborot tizimi deb nimaga aytiladi?",
+    "A": "Oldinga qo‘yilgan maqsadga erishish uchun axborotlarni saqlash, qayta ishlash va uzatish metodlari va vositalari yig‘indisi.",
+    "B": "Axborotlarni saqlash, qayta ishlash va uzatish metodlari va vositalari yig‘indisi",
+    "C": "Axborotlarni yig‘ish, saqlash, qayta ishlash va uzatish sistemasi",
+    "D": "Bir vaqtning o‘zida yagona obyekt hamda maqsadga erishish uchun to‘plangan elementlar yig‘indisi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Axborot tizimlarining rivojlanish bosqichlari vaqt meyorlari doirasida nechta davrni o‘z ichiga oladi?",
+    "A": "4 ta.",
+    "B": "5 ta",
+    "C": "3 ta",
+    "D": "6 ta",
+    "tugri": "A"
+  },
+  {
+    "savol": "Axborot texnologiyalari deb nimaga aytiladi?",
+    "A": "Biror obyekt holati haqidagi yangi, sifatli axborotga ega bo‘lish uchun, birlamchi axborotni yig‘ish, qayta ishlash va uzatish vositalari yig‘indisidan foydalanish jarayoniga aytiladi.",
+    "B": "Axborot texnologiyalari, shuningdek ularni uaratish va qo‘llash bilan bog‘liq bo‘lgan jarayonlar yig‘indisidir",
+    "C": "Bir vaqtning o‘zida yagona obyekt hamda maqsadga erishish uchun to‘plangan elementlar yig‘indisi",
+    "D": "Axborotlarni yig‘ish, saqlash, qayta ishlash va uzatish sistemasi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Shaxsiy kompyuter qanday qurilmalardan tashkil topgan?",
+    "A": "Sistemali blok, monitor, klaviatura, sichqoncha, tashqi qurilmalar.",
+    "B": "Sistemali blok, monitor, klaviatura, sichqoncha",
+    "C": "Ona plata, mikroprotsessor, tezkor xotira, video xotira, tashqi qurilmalar",
+    "D": "Sistemali blok, monitor, klaviatura",
+    "tugri": "A"
+  },
+  {
+    "savol": "Uzluksiz signallarni raqamli (modulyatsiya) va raqamli ma'lumotlarni uzluksiz (demodulyatsiya) signaliga almashtirib beruvchi qurilma nima?",
+    "A": "Modem.",
+    "B": "Router",
+    "C": "Marshrutizator",
+    "D": "Kommutator",
+    "tugri": "A"
+  },
+  {
+    "savol": "Matn, grafika,  tasvirlarni kompyuterga kiritishni avtomatlashtirish uchun xizmat qiluvchi qurilma qaysi?",
+    "A": "Skaner.",
+    "B": "Printer",
+    "C": "Digitayzer",
+    "D": "Plotter",
+    "tugri": "A"
+  },
+  {
+    "savol": "Axborot tizimlarida an'anaviy tizimlarni yaratish davriy uslubi (uni \"Shajara\" modeli deb ham nomlanadi) qaysi bosqichlarni o‘z ichiga oladi?",
+    "A": "Tizim tergovi, tahlili, dizayni, tizimni amalda yaratish, tizim komponenti.",
+    "B": "Tizimni amalda yaratish, tizim komponentlari, tizim tergovi, tahlili va dizayni,",
+    "C": "Tizim komponentlari,tizimni amalda yaratish,  tizim tergovi, tahlili va dizayni,",
+    "D": "Tizimni amalda yaratish, tizim tergovi,  tizim komponentlari,tahlili va dizayni,",
+    "tugri": "A"
+  },
+  {
+    "savol": "Operatsion tizim turlari qaysi qatorda to‘g‘ri ko‘rsatilgan?",
+    "A": "Windows, UNIX, Linux, MacOS.",
+    "B": "Windows-3.1, Windows95, Windows NT",
+    "C": "Windows-7, Windows-8.1, Windows-10",
+    "D": "DopX, Unix, Linux, Windows",
+    "tugri": "A"
+  },
+  {
+    "savol": "Har xil ko‘rinishdagi oddiy va murakkab matnlarni tahrir qilishga mo‘ljallangan matn muharriri qaysi?",
+    "A": "WS Word.",
+    "B": "Bloknot",
+    "C": "WordPad",
+    "D": "Word",
+    "tugri": "A"
+  },
+  {
+    "savol": "Elektron pochtadan foydalanishga mo‘ljallangan MS Offis dasturlar paketiga kiruvchi dastur qaysi?",
+    "A": "MS Outlook.",
+    "B": "MS Publisher",
+    "C": "MS Access",
+    "D": "MS Power Point",
+    "tugri": "A"
+  },
+  {
+    "savol": "Har xil tipdagi nashirlik ishlarini bajarishga mo‘ljallangan muharrir dastur qaysi?",
+    "A": "MS Publisher.",
+    "B": "MS Access",
+    "C": "MS Outlook",
+    "D": "MS Power Point",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ma'lumotlar ombori (bazasi) bilan ishlovchi MS Offiss tarkibiga kiruvchi dasturi qaysi?",
+    "A": "MS Access.",
+    "B": "MS Publisher",
+    "C": "MS Power Point",
+    "D": "MS Outlook",
+    "tugri": "A"
+  },
+  {
+    "savol": "MS Power Point dasturini standart xolatda ishga tushirish qaysi qatorda to‘g‘ri ko‘rsatilgan?",
+    "A": "Pusk-Vse programmi-MS Offiss-MS Power Point.",
+    "B": "Pusk-MS Offiss-MS Power Point",
+    "C": "Pusk-Vse programmi-MS Power Point",
+    "D": "Pusk-MS Power Point",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tarmoq nima?",
+    "A": "Kompyuterlar, terminallar va boshqa qurilmalarning ma'lumot almashishni ta'minlaydigan aloqa kanallari bilan o‘zaro bog‘langan majmui.",
+    "B": "Korxona yoki muassasadagi bir nechta yaqin binolardagi kompyuterni o‘zaro bog‘lagan tarmoq",
+    "C": "Mamlakat, shahar va viloyatlar darajasida kompyuterlarni va lokal tarmoqlarni maxsus aloqa yoki telekommunikatsiya kanallari orqali o‘zaro bog‘langan tarmoq",
+    "D": "O‘zaro butun dunyo kompyuterlarini, abonentlarini , lokal va mintaqaviy tarmoqlarini telekommunikatsiya aloqalari tarmog‘i orqali bog‘langan yirik tarmoq",
+    "tugri": "A"
+  },
+  {
+    "savol": "Bir soniyada aloqa muhiti orqali uzatiladigan minglab yaxlitlangan bitlar soni qanday o‘lchov birligida o‘lchanadi?",
+    "A": "Kbit/sekund.",
+    "B": "Mbit/sekund",
+    "C": "Gbit/sekund",
+    "D": "Bit/sekund",
+    "tugri": "A"
+  },
+  {
+    "savol": "Zaryadlangan zarrachalarning tartibli oqimi nima deb ataladi?",
+    "A": "Elektr toki.",
+    "B": "Elektr maydon",
+    "C": "Magnit maydon",
+    "D": "Elektr oqimi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Materiallarning magnit xossalarni xarakterlovchi kattalik nima deb ataladi?",
+    "A": "Nisbiy magnit kirituvchanlik.",
+    "B": "Magnit doimiysi",
+    "C": "Diamagnit materiallar",
+    "D": "Paramagnit materiallar",
+    "tugri": "A"
+  },
+  {
+    "savol": "EYK ning yo‘nalishi ishorasi uni hosil qiluvchi kuchga … bo‘ladi. Nuqtalar o‘rniga kerakli so‘zni qo‘ying.",
+    "A": "qarama-qarshi.",
+    "B": "parallel",
+    "C": "teskari proporsanal",
+    "D": "proporsanal",
+    "tugri": "A"
+  },
+  {
+    "savol": "Elektr sxemasining uchta va undan ortiq tarmog‘i birlashgan nuqta nima deb ataladi?",
+    "A": "tugun.",
+    "B": "kontur",
+    "C": "tarqalish nuqtasi",
+    "D": "markaziy nuqta",
+    "tugri": "A"
+  },
+  {
+    "savol": "Bir nechta tarmoqlardan tashkil topgan berk elektr zanjiri nima deb ataladi?",
+    "A": "kontur.",
+    "B": "tugun",
+    "C": "yopiq zanjir",
+    "D": "EYK zanjiri",
+    "tugri": "A"
+  },
+  {
+    "savol": "Quyidagi o‘lchov birliklarining qaysi biri to‘g‘ri?",
+    "A": "tok kuchi-amper, kuchlanish-volt, og‘irlik (massa)-kilogramm, elektr quvvati-vatt.",
+    "B": "tok kuchi-vatt, kuchlanish-amper, og‘irlik (massa)-kilogramm, elektr quvvati-vatt",
+    "C": "tok kuchi-amper, kuchlanish-volt, og‘irlik (massa)-kilogramm, elektr quvvati-kwatt",
+    "D": "tok kuchi-amper, kuchlanish-volt, og‘irlik (massa)-kilogramm, elektr quvvati-kwatt, vaqt-soat",
+    "tugri": "A"
+  },
+  {
+    "savol": "O‘lchash asbobi ko‘rsatgan kattalik va shu kattalik haqiqiy qiymatining ayirmasi nima deyiladi?",
+    "A": "Absolut xatolik.",
+    "B": "Nisbiy xatolik",
+    "C": "O‘lchash xatoliklari",
+    "D": "Mutloq xatolik",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tok kuchini o‘lchaydigan asbob nima deb ataladi?",
+    "A": "Ampermetr.",
+    "B": "Voltmetr",
+    "C": "Taxometr",
+    "D": "Barometr",
+    "tugri": "A"
+  },
+  {
+    "savol": "Mexanik energiyani elektr energiyaga aylantirib beruvchi mashina nima deb ataladi?",
+    "A": "Elektr generator.",
+    "B": "Elektr mashina dvigatellari",
+    "C": "Asinxron dvigatellar",
+    "D": "Sinxron generatorlar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Elektr energiyasini energiyaning boshqa turiga o‘zgartirib beruvchi barcha uskuna, asbob va qurilmalarga nima deb ataladi?",
+    "A": "Elektr iste'molchilari.",
+    "B": "Tizim istemolchilari",
+    "C": "Elektr fazalari",
+    "D": "Istemolchi obyektlar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Xavfli va zararli omillar ta'sirida ishchining sog‘ligini va ish qobiliyatini ma'lum muddatga yo‘qolishiga nima deb ataladi?",
+    "A": "Ishlab chiqarishdagi baxtsiz hodisa.",
+    "B": "Jarohatlanish",
+    "C": "Kasb kasalliklari",
+    "D": "Hayot muhiti",
+    "tugri": "A"
+  },
+  {
+    "savol": "O‘zbekiston Respublikasining Mehnat kodeksi qachon qabul qilingan?",
+    "A": "21-dekabr 1995-yil.",
+    "B": "6-may 1993-yil",
+    "C": "8-dekabr 1992-yil",
+    "D": "6-iyun 1997-yil",
+    "tugri": "A"
+  },
+  {
+    "savol": "O‘zbekiston Respublikasida 16 yoshdan 18 yoshgacha bo‘lgan xodimlar haftasiga ko‘pi bilan necha soatgacha ishlashiga ruxsat beriladi?",
+    "A": "36 soat.",
+    "B": "24 soat",
+    "C": "30 soat",
+    "D": "40 soat",
+    "tugri": "A"
+  },
+  {
+    "savol": "Yorug‘lik oqimining yorug‘lik tarqaladigan burchakka nisbati orqali ifodalanishi nima deb ataladi?",
+    "A": "Yorug‘lik kuchi (J).",
+    "B": "Yorug‘lik oqimi",
+    "C": "Yoritilganlik",
+    "D": "Yoritilganlikni qaytarish",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ishchilarga ta'sir etuvchi zararli moddalar (omillar) ta'siri belgilangan ruxsat etilgan me'yorlar asosida bartaraf etishga qaratilgan tashkily, sanitar-gigienik va sanitar-texnik tadbirlar texnik vositalar majmui nima deb ataladi?",
+    "A": "Ishlab chiqarish sanitariyasi.",
+    "B": "Mehnat gigiyenasi",
+    "C": "Mehnat sharoitlarini yaxshilash",
+    "D": "Ishlab chiqarish xavfsizligi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Xavfli faktorlarni hosil bo‘lishini yoki uning ta'sir darajasini kamaytirishga yo‘naltirish nima deb ataladi?",
+    "A": "Faol himoya.",
+    "B": "Passiv himoya",
+    "C": "To‘siq qurilmalari",
+    "D": "Blokirovkalash qurilmalari",
+    "tugri": "A"
+  },
+  {
+    "savol": "Elektr qurilmasini elektr toki ta'sirida bo‘lmagan metall qismi bilan nol fazani birlashtirish nima deb ataladi?",
+    "A": "Nollashtirish.",
+    "B": "Statik elektr toki",
+    "C": "Elektr qurilmalarini yerga ulash",
+    "D": "Atmosfera elektr zaryadlari",
+    "tugri": "A"
+  },
+  {
+    "savol": "Maxsus manbadan tashqarida sodir bo‘ladigan va katta material zarar hamda talofatlar keltirib chiqaradigan nazoratsiz yonish jarayoni nima deb ataladi?",
+    "A": "Yong‘in.",
+    "B": "Obyektning yong‘in xavfliligi",
+    "C": "Obyektning yong‘in xavfsizligi",
+    "D": "Yonish jarayoni",
+    "tugri": "A"
+  },
+  {
+    "savol": "Yong‘in sodir bo‘lish sharoitlarini bartaraf etishga qaratilgan tashkiliy tadbirlar va texnik vositalar majmui nima deb ataladi?",
+    "A": "Yong‘inning oldini olish tizimi.",
+    "B": "Yong‘inga qarshi himoya tizimi",
+    "C": "Yong‘inning tarqalishini oldini olish tizimi",
+    "D": "Tashkiliy-texnik tadbirlarga yong‘indan himoyalash",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kuyishning og‘irlik darajalari nechta darajani o‘z ichiga oladi?",
+    "A": "4 ta.",
+    "B": "3 ta",
+    "C": "5 ta",
+    "D": "6 ta",
+    "tugri": "A"
+  },
+  {
+    "savol": "Mediada tartibsiz axborotlarni bir tizimga keltirish va uni tushunarli shaklda taqdim etish, alohida manfaatlarni ochib beruvchi nuqtai nazarni tahlil qilish funksiyasi nima deb ataladi?",
+    "A": "Bilimlarni tizimlash.",
+    "B": "Ishonchlilik",
+    "C": "Ijtimoiy qiziqish",
+    "D": "Axborot erkinligi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Internetda foydalanuvchilar uchun eng katta tahdid nima?",
+    "A": "Shaxsiy ma'lumotlarni boshqalar qo‘liga tushishi, oshkor bo'lishi.",
+    "B": "Yolg‘on axborotlarga aldanib qolish",
+    "C": "Viruz=s va zararli fayllardan zarar ko‘rish",
+    "D": "Ma'lumotlarni o‘g‘irlatish yoki ularga zarar yetkazilishi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Virus va zararli dasturlar hujumidan saqlanish uchun eng muhum narsa nima?",
+    "A": "Internet gigienasiga rioya qilish.",
+    "B": "Maxsus himoya dasturlaridan foydalanish",
+    "C": "Kuchli va ishonchli ximoya qobiq dasturlari",
+    "D": "Shaxsiy ma'lumotlarni qat'iy ximoyasini tashkil etish",
+    "tugri": "A"
+  },
+  {
+    "savol": "Internetning eng qulay, eng kerakli va barcha internet foydalanuvchilari ishlatadigan aloqa vositasi qaysi?",
+    "A": "Elektron pochta.",
+    "B": "Facebook ijtimoiy tarmog‘i",
+    "C": "Ijtimoiy tarmoqda shaxsiy chatlar",
+    "D": "Shaxsiy kabinet orqali yozishmalar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Elektron pochtangizga kelgan va siz olishni istamagan har qanday maktubni nima deb atash mumkin?",
+    "A": "Spam.",
+    "B": "Fake xabar",
+    "C": "Xavfsizlik rizki",
+    "D": "Ximoya devori",
+    "tugri": "A"
+  },
+  {
+    "savol": "Email orqali odamlarning shaxsiy ma'lumotini o‘g‘irlashga qaratilgan tahdid turi nima deb ataladi?",
+    "A": "Phishing.",
+    "B": "Spoofing",
+    "C": "Kiber xujum",
+    "D": "Xaker xujumi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kompyuter yoki noutbuklarni himoyalashda eng kerakli vosita nima?",
+    "A": "\"Firewall\" himoya dasturini doim yoniq turishi.",
+    "B": "Anitivirus dasturlaridan foydalanish",
+    "C": "Windows Defander ni ishga tushirish",
+    "D": "Internet tarmog‘iga ulanganda yangilanishni o‘chrib qo‘yish",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qiziqishlari o‘xshash yoki oflayn aloqaga ega bo‘lgan odamlar o‘rtasida muloqot qilish, tanishish, ijtimoiy munosabatlar yaratish uchun, shuningdek, ko‘ngilochar (musiqa va filmlar) va ish maqsadlarida ishlatiladigan onlayn platforma nima deb nomlanadi?",
+    "A": "Ijtimoiy tarmoq.",
+    "B": "Elektron pochta",
+    "C": "Shaxsiy chat",
+    "D": "Internet chat platformalari",
+    "tugri": "A"
+  },
+  {
+    "savol": "Media fayllarni birgalikda foydalanish uchun saqlash xizmati nima deb nomlanadi?",
+    "A": "Ijtimoiy media ombori.",
+    "B": "Ijtimoiy kutubxona",
+    "C": "Iqtisoslashgan ijtimoiy tarmoqlar",
+    "D": "Korporativ ijtimoiy tarmoqlar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Mediada har qanday matnni bir xilda talqin qiladigan passiv individlarning bir turdagi guruhiga nima deyiladi?",
+    "A": "Auditoriya.",
+    "B": "Maqsadli auditoriya",
+    "C": "Mediateka",
+    "D": "Media bozor",
+    "tugri": "A"
+  },
+  {
+    "savol": "Mediada yoshi, daromadi, jinsi yoki qiziqishlari kabi ma'lum bir xususiyatlari bilan birlashuvchi ta'lim oluvchi, tomoshabinlar tinglovchilar guruhi qanday nomlanadi?",
+    "A": "Maqsadli auditoriya.",
+    "B": "Mediateka",
+    "C": "Auditoriya",
+    "D": "Media bozor",
+    "tugri": "A"
+  },
+  {
+    "savol": "…-keng ma'noda - fan, adabiyot va san'at asarlarini yaratish, foydalanish va huquqiy himoya qilishda vujudga keladigan munosabatlarni tartibga soluvchi huquqiy normalar yig‘indisi nima deb ataladi?",
+    "A": "Mualliflik huquqi.",
+    "B": "Fuqorolik huquqining bir bo‘limi",
+    "C": "Saxsiy va mulkiy huquq",
+    "D": "Fuqorolik huquqi",
+    "tugri": "A"
+  },
+  {
+    "savol": "O‘zbekiston Respublikasida Mualliflik huquqi qaysi qonunga binoan belgilanadi?",
+    "A": "O‘zbekiston Respublikasi Fuqorolik kodeksi (1041-1073 moddalar).",
+    "B": "O‘zbekiston Respublikasi Konstitutsiyasi (72-86 moddalar)",
+    "C": "\"Mualliflik huquqi va turdosh huquqlar to‘g‘risida\" gi O‘zbekiston Respublikasi Qonuni",
+    "D": "A va C javoblar to‘g‘ri",
+    "tugri": "A"
+  },
+  {
+    "savol": "Telegram ijtimoiy tarmog‘i qachon va kim tomonidan yaratilgan?",
+    "A": "2013 yilda Pavel Durov va akasi Nikolay Dovurlar tomonidan.",
+    "B": "2013 yilda Pavel Durov tomonidan",
+    "C": "2013 yilda Nikolay Dovur tomonidan",
+    "D": "2014 yilda Pavel Durov tomonidan",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tadbirkorlik faoliyati bilan shug'ullanishi mumkin bo'lgan shaxslar?",
+    "A": "davlat organlarining mansabdor shaxslari.",
+    "B": "nafaqaho'rlar",
+    "C": "nogironlar",
+    "D": "o'qituvchilar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Milliy iqtisodiyot deganda nimani tushunasiz?",
+    "A": "Bu ma’lum bir davlat hududida tarixan tashkil topgan, bir-biri bilan maqsadi va mehnat taqsimoti bog‘liq bo‘lgan tarmoqlar yig‘indisidir.",
+    "B": "Bu ma’lum bir davlat hududida tarixan tashkil topgan tarmoqlar yig‘indisidir",
+    "C": "Bu maqsadi va mehnat taqsimoti bog‘liq bo‘lgan tarmoqlar yig‘indisidir",
+    "D": "Bir-biri bilan maqsadi va mehnat taqsimoti bog‘liq bo‘lgan tarmoqlar yig‘indisidir",
+    "tugri": "A"
+  },
+  {
+    "savol": "Iqtisodiy nazariya fani fanlarning qanday guruhiga kiradi?",
+    "A": "ijtimoiy-gumanitar fanlar;",
+    "B": "siyosiy fanlar;",
+    "C": "tabiiy fanlar;",
+    "D": "iqtisodiy fanlar;",
+    "tugri": "A"
+  },
+  {
+    "savol": "Iqtisodiyot nazariyasi fani nimani o‘rganadi?",
+    "A": "kishilik jamiyati rivojlanishining iqtisodiy qonun va qonuniyatlari",
+    "B": "ishlab chiqarish kuchlarini;",
+    "C": "moddiy ne’matlar ishlab chiqarish;",
+    "D": "ijtimoiy tuzumni;",
+    "tugri": "A"
+  },
+  {
+    "savol": "“Tadqiqot uslublari majmui” deganda nimani tushunasiz?",
+    "A": "ilmiy bilishni qoidalari, shakllari va usullari;",
+    "B": "mikroiqtisodiy tahlilni;",
+    "C": "makroiqtisodiy va mikroiqtisodiy tahlilni;",
+    "D": "makroiqtisodiy tahlilni;",
+    "tugri": "A"
+  },
+  {
+    "savol": "Bozor iqtisodiyotining asosiy qonuni?",
+    "A": "talab va taklif qonuni;",
+    "B": "taklif qonuni;",
+    "C": "qiymat qonuni;",
+    "D": "talab qonuni;",
+    "tugri": "A"
+  },
+  {
+    "savol": "Yuridik shaxslarga kimlar?",
+    "A": "o‘z balanasi va muhriga ega bo‘lgan kichik firmalar, korxona va tashkilotlar;",
+    "B": "Korxonalar;",
+    "C": "firmalar;",
+    "D": "Chet el fuqarolari",
+    "tugri": "A"
+  },
+  {
+    "savol": "Biznesda QQQni o‘rganishda necha xil yondashuv mavjud?",
+    "A": "Ikki xil: tashkiliy va psixologik.",
+    "B": "Uch xil: boshqarish, psixologik, iqtisodiy",
+    "C": "Ikki xil: tashkiliy va tavakkalchilik",
+    "D": "Uch xil: tashkiliy, psixologik, amaliy",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tadbirkorlik subektlari necha xil soliqga tortilishi mumkin",
+    "A": "Ikki xil umumbelgilangan va soddalashtirilgan tartibda.",
+    "B": "Bir xil qattiy belgilangan soliq",
+    "C": "Uch xil mol-mulk , yer va daromad soliq tartibda",
+    "D": "Tort xil belgilangan trtibda",
+    "tugri": "A"
+  },
+  {
+    "savol": "“Tadbirkorlik to‘g‘risida”gi qonun qachon qabul qilingan?",
+    "A": "1991 yil.",
+    "B": "1992 yil",
+    "C": "1993 yil",
+    "D": "1994 yil",
+    "tugri": "A"
+  },
+  {
+    "savol": "“Biznes-fond” qachon tashkil topgan?",
+    "A": "1995 yil.",
+    "B": "1996 yil",
+    "C": "1999 yil",
+    "D": "1998 yil",
+    "tugri": "A"
+  },
+  {
+    "savol": "Biznesni moliyalashtirish manbalarini aniqlang?",
+    "A": "Shaxsiy jamg‘armalar, yaqinlarning bergan qarzlari, sheriklarni jalb qilish.",
+    "B": "Qarz turlari, kafolatlar, sug‘urtalar",
+    "C": "Shaxsiy jamg‘armalar, sug‘urtalar, ijtimoiy badallar",
+    "D": "Kompentatsiya, Foyda, Risk",
+    "tugri": "A"
+  },
+  {
+    "savol": "Biznes - reja nima?",
+    "A": "biznes - reja firmaning rivojlanishi strategiyasini belgilab beradigan asosiy hujjat",
+    "B": "bu tadbirkorlarning biznes uchun kapital yig‘uvchi va u uchun boshqaruv yo‘nalishlarini belgilash uchun tuzilgan hujjat.",
+    "C": "Sotsialistik musobaqa",
+    "D": "tovar ishlab chiqaruvchiga tanho hukmronlikni ta'minlab beruvchi dastak",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ma'lumotni oshkor qilish, o‘zgartirish yoki yo‘q qilish yoki xizmatni rad etish orqali egasiga zarar yetkazishi mumkin bo‘lgan shartlar va omillar majmui nima deb  ataladi?",
+    "A": "Axborot tahdidi.",
+    "B": "Potensial tahdidlar",
+    "C": "Axborot xavfsizligi",
+    "D": "Axborot zaifliklari",
+    "tugri": "A"
+  },
+  {
+    "savol": "Himoyalangan axborotga bo‘lgan mulk huquqi qanday huquqlar birligini o‘z ichiga oladi?",
+    "A": "Mulkka egalik qilish huquqi, uni tasarruf etish huquqi, undan foydalanish huquqi.",
+    "B": "Mulkka egalik qilish huquqi, uni tasarruf etish huquqi",
+    "C": "Mulkka egalik qilish huquqi, undan foydalanish huquqi",
+    "D": "Axborotga egalik qilish, yaxlit saqlash,  qayta ishlash, tarqatish huquqi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Axborot xavfsizligida xavflarni boshqarish usullari maxfiy ma'lumotlarni himoya qilishda qanday strategiyalar mavjud?",
+    "A": "Xavfdan qochish, risk tavakkalchilikni o‘tkazish, risk xavfni cheklash, xavfni kamaytirish.",
+    "B": "Axborotga kirishni litsenziyalash, parol qo‘yish, audentifikatsiyadan o‘tkazish",
+    "C": "Xavfdan qochish, risk tavakkalchilikni o‘tkazish, risk xavfni cheklash",
+    "D": "Axborotga kirishni litsenziyalash, parol qo‘yish, kirishni nazorat qilish",
+    "tugri": "A"
+  },
+  {
+    "savol": "Axborotga egalik qilish, undan foydalanish va uni tasarruf etish vakolatlarini to‘liq amalga oshiradigan sub'yekt nima deb ataladi?",
+    "A": "Axborot egasi.",
+    "B": "Egalik huquqi",
+    "C": "Mualliflik huquqi",
+    "D": "Iste'molchilar huquqi",
+    "tugri": "A"
+  },
+  {
+    "savol": "…-bu o‘ziga xos mahsulot bo‘lib, uning qiymati yoki qiymatini shartli ravishda, hatto zarar yetkazilgan taqdirda ham baholash mumkin.",
+    "A": "Davlat siri.",
+    "B": "Axborotning qiymati",
+    "C": "Axborotning muhumlilik darajasi",
+    "D": "Axborotning aniqlilik darajasi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ma'lumotlarning mazmunini bilish huquqi nima deb ataladi?",
+    "A": "Mulkchilik huquqi.",
+    "B": "Foydalanish huquqi",
+    "C": "Mualliflik huquqli",
+    "D": "Egalik huquqi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ma'lumotlarni shaxsiy ehtiyojlar uchun ishlatish huquqi sifatida talqin qilishga nima deyiladi?",
+    "A": "Foydalanish huquqi.",
+    "B": "Egalik huquqi",
+    "C": "Mulkchilik huquqi",
+    "D": "Mualliflik huquqli",
+    "tugri": "A"
+  },
+  {
+    "savol": "Shifrlash nima?",
+    "A": "Ochiq matnni shifr matnga o‘zgartirish jarayoni.",
+    "B": "Shifrmatnni ochiq matnga o‘zgartiruvchi teskari jarayon",
+    "C": "Kalitni bilmasdan turib shifrmatn  bo‘yicha ochiq matnni tiklash jarayoni",
+    "D": "Ochiq matnni shifrlash natijasi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Rasshifrovkalash nima?",
+    "A": "Shifrmatnni ochiq matnga o‘zgartiruvchi teskari jarayon.",
+    "B": "Ochiq matnni shifrlash natijasi",
+    "C": "Ochiq matnni shifr matnga o‘zgartirish jarayoni",
+    "D": "Ochiq matnni shifr matnga o‘zgartirish jarayoni",
+    "tugri": "A"
+  },
+  {
+    "savol": "Deshifrlash nima?",
+    "A": "Kalitni bilmasdan turib shifrmatn  bo‘yicha ochiq matnni tiklash jarayoni.",
+    "B": "Ochiq matnni shifr matnga o‘zgartirish jarayoni",
+    "C": "Ochiq matnni shifrlash natijasi",
+    "D": "Shifrmatnni ochiq matnga o‘zgartiruvchi teskari jarayon",
+    "tugri": "A"
+  },
+  {
+    "savol": "Shifrmatn nima?",
+    "A": "Ochiq matnni shifrlash natijasi.",
+    "B": "Kalitni bilmasdan turib shifrmatn  bo‘yicha ochiq matnni tiklash jarayoni",
+    "C": "Shifrmatnni ochiq matnga o‘zgartiruvchi teskari jarayon",
+    "D": "Ochiq matnni shifr matnga o‘zgartirish jarayoni",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ochiq matnni har biri algoritm va kalit orqali aniqlanuvchi, shifrmatnga qaytariluvchidan o‘zgartirishlar oilasi nima deb nomlanadi?",
+    "A": "Kriptotizim.",
+    "B": "Qora quti",
+    "C": "Kodlash",
+    "D": "Kalit",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ma'lumotlarni osongina asliga qaytarish uchun hammaga (hattoki hujumchiga ham) ochiq bo‘lgan  sxema yordamida ma'lumotlarni boshqa formatga o‘zgartirish nima deb ataladi?",
+    "A": "Kalit.",
+    "B": "Kriptotizim",
+    "C": "Qora quti",
+    "D": "Kodlash",
+    "tugri": "A"
+  },
+  {
+    "savol": "Mahfiy xabarni soxta xabar ichiga berkitish orqali aloqani yashirish nima deb nomlanadi?",
+    "A": "Steganografiya.",
+    "B": "Kripografiya",
+    "C": "Kodlash",
+    "D": "Kriptotizim",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kriptologiya fani fan sifatida shakllanishida necha davrni o‘z ichiga oladi?",
+    "A": "4 ta.",
+    "B": "3 ta",
+    "C": "5 ta",
+    "D": "6 ta",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tarmoqqa qanday talablar qo‘yiladi?",
+    "A": "Ochiqlik, moslashuvchanlik, samaradorlik.",
+    "B": "Ochiqlik va samaradorlik",
+    "C": "Ochiqlik va moslashuvchanlik",
+    "D": "Moslashuvchanlik va samaradorlik",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kompyuterni yoki aloqa liniyalarini ishdan chiqishi natijasida struktura o‘zgarishining ishga layoqatlilikka ta'sir etmaslik talabi nima deb nomlanadi?",
+    "A": "Moslashuvchanlik.",
+    "B": "Samaradorlik",
+    "C": "Moslashuvchanlik va samaradorlik",
+    "D": "Ochiqlik va samaradorlik",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kam sarf-xarajat evaziga foydalanuvchilarga xizmat qilishning talab etiladigan sifatini ta'minlash tarmoqning qaysi talabiga mos keladi?",
+    "A": "Samaradorlik.",
+    "B": "Moslashuvchanlik",
+    "C": "Ochiqlik va samaradorlik",
+    "D": "Ochiqlik va moslashuvchanlik",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tarmoqning mavjud komponentlarining texnik va dasturiy vositalarini o‘zgartirmay qo‘shimcha abonent kompyuterlarini hamda aloqa liniyalarini (ikanallarini) kiritish imkoniyati tarmoqning qaysi talabi vazifasiga kiradi?",
+    "A": "Ochiqlik, moslashuvchanlik, samaradorlik.",
+    "B": "Ochiqlik va samaradorlik",
+    "C": "Ochiqlik va moslashuvchanlik",
+    "D": "Moslashuvchanlik va samaradorlik",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kompyuterning USB-portiga to‘g‘ridan-to‘g‘ri ulanuvchi qurilma bo‘lib, terkibida mikroprotsessor o‘rnatilgan kalit va o‘qish qurilmasi mavjud. Gap ima haqida borayapti?",
+    "A": "USB kalit.",
+    "B": "Sinxron dinamik qurilma",
+    "C": "Asinxron dinamik qurilma",
+    "D": "Biometrik qurilma",
+    "tugri": "A"
+  },
+  {
+    "savol": "Axborotlarni kriptografik yo‘l yo‘l bilan yashirib himoyalash usuli nima deb ataladi?",
+    "A": "Niqoblash (maskirovka).",
+    "B": "Reglamentlash",
+    "C": "Majburlash",
+    "D": "Istak",
+    "tugri": "A"
+  },
+  {
+    "savol": "Himoyalanayotgan axborotlarga avtomatlashtirilgan ishlov berishi saqlash va uzatishda unga ruxsatsiz kirish imkoniyati eng kam bo‘lishiga sharoit yaratuvchi axborotlarni himoyalash usuli nima deb nomlanadi?",
+    "A": "Reglamentlash (reglamentatsiya).",
+    "B": "Majburlash",
+    "C": "Istak",
+    "D": "Niqoblash",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ma'lumotlar bazasi ichidagi maydon voqealar, odamlar, obyektlar va tranzaksiyalar haqida eng batafsil ma'lumotlarni o‘z ichiga oladi. Gap nima haqida borayapti?",
+    "A": "Maydonlar.",
+    "B": "Yozuv",
+    "C": "Jadval ichidagi ma'lumotlar",
+    "D": "Ma'lumotlar bazasi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Yozuv nima?",
+    "A": "Bu tegishli maydonlar to‘plami.",
+    "B": "O‘ziga hos jadval nomiga ega bo‘lgan tegishli yozuvlar to‘plami",
+    "C": "Tegishli jadvallar to‘plami",
+    "D": "Jadval ichidagi ma'lumotlar",
+    "tugri": "A"
+  },
+  {
+    "savol": "O‘ziga hos jadval nomiga ega bo‘lgan tegishli yozuvlar to‘plami nima deb ataladi?",
+    "A": "Jadval.",
+    "B": "Yozuv",
+    "C": "Ma'lumotlar bazasi",
+    "D": "Maydonlar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ma'lumotlar bazasi nima?",
+    "A": "Ma'lumotlar bazasi- bu tegishli jadvallar to‘plami.",
+    "B": "O‘ziga hos jadval nomiga ega bo‘lgan tegishli yozuvlar to‘plami",
+    "C": "Jadval ichidagi ma'lumotlar",
+    "D": "Bu tegishli maydonlar to‘plami",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tartiblangan ma'lumotlarni saqlovchi va qayta ishlovchi axborot modeli nima deb nomlanadi?",
+    "A": "Ma'lumotlar ombori.",
+    "B": "Jadval",
+    "C": "Maydonlar",
+    "D": "Yozuv",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ma'lumotlar bazasining qanday kamchiliklari mavjud?",
+    "A": "Yaxshi nazoratsiz xavfsizlik buzilishi mumkin, yaxshi boshqaruvlarsiz yaxlitlik bizilishi mumkin, qo‘shimcha apparat talab qilishi mumkin, ishlash uchun qo‘shimcha xarajatlar muhim bo‘lishi mumkin, tizim murakkab bo‘lishi mumkin.",
+    "B": "Yaxshi nazoratsiz xavfsizlik buzilishi va boshqaruvlarsiz yaxlitlik bizilishi mumkin, qo‘shimcha apparat talab qilishi mumkin, ishlash uchun qo‘shimcha xarajatlar muhim bo‘lishi mumkin",
+    "C": "Yaxshi nazoratsiz xavfsizlik buzilishi mumkin, yaxshi boshqaruvlarsiz yaxlitlik bizilishi mumkin, qo‘shimcha apparat talab qilishi mumkin, tizim murakkab bo‘lishi mumkin",
+    "D": "Yaxshi nazoratsiz xavfsizlik buzilishi mumkin, yaxshi boshqaruvlarsiz yaxlitlik bizilishi mumkin, ishlash uchun qo‘shimcha xarajatlar muhim bo‘lishi mumkin",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ma'lumotlar omborini tashkil etuvchi asosiy komponentlar qaysilar?",
+    "A": "Uskuna, Dasturiy ta'minot. Ma'lumotlar, Protsedura, Ma'lumotlar bazasiga kirish tili.",
+    "B": "Uskuna, Ma'lumotlar, Protsedura, Ma'lumotlar bazasiga kirish tili",
+    "C": "Uskuna, Dasturiy ta'minot. Ma'lumotlar, Ma'lumotlar bazasiga kirish tili",
+    "D": "Uskuna, Dasturiy ta'minot. Ma'lumotlar, Protsedura.",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kompyuterga nima qilish kerakligini ko‘rsatadigan dasturlar yoki ko‘rsatmalar to‘plami nima deb nomlanadi?",
+    "A": "Dasturiy ta'minot.",
+    "B": "Ma'lumotlar",
+    "C": "Protsedura",
+    "D": "Ma'lumotlar bazasiga kirish tili",
+    "tugri": "A"
+  },
+  {
+    "savol": "Yanada mazmunli qilish uchun tartibga solinishi va qayta ishlanishi kerak bo‘lgan xom faktlar va axborotlar nima deb nomlanadi?",
+    "A": "Ma'lumotlar.",
+    "B": "Protsedura",
+    "C": "Ma'lumotlar bazasiga kirish tili",
+    "D": "Dasturiy ta'minot",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ma'lumotlar bazasini boshqarish tizimida qo‘llaniladigan ko‘rsatmalarga ishora qiladi va ko‘rsatmalardan tortib sozlash va o‘rnatish, tizimga kirish va chiqish, kundalik operatsiyalarni boshqarish, ma'lumotlarning zaxira nusxalarini olish va hisobotlarni yaratishgacha bo‘lgan hamma narsani o‘z ichiga oluvchi jarayon nima deb nomlanadi?",
+    "A": "Protsedura.",
+    "B": "Ma'lumotlar bazasiga kirish tili",
+    "C": "Dasturiy ta'minot",
+    "D": "Ma'lumotlar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ma'lumotlar bazasida saqlangan ma'lumotlarga kirish, yangilash va o‘chirish buyruqlarini yozish uchun ishlatiladigan til nima deb nomlanadi?",
+    "A": "Ma'lumotlar bazasiga kirish tili.",
+    "B": "Dasturiy ta'minot",
+    "C": "Ma'lumotlar",
+    "D": "Protsedura",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ma'lumotlarni jadval shaklida saqlaydigan va ularga o‘zaro aloqalar o‘rnatgan relatsion ma'lumotlar bazasi nima deb nomlanadi?",
+    "A": "Relatsion ma'lumotlar ombori.",
+    "B": "Ierarxik ma'lumotlar ombori",
+    "C": "Tuzulmali ma'lumotlar ombori",
+    "D": "Barcha javoblar to‘g‘ri",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ma'lumotlar omborini tahlil qilish uchun ma'lumotlar ombori tashkil etilgan tizim nima deb nomlanadi?",
+    "A": "Ma'lumotlar tahlili.",
+    "B": "Ma'lumotlar banki",
+    "C": "Ma'lumotlar buxgalteriyasi",
+    "D": "Ma'lumotlar xavfsizligi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Katta hajmdagi ma'lumotlarni tizimli va moslashtirilgan holda saqlash uchun ishlatiladigan o‘zgaruvchan ma'lumotlar ombori nima deb nomlanadi?",
+    "A": "Ma'lumotlar banki.",
+    "B": "Ma'lumotlar buxgalteriyasi",
+    "C": "Ma'lumotlar xavfsizligi",
+    "D": "Ma'lumotlar tahlili",
+    "tugri": "A"
+  },
+  {
+    "savol": "Bitta ma'lumotlar turi yoki niyati bo‘yicha mo‘ljallangan o‘zgaruvchan ma'lumot ombori nima deb nomlanadi?",
+    "A": "Ma'lumotlar buxgalteriyasi.",
+    "B": "Ma'lumotlar xavfsizligi",
+    "C": "Ma'lumotlar tahlili",
+    "D": "Ma'lumotlar xavfsizligi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Oxirgi foydalanuvchidan amaliy dastur orqali olingan so‘rovlarni ko‘rsatmalarga izohlash jarayoni nima deb nomlanadi?",
+    "A": "So‘rovlar protsessori.",
+    "B": "Tranzaksiya menejeri,",
+    "C": "Avtorizatsiya menejeri",
+    "D": "Saqlash menejeri",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ma'lumotlar bazasida saqlangan ma'lumotlar va olingan so‘rovlar o‘rtasidagi interfeysni ta'minlovchi dastur qaysi?",
+    "A": "Saqlash menejeri.",
+    "B": "Avtorizatsiya menejeri",
+    "C": "Integrety Manager",
+    "D": "Tranzaksiya menejeri,",
+    "tugri": "A"
+  },
+  {
+    "savol": "Saqlash menejeri o‘z ichiga qanday komponentlarni oladi?",
+    "A": "Avtorizatsiya menejeri, Integrety Manager, Tranzaksiya menejeri, Fayl menejeri.",
+    "B": "Avtorizatsiya menejeri, Integrety Manager, Tranzaksiya menejeri,",
+    "C": "Avtorizatsiya menejeri, Tranzaksiya menejeri, Fayl menejeri",
+    "D": "Avtorizatsiya menejeri, Integrety Manager, Fayl menejeri",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ma'lumotlar bazasini boshqarish tizimining (DBMS) tuzilishining asosiy asosiy komponentlari qaysilar?",
+    "A": "Ichki daraja, konseptual daraja va tashqi daraja.",
+    "B": "Ichki daraja, va tashqi daraja",
+    "C": "Ichki daraja va konseptual daraja",
+    "D": "Konseptual daraja va tashqi daraja",
+    "tugri": "A"
+  },
+  {
+    "savol": "Iyerarxik ma'lumotlar bazalari odatda tashkilotlarning , shu jumladan bo‘limlar, jamoalar va xodimlarning iyerarxik tuzilishini ifodalash va boshqarish uchun ishlatiladigan tizim nima deb nomlanadi?",
+    "A": "Tashkilot iyerarxiyasi.",
+    "B": "Fayl tizimi",
+    "C": "Mahsulot toifalari",
+    "D": "Iyerarxik ma'lumotlar bazasi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Iyerarxik ma'lumotlar bazalari qanday maqsadlarda qo‘llaniladi?",
+    "A": "Inventarizatsiyani boshqarish tizimlari, moliyaviy tizimlarni yaratish, tarmoqni boshqarish tizimlari.",
+    "B": "Inventarizatsiyani boshqarish tizimlari, moliyaviy tizimlarni yaratish",
+    "C": "Inventarizatsiyani boshqarish tizimlari, tarmoqni boshqarish tizimlari",
+    "D": "Moliyaviy tizimlarni yaratish, tarmoqni boshqarish tizimlari",
+    "tugri": "A"
+  },
+  {
+    "savol": "Microsoft Access komponentlari nimalardan iborat?",
+    "A": "Jadvallar, aloqalar, so‘rovlar, shakllar, hisobotlar, makroslar, modullar.",
+    "B": "So‘rovlar, shakllar, hisobotlar, makroslar, modullar",
+    "C": "Jadvallar, aloqalar, so‘rovlar, shakllar, hisobotlar",
+    "D": "Jadvallar, aloqalar, so‘rovlar, shakllar, modullar",
+    "tugri": "A"
+  },
+  {
+    "savol": "MS Accessda so‘rovlar, shakllar va hisobotlar yaratish qanday amalga oshiriladi?",
+    "A": "\"Create\" (Yaratish) bo‘limidan so‘rovlar (Queries), shakllar (Forms) va hisobotlar (Reports) yaratish imkoniyatlaridan foydalanish mumkin.",
+    "B": "\"Create\" (Yaratish) bo‘limidan so‘rovlar (Queries), shakllar (Forms) imkoniyatlaridan foydalanish mumkin",
+    "C": "\"Create\" (Yaratish) bo‘limidan shakllar (Forms) va hisobotlar (Reports) yaratish imkoniyatlaridan foydalanish mumkin",
+    "D": "\"Create\" (Yaratish) bo‘limidan so‘rovlar (Queries)va hisobotlar (Reports) yaratish imkoniyatlaridan foydalanish mumkin",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kompyuter ishlab chqaruvchilar ichida IBM keyin ikkinchi o‘rinda turuvchi firma qaysi qatorda to‘g‘ri ko‘rsatilgan?",
+    "A": "Apple.",
+    "B": "HP",
+    "C": "Lenova",
+    "D": "ASUS",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kompyuter samaradorligi unumdorlik ko‘rsatkichining o‘lchov birliklari qaysi qatorda to‘g‘ri ko‘rsatilgan?",
+    "A": "MIPS, MFLOPS, GFLOPS.",
+    "B": "bit, bayt, Kbayt",
+    "C": "Mbayt/sekund",
+    "D": "Mbit/sekund",
+    "tugri": "A"
+  },
+  {
+    "savol": "Asosiy xotira saqlash qurilmalarining asosiy ikkita turi qaysi?",
+    "A": "doimiy xotira qurilmasi ROM va tezkor xotira qurilmasi RAM.",
+    "B": "doimiy xotira qurilmasi ROM va Kesh xotira",
+    "C": "Kesh xotira va tezkor xotira qurilmasi RAM",
+    "D": "Doimiy xotira va video xotira",
+    "tugri": "A"
+  },
+  {
+    "savol": "Buferli, foydalanuvchi kira olmaydigan tezkor xotira bo‘lib, tezligi nisbatan past bo‘lgan xotira \nqurilmalarida saqlanuvchi axborot va operatsiyalarni jadallashtirish \nuchun kom pyuter tomonidan avtomatik tarzda ishlatiladigan xotira turi qaysi?",
+    "A": "Kesh-xotira.",
+    "B": "Tezkor xotira",
+    "C": "Doimiy xotira",
+    "D": "Tashqi xotira",
+    "tugri": "A"
+  },
+  {
+    "savol": "ShK barcha qurilmalarining o‘zaro ulanishini va aloqasini ta’minlovchi asosiy shinalar qaysilar?",
+    "A": "manzil shinasi (Address Bus), ma’lumotlar shinasi (Data Bus),  boshqaruv shinasi (Control Bus), ta’minot shinasi (Power Bus).",
+    "B": "ma’lumotlar shinasi (Data Bus),  boshqaruv shinasi (Control Bus), ta’minot shinasi (Power Bus)",
+    "C": "manzil shinasi (Address Bus),  boshqaruv shinasi (Control Bus), ta’minot shinasi (Power Bus)",
+    "D": "manzil shinasi (Address Bus), ma’lumotlar shinasi (Data Bus),  boshqaruv shinasi (Control Bus)",
+    "tugri": "A"
+  },
+  {
+    "savol": "Sonli va simvolli axborot ustida barcha arifmetik va mantiqiy operatsiyalarni bajarish uchun mo‘ljallangan qurilma qaysi?",
+    "A": "Arifmetik-mantiqiy qurilma (AMQ).",
+    "B": "Ichki registrlar (protsessorli xotira)",
+    "C": "Registrlar",
+    "D": "Trigger",
+    "tugri": "A"
+  },
+  {
+    "savol": "Mashina ichidagi haqiqiy vaqt elektron soati nima deb nomlanadi?",
+    "A": "Taymer.",
+    "B": "Clock",
+    "C": "Time",
+    "D": "Time indicator",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kompyuterning kiritish qurilmalari qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "klaviatura, grafik planshetlar (digitayzerlar), skanerlar (o‘qish avtomatlari), sensorli ekranlar.",
+    "B": "klaviatura, sichqoncha, skanerlar (o‘qish avtomatlari), sensorli ekranlar",
+    "C": "klaviatura, grafik planshetlar (digitayzerlar), skanerlar (o‘qish avtomatlari), printer",
+    "D": "klaviatura, sichqoncha, skanerlar (o‘qish avtomatlari), raqamli pero",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tizimli plata o‘z ichiga nimalarni oladi?",
+    "A": "mikroprotsessor;– tizimli mikrosxemalar (chipsetlar);– takt impulslar generatori;– TXQ va DXQ modullari (mikrosxemalar); – CMOS-xotira mikrosxemalari;– klaviatura, QMDJ va EMDJ adapterlari;– uzilish kontrollerlari;– taymer.",
+    "B": "tizimli mikrosxemalar (chipsetlar);– takt impulslar generatori;– TXQ va DXQ modullari (mikrosxemalar); – CMOS-xotira mikrosxemalari;– klaviatura, QMDJ va EMDJ adapterlari;– uzilish kontrollerlari;– taymer",
+    "C": "mikroprotsessor;– tizimli mikrosxemalar (chipsetlar);– takt impulslar generatori;– TXQ va DXQ modullari (mikrosxemalar); – CMOS-xotira mikrosxemalari",
+    "D": "mikroprotsessor;– tizimli mikrosxemalar (chipsetlar);– takt impulslar generatori;– TXQ va DXQ modullari (mikrosxemalar); – uzilish kontrollerlari;– taymer",
+    "tugri": "A"
+  },
+  {
+    "savol": "Turli xil qurilmalarni ulash uchun eng keng tarqalgan va universal interfeys nima deb nomlanadi?",
+    "A": "PCI shinasi (Peripheral Component Interconnect, tashqi komponentlarni ulash).",
+    "B": "Mca shinasi (Micro Channel Architecture) – 32 razryadli shina",
+    "C": "EISA shinasi (Extended ISA) – 32 razryadli ma’lumotlar \nshinasi va 32 razryadli manzillar shinasi",
+    "D": "AGP shinasi (Accelerated Graphics Port – tezlashtirilgan \ngrafik port)",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qattiq magnit disklardagi jamlagich (QMDJ) yoki vinchesterning qisqartmasi qaysi qatorda to‘g‘ri ko‘rsatilgan?",
+    "A": "HDD.",
+    "B": "DDR",
+    "C": "HD",
+    "D": "RAM",
+    "tugri": "A"
+  },
+  {
+    "savol": "Diskni formatlashning qanday turi mavjud?",
+    "A": "– jismoniy yoki quyi darajali formatlash;– mantiqiy yoki yuqori darajali formatlash.",
+    "B": "Oddiy va murakkkab formatlash",
+    "C": "Tez va to‘liq formatlash",
+    "D": "To‘liq va bo‘laklab formatlash",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qattiq diskning formatlanishi qanday bosqichlarda amalga oshiriladi?",
+    "A": "1. Quyi darajali formatlash.\n 2. Diskda bo‘limlarni tashkil etish.\n 3. Yuqori darajali formatlash.",
+    "B": "1. Quyi darajali formatlash.\n2. Yuqori darajali formatlash",
+    "C": "1. Quyi darajali formatlash.\n 2. Diskda bo‘limlarni tashkil etish",
+    "D": "1. Diskda bo‘limlarni tashkil etish.\n 3. Yuqori darajali formatlash",
+    "tugri": "A"
+  },
+  {
+    "savol": "FAT16 tizimiga to‘g‘ri ta'rif berilgan qatorni toping.",
+    "A": "Eng ixcham (minimum xizmat axboroti) va \ntez tizim.",
+    "B": "katta hajmli disklarga mo‘ljallangan FAT16 \ntizimining takomillashtirilgan versiyasi",
+    "C": "Windows NT operatsion tizimi uchun yaratilgan.",
+    "D": "Barcha ta'riflar to‘g‘ri",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kengaytirilgan Windows klaviaturasida nechta tugmalar mavjud?",
+    "A": "104 ta.",
+    "B": "101 ta",
+    "C": "84 ta",
+    "D": "83 ta",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tasvirni (matnni) avtomatik tarzda kompyuterga kiritish qurilmasi, ya’ni kiritilayotgan obyektning \nraqamli tasvir nusxasini yaratadigan qurilma qaysi?",
+    "A": "Skaner.",
+    "B": "Printer",
+    "C": "Digitayzer",
+    "D": "Raqamli pero",
+    "tugri": "A"
+  },
+  {
+    "savol": "Skanerlarning asosiy ko‘rsatkichlari  qaysi qatorda to‘g‘ri ko‘rsatilgan?",
+    "A": "Optik ruxsat berish, Mantiqiy ruxsat berish, Skanerlash tezligi, Razryadligi yoki rang chuqurligi.",
+    "B": "Optik ruxsat berish, Mantiqiy ruxsat berish, Skanerlash tezligi, Bosib chiqarish tezligi",
+    "C": "Optik ruxsat berish, Mantiqiy ruxsat berish, Bosib chiqarish tezligi",
+    "D": "Optik ruxsat berish, Skanerlash tezligi, Razryadligi yoki rang chuqurligi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Foydalanuvchining qo‘l \nharakati orqali grafik ma’lumotlarni kompyuterga kiritish imkonini beruvchi qurilma qaysi?",
+    "A": "Grafik planshet (digitayzer).",
+    "B": "Raqamli pero",
+    "C": "Planshet",
+    "D": "Skaner",
+    "tugri": "A"
+  },
+  {
+    "savol": "Olinadigan tasvirning rangiga qarab printerlarni qanday turlarga bo‘linadi?",
+    "A": "bir rangli, ko‘p rangli va to‘liq rangli.",
+    "B": "bir rangli va to‘liq rangli",
+    "C": "bir rangli ko‘p rangli",
+    "D": "ko‘p rangli va to‘liq rangli",
+    "tugri": "A"
+  },
+  {
+    "savol": "Modem ulanishi uchun kirish-chiqish porti qaysi qatorda to‘g‘ri ko‘rsatilgan?",
+    "A": "MPC-3 Modem in/out.",
+    "B": "MPC-3 Aux-in",
+    "C": "MPC-3 Modem in",
+    "D": "MPC-3 Modem out",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kompyuterning axborotni aks etuvchi tizimining asosiy \nkomponentlari qaysi?",
+    "A": "Monitor va videoadapter.",
+    "B": "Grafik adapter yoki videokarta",
+    "C": "Displey yoki monitor",
+    "D": "Raqamli, analogli, multichastotali va suyuq kristalli monitorlar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tasvirlar ko‘rinishiga aylanuvchi signallarni uzatish orqali \nkompyuter bilan monitor orasidagi interfeysni ta’minlovchi qurilma qaysi?",
+    "A": "Videoadapter.",
+    "B": "Displey",
+    "C": "Adapter",
+    "D": "VGA",
+    "tugri": "A"
+  },
+  {
+    "savol": "Videoadapterlarning standartlari qaysi qatorda to‘g‘ri ko‘rsatilgan?",
+    "A": "MDA, HGC, CGA, EGA, VGA, SVGA, XGA, UGA.",
+    "B": "MDA, HGC, CGA, EGA, RGB, SVGA, XGA, UGA",
+    "C": "MDA, HGC, mp3, EGA, VGA, SVGA, XGA, UGA",
+    "D": "AVI, HGC, CGA, EGA, VGA, SVGA, XGA, UGA",
+    "tugri": "A"
+  },
+  {
+    "savol": "Videoadapterning ish faoliyati uchun qanday komponentlar \nbo‘lishi kerak?",
+    "A": "– Video-BIOS;– grafik protsessor;– videoxotira;– raqamli-analogli o‘zgartirgich (DAC);– razyom;– videodrayver.",
+    "B": "– Video-BIOS; – videoxotira;– raqamli-analogli o‘zgartirgich (DAC);– razyom;– videodrayver",
+    "C": "– grafik protsessor;– videoxotira;– raqamli-analogli o‘zgartirgich (DAC);– razyom;– videodrayver",
+    "D": "– Video-BIOS;– grafik protsessor;– videoxotira; –razyom;– videodrayver",
+    "tugri": "A"
+  },
+  {
+    "savol": "Web-kamera tarkibiga qanday \nkomponentlar kiradi?",
+    "A": "PZS-matritsa, Obyektiv, videoqamrov platalari, videotasvirni kompressiyalash (siqish) bloki, markaziy protsessor, tezkor xotira qurilmasi, flesh-xotira, tarmoq interfeysi.",
+    "B": "videoqamrov platalari, videotasvirni kompressiyalash (siqish) bloki, markaziy protsessor, tezkor xotira qurilmasi, flesh-xotira, tarmoq interfeysi",
+    "C": "PZS-matritsa, videotasvirni kompressiyalash (siqish) bloki, markaziy protsessor, tezkor xotira qurilmasi, flesh-xotira, tarmoq interfeysi",
+    "D": "PZS-matritsa, Obyektiv, videoqamrov platalari, videotasvirni kompressiyalash (siqish) bloki, flesh-xotira, tarmoq interfeysi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Lokal tarmoqning boshqa kompyuterlari bilan emas, faqat server bilan ulangan kompyuter nima deb nomlanadi?",
+    "A": "Mijoz-kompyuter.",
+    "B": "Mijoz-server",
+    "C": "Mijoz-server tarmog‘i",
+    "D": "Server vazifasini bajaruvchi mijoz kompyuter",
+    "tugri": "A"
+  },
+  {
+    "savol": "Basic Input/Output System – kiritish chiqarishning asosiy tizimi qaysi qatorda to‘g‘ri ko‘rsatilgan?",
+    "A": "BIOS.",
+    "B": "ROM BIOS",
+    "C": "SETUP BIOS",
+    "D": "BIOS SETUP",
+    "tugri": "A"
+  },
+  {
+    "savol": "BIOS SETUP interfeysiga kirish qanday amalga oshiriladi?",
+    "A": "Kompyuterni yuklashning dastlabki bosqichida klaviaturadan aniq bir tugmani (ko‘pincha DELETE tugmasini) \nbosish kerak.",
+    "B": "Ctrl+Alt+Delete tugmalari kombinatsiyasi orqali kiriladi",
+    "C": "Shift+R yoki Windows+R tugmalar kombinatsiyasi orqali kiriladi",
+    "D": "Kompyuterni yuklashning dastlabki bosqichida klaviaturadan PAGE UP yoki PAGE DOWN\nbosish kerak",
+    "tugri": "A"
+  },
+  {
+    "savol": "Operatsion tizim bilan qurilmalarning o‘zaro aloqasi uchun qo‘llaniladigan dasturiy vositachi nima deb nomlanadi?",
+    "A": "Drayver.",
+    "B": "Amaliy dasturlar paketi",
+    "C": "Interfeys",
+    "D": "Windowsning standart drayverlari",
+    "tugri": "A"
+  },
+  {
+    "savol": "Multimedialovchi komponentlar qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "matn, audio, tasvir, animatsiya, video, interaktivlik.",
+    "B": "matn, audio, tasvir, animatsiya, video, interaktivlik, kompyuter",
+    "C": "matn, audio, tasvir, animatsiya, video, interaktivlik, kompyuter komponentlari",
+    "D": "matn, audio, tasvir, animatsiya, video, interaktivlik, multimedia vositalari",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ma'lumotlar qanday ko‘rinishlarda bo‘lishi mumkin?",
+    "A": "analog va raqamli.",
+    "B": "uzlikli va uzliksiz",
+    "C": "yolg‘on va xaqiqiy",
+    "D": "Ishonchli va fayk",
+    "tugri": "A"
+  },
+  {
+    "savol": "Elastik muhitda tarqalgan va odam qulog'i tomonidan qabul qilinadigan mexanik tebranishlar nima deb ataladi?",
+    "A": "Ovoz.",
+    "B": "Chastota",
+    "C": "Amplituda",
+    "D": "Dinamik diapazon",
+    "tugri": "A"
+  },
+  {
+    "savol": "Chastota -sondagi tebranishlar soni birligi nima bilan o‘lchanadi?",
+    "A": "Herts(Hz),sekundigato'g'ri haqida  tebranishlar soni (1 kHz  = 1000 Hz).",
+    "B": "detsiBel(dB-Belolimninomi)",
+    "C": "MegaGers",
+    "D": "DetsiBall",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tovushlash uzb o'tgan va uzb baland chegara miqdorni   detsiBel da ifodalangan nisbiy ko'rsatkichi nima deb ataladi?",
+    "A": "Dinamik diapazon.",
+    "B": "Ovoz",
+    "C": "Chastota",
+    "D": "Amplituda",
+    "tugri": "A"
+  },
+  {
+    "savol": "Videomaterial kadrlarini bosqichma-bosqich qatorlarda skanerlash (yoyish yoki o'qish) nima deb nomlanadi?",
+    "A": "Qatorora skanerlash (razvertka).",
+    "B": "Progressiv skanerlash",
+    "C": "Rezolyutsiya-Ruxsat berish imkoni",
+    "D": "Ekranlash nisbati (aspekt nisbati)",
+    "tugri": "A"
+  },
+  {
+    "savol": "Evropada va Uzbekistonda analogg rangli televizor uchunhaqida video standart bo'lib,  video o'lchami 720x576, sahifa 25 fps(ramka per second- sekundiga 25 kadr) tashkil qilardi. Gap qaysi video standarti haqida borayapti?",
+    "A": "PAL.",
+    "B": "NTSC",
+    "C": "AVI",
+    "D": "MPEG",
+    "tugri": "A"
+  },
+  {
+    "savol": "Video fayllar kengaytmalari qaysi qatorda to‘g‘ri ko‘rsatilgan?",
+    "A": "WMV, MOV, MKV, 3gp, FLV, SWF.",
+    "B": "WMV, MOV, MKV, 3gp, FLV, SWF, mp3",
+    "C": "WMV, MOV, MKV, 3gp, FLV, SWF, jpeg",
+    "D": "WMV, MOV, MKV, 3gp, FLV, SWF, pnj, jpg",
+    "tugri": "A"
+  },
+  {
+    "savol": "Raqamli  ekvolayzer nima uchun xizmat qiladi?",
+    "A": "Tovush  temblarini  o`zgartirish  uchun  xizmat qiladi.",
+    "B": "Qog‘ozdagi ma'lumotlarni kompyuter xotirasiga kiritish uchun",
+    "C": "Raqamli pero orqali tasvirlarni to‘g‘ridan-to‘g‘ri kompyuter xotirasiga kiritishga xizmat qiladi",
+    "D": "Ma'lumotlarni bulutga asoslangan xotirada saqlashga xizmat qiladi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Raqamli  signalni  qayta  ishlashni  amalga oshiradigan  markaziy  blok nima deb nomlanadi?",
+    "A": "Audio  protsessor.",
+    "B": "Video karta",
+    "C": "Tarmoq kartasi",
+    "D": "USB karta",
+    "tugri": "A"
+  },
+  {
+    "savol": "TAD  (Telephone  Answering  Device)  deb nomlangan  ikki  tomonlama  port nima deb nomlanadi?",
+    "A": "Telefon  porti.",
+    "B": "CD  Audio  stereo kirishi",
+    "C": "audio  protsessor",
+    "D": "Audio  protsessor",
+    "tugri": "A"
+  },
+  {
+    "savol": "Signalni  tovushga  aylantirish  samaradorligining o'lchovi qaysi?",
+    "A": "Sezuvchanlik  (dB).",
+    "B": "Chastota  diapozoni  (Hz)",
+    "C": "Nominal impedansi(qarshiligi) (om)",
+    "D": "To‘g‘ri javob berilmagan",
+    "tugri": "A"
+  },
+  {
+    "savol": "Elektrodinamik (g'altakli) mikrofonlarning afzalliklari nimalarda aks etadi?",
+    "A": "Yaxshi elektroakustik xususiyati; qurilmaning soddaligi; arzonligi; quvvat manbai talab qilinmasligi; kichik vazn va o'lchamlaridir.",
+    "B": "Yaxshi elektroakustik xususiyati; qurilmaning soddaligi; arzonligi; kichik vazn va o'lchamlaridir",
+    "C": "Yaxshi elektroakustik xususiyati; qurilmaning soddaligi; arzonligi; quvvat manbai talab qilinmasligi",
+    "D": "Yaxshi elektroakustik xususiyati; qurilmaning soddaligi; kichik vazn va o'lchamlaridir",
+    "tugri": "A"
+  },
+  {
+    "savol": "HDMI (High Definition Multimedia Interface) nima uchun ishlatiladi?",
+    "A": "Video va ko'p kanalli audioni signalni raqamli shaklda uzatish uchun ishlatiladi.",
+    "B": "Raqamli va analogli video signallarni uzatish imkonini beradi",
+    "C": "Tasvir  elementlarini  -  tasvirning  umumiy  sifatini yaxshilashi  mumkin  bo'lgan  teksturalarni  qayta  ishlashga xizmat qiladi",
+    "D": "Bir nechta tekstura tugunlari tizim ish faoliyatini yaxshilashga xizmat qiladi",
+    "tugri": "A"
+  },
+  {
+    "savol": "LCD monitor nimalardan iborat?",
+    "A": "Kirish video signaliga ishlov beruvchi elektronikadan; LCD matritsasi; orqa yorug'lik(nur manbai) moduli; quvvat manbai; korpus.",
+    "B": "LCD matritsasi; orqa yorug'lik(nur manbai) moduli; quvvat manbai; korpus",
+    "C": "Kirish video signaliga ishlov beruvchi elektronikadan; orqa yorug'lik(nur manbai) moduli; quvvat manbai",
+    "D": "Kirish video signaliga ishlov beruvchi elektronikadan; LCD matritsasi; quvvat manbai; korpus",
+    "tugri": "A"
+  },
+  {
+    "savol": "Lazerli printerlarda tasvirni hosil qilish jarayoni qanday bosqichdan iborat?",
+    "A": "zaryadlash; tasvirni hosil qilish (экспонирование);  chiqarish; o'tkazish; tozalash: mahkamlash.",
+    "B": "zaryadlash; tasvirni hosil qilish; o'tkazish; tozalash: mahkamlash",
+    "C": "zaryadlash; tasvirni hosil qilish (экспонирование);  chiqarish; mahkamlash",
+    "D": "zaryadlash; chiqarish; o'tkazish; tozalash: mahkamlash",
+    "tugri": "A"
+  },
+  {
+    "savol": "Lazerli printerlarning asosiy xususiyatlari qaysilar?",
+    "A": "rezolyutsiya  yoki  ruxsatlilik  qobiliyati; bosib  chiqarish  tezligi; qog'oz o'lchami; rangli bosma  mavjudligi.",
+    "B": "rezolyutsiya  yoki  ruxsatlilik  qobiliyati; bosib  chiqarish  tezligi; rangli bosma  mavjudligi",
+    "C": "bosib  chiqarish  tezligi; qog'oz o'lchami; rangli bosma  mavjudligi",
+    "D": "rezolyutsiya  yoki  ruxsatlilik  qobiliyati; bosib  chiqarish  tezligi; qog'oz o'lchami",
+    "tugri": "A"
+  },
+  {
+    "savol": "Skanerlarning turlari qaysi qatorda to‘g‘ri ko‘rsatilgan?",
+    "A": "Planshetli  skanerlar, Qo'l skanerlari, Varaqli skanerlar, Planetar skanerlar, Slayd  skanerlari, Barabanli  skanerlar.",
+    "B": "Planshetli  skanerlar, Planetar skanerlar, Slayd  skanerlari, Barabanli  skanerlar",
+    "C": "Planshetli  skanerlar, Qo'l skanerlari, Varaqli skanerlar, Barabanli  skanerlar",
+    "D": "Planshetli  skanerlar, Qo'l skanerlari, Slayd  skanerlari, Barabanli  skanerlar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Raqamli fotokameraning  rezalutsiyasi (taminlavchi aniqligi)  deb u olishi mumkin bo'lgan gorizontal va vertikal rasm element (piksel)lari soniga asoslangan  o'lchamlarga nima deb ataladi?",
+    "A": "Rezalutsiya.",
+    "B": "Rang  chuqurligi",
+    "C": "Rang diapazoni",
+    "D": "Ranglar palitrasi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kompakt disk (CD) larning diametri o‘lchami qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "120 yoki 80 mm.",
+    "B": "780 mm",
+    "C": "120 mm",
+    "D": "80 mm",
+    "tugri": "A"
+  },
+  {
+    "savol": "CD-R disklar qanday disk turi?",
+    "A": "Bir  marta  yoziladigan  lazerli  disk  (yozilgan  CD-R  dagi ma'lumotlarni o'zgartirib bo'lmaydi).",
+    "B": "U o'chiriladigan raqamli optik disk, qattiq magnit disk kabi ishlaydi faqat, bitta diskda ma'lumotlarni qayta yozish imkonini beruvchi magnit-optik texnologiyadan foydalanilgan",
+    "C": "Videofilmlarni  raqamli  yozib  olish  va  ijro  etish  uchun  mo'ljallangan kompakt disk turi",
+    "D": "Fotosuratlarni (va  undan  keyin  -  grafika  va ovozni) saqlash va ularni disk qurilmalari yordamida televizorda ko’rsatish vositasi",
+    "tugri": "A"
+  },
+  {
+    "savol": "DVD disklarga maksimoal ma'lumot yozish hajmi qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "4,7 Gb.",
+    "B": "730 Mb",
+    "C": "700 Mb",
+    "D": "144 Mb",
+    "tugri": "A"
+  },
+  {
+    "savol": "DVD /CD-RW ga to‘g‘ri ta'rif berilgan qatorni toping",
+    "A": "bu  CD  va  DVD  disklarini  o'qishdan  tashqari,  CD-R (RW) ga yozishga qodir bo'lgan kombinatsiyalangan diskovod.",
+    "B": "faqat  CD  va  DVD  disklarini  o'qish  uchun  mo'ljallangan diskovod",
+    "C": "kompakt disklarni o'qishdan tashqari, CD-R (RW) ga yozish imkoniga ega qurilma",
+    "D": "bu BD (Blue-Ray) disklarini o'qish va yozish imkoniyatiga ega diskovod",
+    "tugri": "A"
+  },
+  {
+    "savol": "MIDI  formatiga qaysi javobda to‘g‘ri izoh berilgan?",
+    "A": "Barcha  ovoz kartalari, yozish  va ijro etish kanalidan tashqari,  MIDI (Musical Instruments Digital Interlace  -  Musiqa  asboblari raqamli interfeysi) formatida ishlaydigan sintezator kanalini o'z ichiga oladi. Sintezator  qanday  ishlashining  ikkita  asosiy  printsipi  mavjud.",
+    "B": "MIDI  formatining  xususiyatlaridan  biri  yuqori  ovoz sifati  bilan  yozilgan  faylning  ixchamligidir,  shuning  uchun  ushbu standartdagi  fayllarni siqish haqida  hech  qanday  savol  tug'ilmaydi",
+    "C": "Chiziqli  impuls-kodli modulyatsiya(linear  PCM)    Windows-dagi  asosiy  audio  siqish  usuli hisoblanadi",
+    "D": "1991-yillarda  MPEG  Loyer  3  (MP3)  formati  taklif qilindi, u hali  ham musiqa  ixlosmandlari orasida juda  mashhurdir",
+    "tugri": "A"
+  },
+  {
+    "savol": "Video fayl formatlari qaysi qatorda to‘g‘ri ko‘rsatilgan?",
+    "A": "AVI, ASF, WMV, MOV, MKV, 3gp, DivX, Xvid.",
+    "B": "AVI, ASF, WMV, MOV, MKV, JPEG, DivX, Xvid",
+    "C": "AVI, ASF, PNJ, MOV, MKV, 3gp, DivX, Xvid",
+    "D": "AVI, BMP, WMV, MOV, MKV, 3gp, DivX, Xvid",
+    "tugri": "A"
+  },
+  {
+    "savol": "Internetda ishlatiladigan video formatlari qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "FLV, SWF, ReaVideo, RM, RA, RAM.",
+    "B": "FLV, SWF, TIFF, RM, RA, RAM",
+    "C": "GIF, SWF, ReaVideo, RM, RA, RAM",
+    "D": "FLV, SWF, ReaVideo, RM, RA, Mp3",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kodlash  standartlar deb nimaga aytiladi?",
+    "A": "Tarmoq  orqali  keyingi  uzatish  uchun  media ma'lumotlarini tayyorlaydigan dasturiy ta'minot komponenti kodlovchi deb ataladi.",
+    "B": "Multimedia faylni o'zgartiradi yoki uni oqim uchun mos keladigan yuqori siqish nisbati  formatida  real vaqtda chiqaradi",
+    "C": "Talab bo'yicha oqimda kodlovchi siqilgan faylni yaratadi, so'ngra u serverdagi tegishli katalogga ko'chiradi",
+    "D": "Webcast serveridan \n jonli efirni tashkil qilish uchun kodlovchi media",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ovozli  qurilmalarni  boshqarish  dasturi qanday imkoniyatlarga ega?",
+    "A": "Turli  manbalardan olingan  audio  signalni  yozib  olish  va  ijro  etish  darajasini,  ovozni  qayta ishlab chiqarish sifatini sozlash, ovoz effektlarini operatsion tizimdagi turli hodisalar (Ovozlar yorlig'i) va boshqalar bilan ko'proq solishtirish imkonini beradi.",
+    "B": "Aniq manbadan olingan  audio  signalni  yozib  olish  va  ijro  etish  darajasini,  ovozni  qayta ishlab chiqarish sifatini sozlash, ovoz effektlarini operatsion tizimdagi turli hodisalar (Ovozlar yorlig'i) va boshqalar bilan ko'proq solishtirish imkonini beradi",
+    "C": "Aniq manbadan olingan  audio  signalni  yozib  olish  va  ijro  etish  darajasini,  ovozni  qayta ishlab chiqarish sifatini sozlash imkonini beradi",
+    "D": "Turli  manbalardan olingan  audio  signalni  yozib  olish  va  ijro  etish  darajasini,  ovozni  qayta ishlab chiqarish sifatini sozlash imkonini beradi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Sound Forge ovoz muharririda ovoz yoxishni boshlash uchun qaysi buyruqdan foydalaniladi?",
+    "A": "Yozish(Record).",
+    "B": "Ctrl+R",
+    "C": "Yaratish(Create)",
+    "D": "Zapis",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kompyuter  grafikasida foydalaniladigan asosiy 3 ta rang tizimi qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "RGB, CMYK, HVS.",
+    "B": "Jpeg, PNG, TIFF",
+    "C": "JPG, BMP,GIFF",
+    "D": "BMP, TIFF, GIFF",
+    "tugri": "A"
+  },
+  {
+    "savol": "Grafik tasvirlar turlari qaysi qatorda to‘g‘ri ko‘rsatilgan?",
+    "A": "Rastrli, vektorli, fraktal.",
+    "B": "RGB, CMYK, HVS",
+    "C": "2 va 3 o‘lchamli",
+    "D": "Tekislik va fazodagi tasvirlar",
+    "tugri": "A"
+  },
+  {
+    "savol": "IMG formati fayl kengaytmasi qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "*.IMG.",
+    "B": "*.JPEG",
+    "C": "*.GIFF",
+    "D": "*.TIFF",
+    "tugri": "A"
+  },
+  {
+    "savol": "PhotoShop  va  PageMaker  larni  yaratgan kompaniya  tomonidan  ishlab  chiqilgan  vektor  grafikasi  dasturi qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "Adobe Illustrator.",
+    "B": "Adobe Photoshop",
+    "C": "3D Max",
+    "D": "Corel Draw",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ranglar  chuqurligi  (Color  depth  -Глубина  цвета) nima?",
+    "A": "rangga ajratilgan  bitlar  soni  hisoblanadi.",
+    "B": "bu barcha ikkilik tizimdagi  kompyuterlar va hisoblash qurilmalari ma'lumotlarida ishlatiladigan minimal miqdor bo’lib,  nol yoki birga teng ikkita qiymatni qabul qilishi mumkin",
+    "C": "Ranglar palitrasidagi rang imkoniyatlarini belgilaydi",
+    "D": "Tasvirning rang yorqinligini ifodalaydi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Larry Roberts tomonidan elеktron pochta uchun birinchi dastur yaratilgan yil qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "1972 - yil.",
+    "B": "1954-yil",
+    "C": "1986-yil",
+    "D": "1974-yil",
+    "tugri": "A"
+  },
+  {
+    "savol": "ARPA net tarmog‘i birinchi bor ishga tushganda o‘zida nechta kompyutеrni birlashtirgan edi?",
+    "A": "4 ta.",
+    "B": "2 ta",
+    "C": "16 ta",
+    "D": "14 ta",
+    "tugri": "A"
+  },
+  {
+    "savol": "ARPA – (Advanced Research Projects Agency) ilg`or izlanishlar agеntligi nechanchi yili tuzilgan edi?",
+    "A": "1958-yil.",
+    "B": "1962-yil",
+    "C": "1974-yil",
+    "D": "1971-yil",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tarmoqdagi kompyutеrlarni bir-biri bilan bog`lash uchun TCP – \nTransmission Control Protocol taklif qilingan yil qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "1974-yil.",
+    "B": "1958-yil",
+    "C": "1989-yil",
+    "D": "1991-yil",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tеzligi 56 kb/s bo`lgan birinchi intеrnеt magistrali nechanchi yili ishga tushirilgan?",
+    "A": "1986-yil.",
+    "B": "1989-yil",
+    "C": "1995-yil",
+    "D": "2001-yil",
+    "tugri": "A"
+  },
+  {
+    "savol": "Internet Blackbone yoki \"internetning asosi\" deb \nataladigan tarmoq qaysi?",
+    "A": "NSFNET.",
+    "B": "ARPA net",
+    "C": "JANET",
+    "D": "EUNET",
+    "tugri": "A"
+  },
+  {
+    "savol": "Biror bir sohaga, faoliyatga, voqеa va hodisaga bag`ishlangan \nma'lumotlarni o`zida jamlagan Intеrnеt sahifalar majmui nima deb nomlanadi?",
+    "A": "Web saty.",
+    "B": "Web sahifa",
+    "C": "Internet provayder",
+    "D": "Internet protokoli",
+    "tugri": "A"
+  },
+  {
+    "savol": "Intеrnеt tarmog`i xizmatlaridan foydalanishni ta'minlab \nbеruvchi yuridik shaxs nima deb nomlanadi?",
+    "A": "Internet provayder.",
+    "B": "Internet protokoli",
+    "C": "Web saty",
+    "D": "Web sahifa",
+    "tugri": "A"
+  },
+  {
+    "savol": "Intеrnеt tarmog`i orqali tеzkor ma'lumotlar va xabarlar \nalmashish tizimi nima deb ataladi?",
+    "A": "Elektron pochta.",
+    "B": "Chat",
+    "C": "Intеrnеt konfеrеntsiya",
+    "D": "Forum",
+    "tugri": "A"
+  },
+  {
+    "savol": "Intеrnеt tarmog`i orqali turli toifadagi masalalarni o`zaro muhokama qilish tizimi qanday nom bilan yuritiladi?",
+    "A": "Forum.",
+    "B": "Elektron pochta",
+    "C": "Chat",
+    "D": "Intеrnеt konfеrеntsiya",
+    "tugri": "A"
+  },
+  {
+    "savol": "Intеrnеt tarmog`ida joylashtirilgan axborot rеsurslarining murojaat manzillari nima deb nomlanadi?",
+    "A": "Intеrnеt manzil (URL).",
+    "B": "Wеb brouzеrlar",
+    "C": "Intеrnеt provaydеr",
+    "D": "Elеktron pochta",
+    "tugri": "A"
+  },
+  {
+    "savol": "IP manzil va \nkompyutеrlarning domеn ko`rinishidagi nomlari bilan ishlashni tashkil qilish uchun \nprogramma joylashtirilgan kompyutеrining IP manzili qayerda saqlanadi?",
+    "A": "DNS sеrvеrda.",
+    "B": "SMPT da",
+    "C": "Proxy serverda",
+    "D": "Mirror sеrvеrlarda",
+    "tugri": "A"
+  },
+  {
+    "savol": "Аoydalanuvchi ularga ulanishi bilan darhol xizmat ko`rsatishga tayyor bo`lgan xizmat turlari nima deb nomlanadi?",
+    "A": "Online xizmatlar.",
+    "B": "Offline xizmatlar",
+    "C": "Interaktiv xizmatlar",
+    "D": "Masofaviy xizmatlar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Noutbuklar simsiz tarmoq kartalari yordamida mahalliy tarmoqqa ulanishi yoki intеrnеtga bog`lanishida qaysi standart asosida tarmoqqa ulanadi?",
+    "A": "Wi Fi (802.11).",
+    "B": "Wi Fi (802.1)",
+    "C": "Blutooth (802.11)",
+    "D": "Wi Fi (802.01)",
+    "tugri": "A"
+  },
+  {
+    "savol": "Bir signalni uzatish uchun uni еtkazuvchi dеb ataladigan \nikkinchi signalga qo`shish jarayoniga nima deb ataladi?",
+    "A": "Modulyatsiya.",
+    "B": "Dеmodulyatsiya",
+    "C": "Hayes",
+    "D": "An'anaviy (dial-up) usuli",
+    "tugri": "A"
+  },
+  {
+    "savol": "Intеrnеtga uyali tеlеfon orqali chiqishning asosiy usuli qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "WAP (Wireless Access \nProtocol – simsiz ulanish protokoli).",
+    "B": "MSN (Mechanical Serial Number – mеxanik raqam)",
+    "C": "ESN (Electron Serial Number – elеktron raqam)",
+    "D": "WML (Wireless Markup Language – simsiz ulanish hoshiyalash tili)",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kompyutеr, tеlеfon, cho`ntak kompyutеrlari va hatto maishiy va ro`zg`or buyumlarini bir biri bilan bog`lanishi imkonini beruvchi qurilma qaysi?",
+    "A": "Bluetooth.",
+    "B": "WI FI",
+    "C": "Router",
+    "D": "Modem",
+    "tugri": "A"
+  },
+  {
+    "savol": "Wi Fi tarmog`i bir nеcha kirish nuqtasiga va stantsiyalarga ega bo`lib, Stantsiyalar o`z joylarini o`zgartirishlari va bir kirish nuqtasi o`rniga ikkinchisiga ulanishlari mumkin. Bunday stantsiyalar va kirish nuqtalari nima deb nomlanadi?",
+    "A": "ESS (Extended Service Set – kеngaytirilgan xizmatlar to`plami).",
+    "B": "ACK (Acknowledgment – tasdiq)",
+    "C": "CTS (Clear to send – jo`natish uchun bo`sh)",
+    "D": "PP (Peer to Peer – \ntеng kuchli)",
+    "tugri": "A"
+  },
+  {
+    "savol": "World wide Interoperability for Microwave Access – \nmikroto`lqinli butun olam bog`lanishi qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "Wi Max.",
+    "B": "WI Fi",
+    "C": "Bluetooth",
+    "D": "Router",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tеlеko`rsatuvlarni tarmoq orqali uzatishga nima deb aytiladi",
+    "A": "IP TV.",
+    "B": "TV Tyuner",
+    "C": "IPv4",
+    "D": "IPv6",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tarmoqdagi kompyutеrlar xakеrlardan va viruslardan himoya qilinishida nimadan foydalaniladi?",
+    "A": "Firewall (olovli dеvor) dan foydalanadi.",
+    "B": "Antivirus dasturlaridan",
+    "C": "Windows Defonder dan",
+    "D": "Tarmoq devorlaridan",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kompyuter tarmoqlarini yaratishda qanday tarmoq qurilamalridan foydalaniladi?",
+    "A": "Hub yoki marshrutizator.",
+    "B": "Wi Fi yoki router",
+    "C": "Switch va router",
+    "D": "Hub yoki Wi Fi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Bir vaqtning o’zida bir nеcha foydalanuvchining Intеrnеt orqali muloqoti nima deb ataladi?",
+    "A": "Chat.",
+    "B": "Komfrensiya",
+    "C": "IRC: Internet Relay Chat – Intеrnеtda uzatiladigan suhbat",
+    "D": "IM: Instant Messaging – bir zumda еtkaziladigan xabarlar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Google kompaniyasi tomnidan ishlab chiqilgan tеzkor rеal vaqt tizimida xabarlarni almashish dasturi qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "Google Talk dasturi.",
+    "B": "Tvittеr ommaviy axborotlarni jo’natish tizimi",
+    "C": "Mail Agеnt dasturi",
+    "D": "Skayp dasturi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Masofaviy ta'limning metodik yutuqlar va afzalliklariga nimalar kiradi?",
+    "A": "Dars jadvalni qulayligi, Qulay foydalanish manzillari, Qulay o`qish tempi, Qulay o`quv reja, Ma'lumotlar bazasini to`planishi, Ko‘rgazmali qulayliklari, Malakali o`qituvchilarni tanlab ta'lim jarayoniga jalb qilish.",
+    "B": "Dars jadvalni qulayligi, Qulay foydalanish manzillari, Qulay o`qish tempi, Qulay o`quv reja, Ma'lumotlar bazasini to`planishi, Ko‘rgazmali qulayliklari",
+    "C": "Dars jadvalni qulayligi, Qulay foydalanish manzillari, Qulay o`qish tempi, Qulay o`quv reja, Malakali o`qituvchilarni tanlab ta'lim jarayoniga jalb qilish",
+    "D": "Dars jadvalni qulayligi, Qulay foydalanish manzillari,  Ma'lumotlar bazasini to`planishi, Ko‘rgazmali qulayliklari, Malakali o`qituvchilarni tanlab ta'lim jarayoniga jalb qilish",
+    "tugri": "A"
+  },
+  {
+    "savol": "INTERAKTIV bo`lmagan texnologiyalar qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": ".Video, audio va bosmaga chiqarilgan materiallar; \nTelevizion va radio ko`rsatuvlar;\nDisklarda joylashgan dasturlar.",
+    "B": "Internet masofaviy ta'lim portali; \nVideo va audio konferentsiyalar; \nElektron pochta orqali ta'lim.",
+    "C": "Uzoqdan boshqarish sistemalar; \nOnlayn simulyator va o`quv dasturlar; \nTest topshirish sistemalari.",
+    "D": "Video va audio konferentsiyalar; \nElektron pochta orqali ta'lim; \nInternet orqali mustaqil ta'lim olish.",
+    "tugri": "A"
+  },
+  {
+    "savol": "O’zbеkiston zonasida opеratsiyalarni amalga oshirish uchun UZSning Y hamyondagi ekvivalеnti qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "WMY.",
+    "B": "WMR",
+    "C": "WMZ",
+    "D": "WME",
+    "tugri": "A"
+  },
+  {
+    "savol": "O’zbеkiston Rеspublikasi tovar hom\nashyo birjasining to’lov tizimi qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "iPAY.",
+    "B": "PAYNET",
+    "C": "WEBMONEY",
+    "D": "IntellectMoney",
+    "tugri": "A"
+  },
+  {
+    "savol": "Shaxsiy kompyutеr orqali UzEx savdo maydonchalarida savdo qilish imkoniyatini bеruvchi global milliy savdo maydonchasi qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "UzEx intеrnеt birja.",
+    "B": "Uzbek.com",
+    "C": "iPAY tizimi",
+    "D": "WEBSUM elеktron to’lov tizimi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Web-sahifaning interaktiv dasturi nima deb ataladi?",
+    "A": "ssenariy.",
+    "B": "klient-server",
+    "C": "ssenariyli tillar",
+    "D": "interaktiv texnalogiya",
+    "tugri": "A"
+  },
+  {
+    "savol": "JavaScript tilida qanday operator sinflaridan foydalaniladi?",
+    "A": "Unar, binar, alohida bitlar bilan ishlash, munosabat, mantiqiy, o‘zlashtirish.",
+    "B": "Unar, binar, alohida bitlar bilan ishlash,  mantiqiy, o‘zlashtirish",
+    "C": "Unar, binar, munosabat, mantiqiy, o‘zlashtirish",
+    "D": "Alohida bitlar bilan ishlash, munosabat, mantiqiy, o‘zlashtirish",
+    "tugri": "A"
+  },
+  {
+    "savol": "JavaSkript da massiv e'lon qilish qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "var array-name = [massiv tanasi.];",
+    "B": "var cars=[matiz, nexia, spark];",
+    "C": "var array-name = [massiv tanasi]",
+    "D": "var cars=[\"matiz\", \"nexia\", \"spark\"]",
+    "tugri": "A"
+  },
+  {
+    "savol": "PHP tilida o‘zgarmaslar qaysi funksiya yordanimida aniqlanadi?",
+    "A": "define().",
+    "B": "const()",
+    "C": "$()",
+    "D": "<?",
+    "tugri": "A"
+  },
+  {
+    "savol": "HTML da sarlavha tegi qaysi teg xisoblanadi?",
+    "A": "TITLE.",
+    "B": "HEAD",
+    "C": "BODY",
+    "D": "HTML",
+    "tugri": "A"
+  },
+  {
+    "savol": "HTML da dasturning asosiy tana qismini qaysi teg o‘z ichiga oladi?",
+    "A": "<BODY>Body.</BODY>",
+    "B": "<HTML>HTML</HTML>",
+    "C": "<TITLE>TITLE</TITLE>",
+    "D": "<HEAD>HEAD</HEAD>",
+    "tugri": "A"
+  },
+  {
+    "savol": "HTML da hujjat fon rangini qaysi parametr orqali aniqlanadi?",
+    "A": "BGCOLOR.",
+    "B": "TEXTCOLOR",
+    "C": "FONTCOLOR",
+    "D": "COLOR",
+    "tugri": "A"
+  },
+  {
+    "savol": "JHTML da sarlavha teglari nechtani tashkil etadi?",
+    "A": "6 ta.",
+    "B": "100 ga yaqin",
+    "C": "2 ta: asosiy qism va izohlar uchun",
+    "D": "156 ta",
+    "tugri": "A"
+  },
+  {
+    "savol": "Quyidagi javoblardan qaysi birida sarlavha tegi parametrlari to‘g‘ri ko‘rsatilgan?",
+    "A": "id, class, style, align.",
+    "B": "id, class, slayl, color, h",
+    "C": "id, class, slayl, color, h1, h2",
+    "D": "id, class, slayl, color, h1, h6",
+    "tugri": "A"
+  },
+  {
+    "savol": "HTML da <br> tegi qanday vazifa bajaradi?",
+    "A": "kursorni bitta pastga tushirish va kursordan keyin keladigan barcha ma'lumotlarni yangi qatordan boshlash.",
+    "B": "Kursorni yangi qator boshiga tushirishga xizmat qiladi",
+    "C": "Kursorni bitta pastki qator boshiga olib boradi",
+    "D": "Kursorni keyingi qatorga olib o‘tadi",
+    "tugri": "A"
+  },
+  {
+    "savol": "HTML da markerlangan ro‘yxat shakllantirish uchun qaysi tegdan foydalaniladi?",
+    "A": " UL. ",
+    "B": "OL",
+    "C": "LI",
+    "D": "BR",
+    "tugri": "A"
+  },
+  {
+    "savol": "HTML da raqamlangan ro‘yxat shakllantirish uchun qaysi tegdan foydalaniladi?",
+    "A": "OL.",
+    "B": "LI",
+    "C": "B",
+    "D": "U",
+    "tugri": "A"
+  },
+  {
+    "savol": "HTML da ro'yxatlar bilan ishlashda ro‘yxat elementlarining xar birini yangi qatorda aks ettirish uchun qaysi tegdan foydalaniladi?",
+    "A": "LI.",
+    "B": "BR",
+    "C": "UL",
+    "D": "OL",
+    "tugri": "A"
+  },
+  {
+    "savol": "HTML da jadvallar bilan ishlash uchun qaysi tegdan foydalaniladi?",
+    "A": "TABLE.",
+    "B": "TR",
+    "C": "TD",
+    "D": "TH",
+    "tugri": "A"
+  },
+  {
+    "savol": "HTML da forma bilan ishlashda forma oynasiga parol o‘rnatish uchun qaysi atributdan foydalaniladi?",
+    "A": "Password.",
+    "B": "Submit",
+    "C": "Select",
+    "D": "Hidden",
+    "tugri": "A"
+  },
+  {
+    "savol": "HTML da formada ro‘yxatdan foydalanish tegi qaysi qatorda to‘g‘ri ko‘rsatilgan?",
+    "A": "Select.",
+    "B": "Hidden",
+    "C": "Password",
+    "D": "Submit",
+    "tugri": "A"
+  },
+  {
+    "savol": "HTML 5 texnologiyasiga ko‘ra video fayllar bilan ishlash uchun qaysi tegdan foydalaniladi?",
+    "A": "video.",
+    "B": "controlls",
+    "C": "autoplay",
+    "D": "mp4",
+    "tugri": "A"
+  },
+  {
+    "savol": "HTML 5 da grafik tasvirlarni chizish uchun qaysi tegdan foydalaniladi?",
+    "A": "Canvas.",
+    "B": "script",
+    "C": "image",
+    "D": "Hidden",
+    "tugri": "A"
+  },
+  {
+    "savol": "HTML da CSS stillarini qo‘llashda quyidagi berilgan ifoda qanday natija beradi:\nP{color:#CCC; font-size: 14px}",
+    "A": ".Abzast ichidagi matn kulrang rangda va 14 pixsel o‘lchamli shriftda yozilishini ifodalaydi.",
+    "B": "Matn kulrang rangda va 14 pixsel o‘lchamli shriftda yozilishini ifodalaydi.",
+    "C": "Web-sahifadagi matn kulrang rangda va 14 pixsel o‘lchamli shriftda yozilishini ifodalaydi.",
+    "D": "Kursordan keyingi matn kulrang rangda va 14 pixsel o‘lchamli shriftda yozilishini ifodalaydi.",
+    "tugri": "A"
+  },
+  {
+    "savol": "CSS dan foydalanishda stil qo‘llash mumkin bo‘lgan elementning konstruksiyasi nima deyiladi?",
+    "A": "Selektor.",
+    "B": "Obyekt",
+    "C": "Kontiner",
+    "D": "Sektor",
+    "tugri": "A"
+  },
+  {
+    "savol": "CSS da sahifaning fon rasmini takrorlash stili qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "Background-repeat.",
+    "B": "Background-color",
+    "C": "Background-image",
+    "D": "Background-text",
+    "tugri": "A"
+  },
+  {
+    "savol": "Biror shaxs, joy yoki alohida mavzuga bag‘ishlangan, tez-tez yangilab turiladigan, qisqa maqola va ma'lumotlar kiritib boriladigan o‘rta hajmdagi CMS sayti qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "WordPress.",
+    "B": "Joomla!",
+    "C": "Simple Machines",
+    "D": "MySQL",
+    "tugri": "A"
+  },
+  {
+    "savol": "CMS ning asosiy turlari qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "A": "2 ta:\n1. Internetda ishlovchi va joylashuvchi CMS.\n2. Kompyuterga o‘rnatilgan va sayt bilan avtomatik yoki fayllarni yangilash interfeysi orqali ulangan CMS.",
+    "B": "2 ta:\n1. Internetda ishlovchi 2. joylashuvchi CMS.",
+    "C": "2 ta:\n1. Kompyuterga o‘rnatilgan \n2. sayt bilan avtomatik yoki fayllarni yangilash interfeysi orqali ulangan CMS",
+    "D": "4 ta:\n1. Internetda ishlovchi 2. Joylashuvchi CMS.\n3. Kompyuterga o‘rnatilgan \n4. sayt bilan avtomatik yoki fayllarni yangilash interfeysi orqali ulangan CMS",
+    "tugri": "A"
+  }
+]

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <title>Admin Kirish</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Segoe UI', sans-serif;
+    }
+
+    body {
+      height: 100vh;
+      background: linear-gradient(135deg, #1f4037, #99f2c8);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      overflow: hidden;
+    }
+
+    .login-container {
+      background-color: rgba(255, 255, 255, 0.95);
+      padding: 40px 50px;
+      border-radius: 15px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+      text-align: center;
+      animation: slideFade 0.7s ease-out;
+    }
+
+    @keyframes slideFade {
+      from {
+        opacity: 0;
+        transform: translateY(-50px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .login-container h2 {
+      color: #1f4037;
+      margin-bottom: 25px;
+    }
+
+    .login-container input {
+      width: 100%;
+      padding: 12px 14px;
+      margin: 10px 0;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      font-size: 16px;
+      transition: 0.3s;
+    }
+
+    .login-container input:focus {
+      outline: none;
+      border-color: #1f4037;
+      box-shadow: 0 0 8px #99f2c8;
+    }
+
+    .login-container button {
+      margin-top: 15px;
+      padding: 12px;
+      width: 100%;
+      background: #1f4037;
+      color: white;
+      font-weight: bold;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.3s;
+      font-size: 16px;
+    }
+
+    .login-container button:hover {
+      background: #145c4a;
+    }
+
+    .error-message {
+      margin-top: 10px;
+      color: #e74c3c;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="login-container">
+    <h2>🔐 Admin Kirish</h2>
+    <form id="loginForm">
+      <input type="text" id="adminLogin" placeholder="Login" required>
+      <input type="password" id="adminPassword" placeholder="Parol" required>
+      <button type="submit">Kirish</button>
+      <div id="error" class="error-message"></div>
+    </form>
+  </div>
+
+ 
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const form = document.getElementById('loginForm');
+      const error = document.getElementById('error');
+
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+
+        const login = document.getElementById('adminLogin').value;
+        const password = document.getElementById('adminPassword').value;
+
+        try {
+          const response = await fetch("admins.json");
+          const admins = await response.json();
+
+          const user = admins.find(u => u.login === login && u.password === password);
+
+          if (user) {
+            localStorage.setItem("isAdminLoggedIn", "true");
+            window.location.href = "admin.html";
+          } else {
+            showError("❌ Login yoki parol noto‘g‘ri!");
+          }
+        } catch (err) {
+          showError("❌ Ma’lumotlarni yuklab bo‘lmadi!");
+        }
+      });
+
+      function showError(message) {
+        error.textContent = message;
+        error.classList.add('show');
+        setTimeout(() => error.classList.remove('show'), 3000);
+      }
+    });
+  </script>
+
+</body>
+</html>

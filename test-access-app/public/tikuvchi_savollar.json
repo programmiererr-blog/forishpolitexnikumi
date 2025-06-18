@@ -1,0 +1,1578 @@
+ [ 
+      {
+    "savol": "Asosiy materiallarga nimalar kiradi?",
+    "A": "Gazlama, trikotaj.",
+    "B": "Gazlama, mo'yna",
+    "C": "Bortovka,",
+    "D": "Porolon, flizelin",
+    "tugri": "A"
+  },
+      {
+    "savol": "Tolalar nechta sinfga bo'linadi?",
+    "A": "Ikki sinfga.",
+    "B": "Uch sinfga",
+    "C": "To'rt sinfga",
+    "D": "Besh sinfga",
+    "tugri": "A"
+  },
+        {
+    "savol": "Toshpaxta tolasi nimadan olinadi?",
+    "A": "Tabiiy ma'danlardan.",
+    "B": "Tabiiy ipakdan",
+    "C": "Tog' jinslaridan",
+    "D": "O'simlik poyasidan",
+    "tugri": "A"
+  },
+        {
+    "savol": "Polimer so'zining asl ma'nosi?",
+    "A": "Ko'p zarracha.",
+    "B": "Element",
+    "C": "Xossa",
+    "D": "Birlik",
+    "tugri": "A"
+  },
+        {
+    "savol": "Poya po'stlog'idan olinuvchi tolalar qanday tolalar deyiladi?",
+    "A": "Lub tolalar.",
+    "B": "Kanop tolalar",
+    "C": "Elementar tolalar",
+    "D": "Suniy tolalar",
+    "tugri": "A"
+  },
+        {
+    "savol": "Taroqli usulda qanday tolalar yigiriladi?",
+    "A": "Eng uzun tolalar.",
+    "B": "Kalta tolalar",
+    "C": "O'rtacha uzunlikdagi tolalar",
+    "D": "Kalta va o'rtacha uzunlikdagi tolalar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Gazlamalar o‘rilishi bo‘yicha qanday sinflarga bo‘linadi?",
+    "A": "Oddiy yoki bosh o‘rilishlar, mayda gulli o‘rilishlar, murakkab o‘rilishlar, yirik gulli o‘rilishlar.",
+    "B": "Polotno o‘rilishlar, mayda gulli o‘rilishlar, murakkab o‘rilishlar, yirik gulli o‘rilishlar",
+    "C": "Polotno o‘rilishlar, mayda gulli o‘rilishlar, murakkab o‘rilishlar, satin o‘rilish, jakkard gulli o‘rilishlar",
+    "D": "Polotno o‘rilishlar, mayda gulli o‘rilishlar, atlas o‘rilishlar, tukli o‘rilish",
+    "tugri": "A"
+  },
+  {
+    "savol": "Jun tolalali gazlama navi necha navli bo‘ladi?",
+    "A": "I,II navli bo‘ladi.",
+    "B": "I,II,III navli bo‘ladi",
+    "C": "I,II,III,IV navli bo‘ladi",
+    "D": "Faqat I navli bo‘ladi",
+    "tugri": "C"
+  },
+  {
+    "savol": "Havo o'tkazuvchanlik gazlamaning qaysi xossasiga kiradi?",
+    "A": "Fizik xossasiga.",
+    "B": "Texnologik xossasiga",
+    "C": "Mexanik xossasiga",
+    "D": "Fizik-mexanik xossasiga",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tukli gazlamalarga qanday gazlamalar kiradi?",
+    "A": "Baxmal.",
+    "B": "Satin",
+    "C": "Drap",
+    "D": "Atlas",
+    "tugri": "A"
+  },
+  {
+    "savol": "XVI asr oxirlarida kim tomonidan bir ipli zanjirsimon baxyali to'qima tikish mashinasi kashf etilgan?",
+    "A": "Karl Veyzental.",
+    "B": "Bartolomeya Timonye",
+    "C": "Uilyam Li",
+    "D": "Tomas Sent",
+    "tugri": "C"
+  },
+  {
+    "savol": "Karl Veyzental nechanchi yilda qo'lda bajariladigan qaviqlardan nusxa ko'chiruvchi tikuv mashinasini yaratdi?",
+    "A": "1755-yil.",
+    "B": "1766-yil",
+    "C": "1799-yil",
+    "D": "1753-yil",
+    "tugri": "A"
+  },
+  {
+    "savol": "Barcha ko'rinishdagi tikuv mashinalari uchun ignalar qaysi firmada tayyorlanadi?",
+    "A": "\"Torringtong.\"",
+    "B": "\"Yamoto\"",
+    "C": "\"Juki\"",
+    "D": "\"Seyko\"",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qaysi mashinada kastyumbop, paltobop va qishki harbiy kiyimlik gazlamalarni ikki ipli bitta miki baxyaqator yuritib tikishga mo'ljallangan?",
+    "A": "ZOJE.",
+    "B": "JACK",
+    "C": "335 rusumli",
+    "D": "CS-790 rusumli",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tikuvchilik sanoatida qaysi nomerli ignalar ishlatiladi?",
+    "A": "60 dan 210 gacha.",
+    "B": "60 dan 190 gacha",
+    "C": "70 dan 210 gacha",
+    "D": "80 dan 220 gacha",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tezlik ko'rsatgichi bo'yicha tikuv mashinalari necha guruhga bo'linadi?",
+    "A": "3.",
+    "B": "5",
+    "C": "2",
+    "D": "6",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tikuvchilik mahsulotlarini ishlab chiqarishda nam-issiqlik bilan ishlov berishning necha turi ishlatiladi?",
+    "A": "Uch turi.",
+    "B": "Ikki turi",
+    "C": "Besh turi",
+    "D": "Bir turi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Dazmollash presslari preslash kuchiga qarab qanday bo'ladi?",
+    "A": "Yengil presslar, o'rta presslar, og'ir presslar.",
+    "B": "Yengil presslar va og'ir presslar",
+    "C": "O'rta presslar va og'ir presslar",
+    "D": "Yengil presslar, o'rta presslar, og'ir presslar, pnevmatik presslar",
+    "tugri": "A"
+  },
+  {
+    "savol": "3022-M rusumli yarim avtomati qaysi firmada ishlab chiqarilgan?",
+    "A": "\"Orsha.\"",
+    "B": "\"Durkopp\"",
+    "C": "\"Pannoniya\"",
+    "D": "\"Jaak\"",
+    "tugri": "A"
+  },
+  {
+    "savol": "Bir ipli zanjirsimon baxya hosil bo'lish jarayonida qaysi mexanizmlar ishtirok etadi?",
+    "A": "Chalishtirgich, igna, reyka, tepki, ip uzatgich.",
+    "B": "Igna, moki, tepki",
+    "C": "Reyka, ip uzatgich, naycha ushlagich",
+    "D": "Naycha, chalishtirgich, richag, moki",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ishlab chiqarish sanitariyasi nima?",
+    "A": "Ishchilarga zararli ishlab chiqarish omillarini ta’sirini oldini oluvchi vositalar.",
+    "B": "Ishchilarning sog‘ligini muhofaza qilishdan",
+    "C": "Ishlab chiqarishdagi zararli omillari",
+    "D": "Ishchilarning mehnat sharoitlarni yaxshilashdan.",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ishlab chiqarishdagi zararli omillar nimadan iborat?",
+    "A": "Ishlab chiqarish muhiti va mehnat jarayoni natijasida yuzaga keladigan zararli moddalar va muhit omillari majmuidan.",
+    "B": "Chang va kimyoviy moddalardan",
+    "C": "Ishlab chiqarish muhiti va mehnat jarayoni natijasida yuzaga keladigan kasalliklardan",
+    "D": "Ishchilarning mehnat sharoitlarini yaxshilashdan",
+    "tugri": "A"
+  },
+    {
+    "savol": "Elektromagnit nurlanishlarga nimalar kiradi?",
+    "A": "Ultrabinafsha, infraqizil, lazer, mikroto‘lqinli, radiochastotali nurlar.",
+    "B": "Elektr yoritgichlardan chiqadigan nurlar",
+    "C": "Infraqizil, lazer va radiochastotali nurlar",
+    "D": "Ultrabinafsha va rengen nurlar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ish sharoitlarining gigienik tasnifi nima?",
+    "A": "Ishlab chiqarish muhiti omillarning xavfliligi, mehnat jarayonidagi jismoniy zo‘riqish va tarangligining ko‘rsatkichlar miqdori.",
+    "B": "Ishlab chiqarish muhiti omillarning xavfliligi",
+    "C": "Mehnat jarayonidagi jismoniy zo‘riqish va tarangligining ko‘rsatkichlar miqdori",
+    "D": "Ishlab chiqarishdagi zararli moddalar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Xodimlar uchun ish vaqtining me’yori muddati haftasiga necha soatdan ortiq bo‘lmasligi kerak?",
+    "A": "40.",
+    "B": "38",
+    "C": "42",
+    "D": "36",
+    "tugri": "A"
+  },
+  {
+    "savol": "Yillik mehnat ta’tilining eng kam davomiyligi qancha?",
+    "A": "21 kalendar kuni.",
+    "B": "22 kalendar kuni",
+    "C": "23 kalendar kuni",
+    "D": "24 kalendar kuni",
+    "tugri": "A"
+  },
+  {
+    "savol": "Shaxsiy himoya vositalari nima maqsadda ishlatiladi?",
+    "A": "Ishlab chiqarishda yuzaga keladigan xavfli va zararli omillardan ishchi-xodim sog‘lig‘ini saqlash hamda xavfsiz faoliyatni ta’minlash maqsadida",
+    "B": "Kasbiy kasalliklarning oldini olish maqsadida",
+    "C": "Ishchining xavfsizligini ta’minlash maqsadida",
+    "D": "Mehnat unumdorligini oshirish maqsadida",
+    "tugri": "A"
+  },
+  {
+    "savol": "Himoya vositalari ishlatilishiga qarab qanday turlarga bo‘linadi?",
+    "A": "Jamoa va shaxsiy himoya vositalari.",
+    "B": "Shaxsiy va umumiy himoya vositalari",
+    "C": "Tana va yuz uchun himoya vositalari",
+    "D": "Jamoa, shaxsiy va umumiy himoya vositalari",
+    "tugri": "A"
+  },
+  {
+    "savol": "Nafas olish a’zolarini himoya qiluvchi moslamalar necha xil bo‘ladi?",
+    "A": "4.",
+    "B": "5",
+    "C": "6",
+    "D": "7",
+    "tugri": "A"
+  },
+  {
+    "savol": "Mehnat xavfsizligi qanday vositalar yordamida amalga oshiriladi?",
+    "A": "To‘siq, tormoz, blokirovka, saqlash uskunalari, signalizatsiya, shaxsiy himoyalanish vositalari yordamida.",
+    "B": "Taqiqlovchi, ogohlantiruvchi, buyuruvchi va ko'rsatuvchi belgilar asosida",
+    "C": "Shaxsiy himoyalanish vositalari yordamida",
+    "D": "Maxsus kiyim va himoya vositalar yordamida",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qaysi javobda yumshoq qalamlar ko‘rsatilgan?",
+    "A": "2M,3M , M.",
+    "B": "TM, M,2T, 3T",
+    "C": "HB, H,2H,3H,T, 2H,3T",
+    "D": "HB, H,2H,3H, M,B,3B",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qaysi javobda qattiq qalamlar ko‘rsatilgan?",
+    "A": "T, 2T,3T.",
+    "B": "HB, H,2H,3H, M,B,2B",
+    "C": "TM, M,2T, 3T",
+    "D": "2M,3M , M,B,2B, 3B",
+    "tugri": "A"
+  },
+  {
+    "savol": "Vizirlashga qaysi qatorda to‘g‘ri javob berilgan?",
+    "A": "Jism va uning qismlari o‘lchamlarining proporsional nisbatlarini qalam yordamida aniqlash.",
+    "B": "Uzoqdagi naturani ko‘z bilan chamalash",
+    "C": "Chiziladigan naturani qalam bilan tasvirlash",
+    "D": "Kuzatuvchining ko‘zi naturani qanday ko‘rsa qog‘ozga shunday tasvirlash",
+    "tugri": "A"
+  },
+  {
+    "savol": "Mavzu asosida rasm ishlash nima?",
+    "A": "Badiiy asarlarni o‘qib, shular asosida sujetli rasm ishlash.",
+    "B": "Interyer jihozlari va detallariga, ya’ni devor, mebel, idish-tovoq va boshqa buyumlarni tasvirlashda usuli hisoblanadi",
+    "C": "O‘quvchilar borliqdagi narsalarning shakli, tuzilishi, rangi va shu kabi xususiyatlarni ularning bir-biridan farqi va o‘xshash tomonlarini solishtirish orqali rasm ishlash",
+    "D": "O‘quvchilar borliqdagi narsalarning shaklini va ularning bir-biridan farqi va o‘xshash tomonlarini solishtirish orqali rasm ishlash",
+    "tugri": "A"
+  },
+  {
+    "savol": "Perespektiva so‘zining lug‘aviy ma’nosi qaysi javobda ko‘rsatilgan?",
+    "A": "Yaqqol ko‘rib turibman.",
+    "B": "Naturani kuzatish",
+    "C": "Naturani tasvirlash",
+    "D": "Naturani kompanovka qilish",
+    "tugri": "A"
+  },
+  {
+    "savol": "Rasmni qog‘ozga to‘g‘ri joylashtirish uchun nima qilinadi?",
+    "A": "Kompanovka qilinadi.",
+    "B": "O‘q chizig‘i bilan ishlanadi",
+    "C": "Strix bilan ishlanadi",
+    "D": "Rasm kompozitsiyasi tuziladi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ranglar nechta guruhga bo‘linadi?",
+    "A": "2 guruhga: axromatik va xromatik ranglar.",
+    "B": "3 xil: axromatik, iliq va sovuq ranglar",
+    "C": "4 xil: iliq, sovuq, axromatik, xromatik ranglar",
+    "D": "5 xil: iliq, sovuq, axromatik, xromatik, bo‘yalgan ranglar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Libosning keng tarqalgan turi drapirovka qayerda keng tarqalgan?",
+    "A": "Qadimgi Misrda.",
+    "B": "Yevropada",
+    "C": "O‘rta Osiyoda",
+    "D": "Sharq mamlakatlarida",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qo‘lning anatomik tuzilishi qanday?",
+    "A": "Go‘yo uchta richakka ega.",
+    "B": "Go‘yo to‘rtta richakka ega",
+    "C": "Go‘yo ikkita richakka ega",
+    "D": "Go‘yo beshta richakka ega",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tushirilgan qo‘l uchi gavdaning qaysi qismida turadi?",
+    "A": "Sonning o‘rtasida turadi.",
+    "B": "Bel va tos kamari o‘rtasida turadi",
+    "C": "Tos kamarida turadi",
+    "D": "Son va tos kamari o‘rtasida turadi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kiyim funksiyasi qaysi javobda ko‘rsatilgan?",
+    "A": "Utilitar, axborot-estetik.",
+    "B": "Himovayiy, axborot",
+    "C": "Fiziologik-gigiyenik, estetik",
+    "D": "Axborot, estetik",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kiyimga qaysi javobda to‘g‘ri ta’rif berilgan?",
+    "A": "Odam tanasini tashqi ta’sirlardan muhofaza qiluvchi va estetik funksiyalarni bajaruvchi buyum va buyumlar majmui",
+    "B": "Qo‘shimcha bezaklarining xarakteriga, rangi, fakturasiga va hokazoga qarab ma’lum marosimlarga mo‘ljallangan kostyumni bildiradi",
+    "C": "Mazkur xalq, tabaqa, davr uchun turg‘un, tipik umumiy bo‘lgan formasi",
+    "D": "Muayyan obrazli badiiy sistema",
+    "tugri": "A"
+  },
+    {
+    "savol": "Tajriba sexining asosiy vazifasi nimadan iborat?",
+    "A": "Ishlab chiqarish uchun modellar, ularning konstruksiyasi va andozasini tayyorlash.",
+    "B": "Kiyim modellari va andozasini tayyorlash",
+    "C": "Gazlama sarflash normasini hisoblash va bo'rlamalar  tayyorlash",
+    "D": "Gazlamalrni xususiyatlarini aniqlash",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tikuvchilik sanoatida kiyim detallarini birlashtirishning necha xil usuli bor?",
+    "A": "Ip bilan, yelim bilan, payvandlab biriktirish usullari.",
+    "B": "Ip bilan va yelim bilan biriktirish usullari",
+    "C": "Faqat ip bilan biriktirish",
+    "D": "Yelim bilan va  payvandlab biriktirish usullari",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ignalar uzunligi va yo’g’onligiga qarab nechagacha nomerlanadi?",
+    "A": "1dan 12 gacha.",
+    "B": "1 dan 15 gacha",
+    "C": "1 dan 7 gacha",
+    "D": "1 dan 22gacha",
+    "tugri": "D"
+  },
+  {
+    "savol": "Qaychilarning necha turi mavjud?",
+    "A": "8 ta.",
+    "B": "6 ta",
+    "C": "5 ta",
+    "D": "4 ta",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ketma-ket takrorlanadigan qaviqlardan nima hosil bo'ladi?",
+    "A": "Qaviqqator.",
+    "B": "Qaviq",
+    "C": "Baxya",
+    "D": "Baxyaqator",
+    "tugri": "C"
+  },
+  {
+    "savol": "Qaviq yirikligi va qaviqqator zichligi nimaga bog’liq bo’ladi?",
+    "A": "Qaviq yirikligi va qaviq qator zichligi, gazlama qalin-yupqaligiga va shu qaviqqa qo’yilgan talablarga bog’liq bo’ladi",
+    "B": "Gazlama qalinligiga",
+    "C": "Qaviqqa qo’yilgan talabga",
+    "D": "Qaviqqatorlarning uzunligiga",
+    "tugri": "A"
+  },
+  {
+    "savol": "Mashinada bajariladigan choklar konstruksiyasi va vazifasiga ko'ra necha turga bo'linadi?",
+    "A": "3 turga.",
+    "B": "4 turga",
+    "C": "5 turga",
+    "D": "6 turga",
+    "tugri": "C"
+  },
+  {
+    "savol": "Yelimlash jarayoni necha bosqichdan iborat?",
+    "A": "3 boschichdan.",
+    "B": "5 bosqichdan",
+    "C": "6 bosqichdan",
+    "D": "2 bosqichdan",
+    "tugri": "B"
+  },
+  {
+    "savol": "Biznes reja tuzish muddatlari qaysi bandda to'g'ri ko'rsatilgan?",
+    "A": "Muddatsiz.",
+    "B": "1 yilgacha",
+    "C": "1 yildan 10 yilgacha",
+    "D": "3 yildan 5 yilgacha",
+    "tugri": "C"
+  },
+  {
+    "savol": "Marketing reja nima?",
+    "A": "Maqsadlar, marketing strategiyasi, marketing kompleksi dasturi, sotish dasturi hamda iqtisodiy xisob kitoblar yoritilgan xujjat",
+    "B": "Marketing strategiyasi yoritilgan xujjat",
+    "C": "Maqsadla, marketing strategiyasi va sotish dasturi yoritilgan xujjat",
+    "D": "Marketingtaktikasi yoritilgan xujjat",
+    "tugri": "A"
+  },
+  {
+    "savol": "Korxona deganda nimani tushunasiz?",
+    "A": "Yuridik shaxs huquqiga ega bo'lgan mustaqil xo'jalik yurituvchi sub'ekt, mehnat jamoasi.",
+    "B": "Monopolistik birlashmalarning bir shakli",
+    "C": "Kooperatsiyaning birlamchi bo'g'ini",
+    "D": "Yirik ko'p tarmoqli kooperatsiya",
+    "tugri": "A"
+  },
+  {
+    "savol": "Mulk shakllariga qarab korxona quyidagi turlarga bo'linadi?",
+    "A": "Xususiy korxona, jamoa korxonalar, davlat korxonalari, aralash korxonalar.",
+    "B": "Davlat buyurmasi saqlangan korxona",
+    "C": "Ham buyurtma, ham bozorga ishlovchi korxona",
+    "D": "Faqat bozorga ishlovchi korxona",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ish ko'lamiga qarab korxonalar quyidagi turlarga bo'linadi?",
+    "A": "Yuridik korxonala, o'rta korxonalar, kichik korxonalar.",
+    "B": "Xususiy korxonalar",
+    "C": "Xissadorlik korxonalar",
+    "D": "Jamoa korxonalar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Quyidagi qaysi hollarda tadbirkor faoliyati sud orqali to'xtatiladi?",
+    "A": "Amaldagi qonunchilik buzilganda.",
+    "B": "Bir necha marotaba ogohlantirishga va boshqa turdagi jazo turlari",
+    "C": "Xususiy mulk egasi yoki boshqa sub'ektlarning huquqi paymol qilinganda",
+    "D": "Soliq va kredit majburiyatlari bajarilmaganda",
+    "tugri": "A"
+  },
+  {
+    "savol": "Jismoniy shaxs kim?",
+    "A": "Mamlakatning huquqli bo'lish qobilyatiga ega bo'lgan fuqarosidir.",
+    "B": "Mustaqil muassasa",
+    "C": "Mustaqil korxona",
+    "D": "O'z mulkiga ega bo'lgan shaxsdir",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tadbirkorlik siri deganda tadbirkorning",
+    "A": "Yangi texnologiyani qo'llashni mahfiy tutishi tushuniladi.",
+    "B": "O'z sha'nini avaylash tushuniladi",
+    "C": "Xalq orasida obro'-e'tiborli bo'lishga bo'lgan xarakati tushuniladi",
+    "D": "Nomini e'zozlanishi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tadbirkorlik nufuzi deganda tadbirkorlikning?",
+    "A": "Tadbirkorlik doirasida obro'-e'tiborli bo'lish tushuniladi.",
+    "B": "Narxlarni belgilash tushuniladi",
+    "C": "Shartnoma tuzish tushuniladi",
+    "D": "Yangi tavar yaratishdagi sirining saqlanishi tushuniladi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Yuridik shaxsga ta'rif bering?",
+    "A": "O'z mulki, balansi, muhri, nomi, ta'sischilari, ustaviga ega bo'lgan korxona.",
+    "B": "Fuqorolik huquqi sub'ekti bo;lgan fuqaro",
+    "C": "Mamlakatning huquqli bo;lish qobiliyatiga ega bo'lgan korxona",
+    "D": "Mustaqil korxona va muassasa",
+    "tugri": "A"
+  },
+  {
+    "savol": "Gazlama tanlashda eng muhim omil nima?",
+    "A": "Gazlamaning tarkibi va sifati.",
+    "B": "Gazlamaning rangi",
+    "C": "Gazlamaning narxi",
+    "D": "Gazlamaning uzunligi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Sport kiyimlari uchun qaysi turdagi gazlama mos keladi?",
+    "A": "Sintetik va elastik matolar.",
+    "B": "Paxta va shoyi",
+    "C": "Shoyi va baxmal",
+    "D": "Dantel va organza",
+    "tugri": "A"
+  },
+    {
+    "savol": "Rasmiy kiyimlar uchun eng ko‘p ishlatiladigan gazlama turi qaysi?",
+    "A": "Ipak va kostyum matolari.",
+    "B": "Flanel",
+    "C": "Trikotaj",
+    "D": "Jinsi mato",
+    "tugri": "A"
+  },
+  {
+    "savol": "Mayda bo‘laklarga ishlov berishning asosiy maqsadi nima?",
+    "A": "Kiyim detallarining mustahkamligini oshirish.",
+    "B": "Matoni chiroyli qilish",
+    "C": "Ishlab chiqarish tezligini kamaytirish",
+    "D": "Dizaynni o‘zgartirish",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kesishdan oldin matoni namlashning maqsadi nima?",
+    "A": "Matoning cho‘zilishini kamaytirish.",
+    "B": "Matoning rangi o‘zgartirish",
+    "C": "Ishlab chiqarish jarayonini tezlashtirish",
+    "D": "Choklarni bezash",
+    "tugri": "A"
+  },
+  {
+    "savol": "Yoqalar va o‘miza orasidagi choklar qanday mustahkamlanadi?",
+    "A": "Chok ichidan zig-zag chok bilan qayta tikish orqali.",
+    "B": "Ikki marta tikish orqali",
+    "C": "Yelim bilan yopishtirish orqali",
+    "D": "Qo‘shimcha iplar tikish orqali",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kiyim bichimining asosiy turlari qaysilar?",
+    "A": "To‘g‘ri, yarim yondashgan, yondashgan.",
+    "B": "Yozgi, qishki, demi-sezon",
+    "C": "Klassik, sport, milliy",
+    "D": "Katta, o‘rta va kichik",
+    "tugri": "A"
+  },
+  {
+    "savol": "\"To‘g‘ri bichim\" qanday xususiyatga ega?",
+    "A": "Kiyim kengroq va erkin turadi.",
+    "B": "Kiyim tanaga yopishib turadi",
+    "C": "Kiyim bel qismida toraygan bo‘ladi",
+    "D": "Kiyim asosan elastik matodan tikiladi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Yarim yondashgan bichimli kiyim qanday bo‘ladi?",
+    "A": "Bel qismida biroz toraygan bo‘ladi.",
+    "B": "Kiyim butunlay erkin shaklda tikiladi",
+    "C": "Faqat tizzadan pastga kengayadi",
+    "D": "Har qanday shaklda bo‘lishi mumkin",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kiyimlarda cho‘ntak qanday maqsadda ishlatiladi?",
+    "A": "Amaliy foydalanish va bezak sifatida.",
+    "B": "Faqat bezak sifatida",
+    "C": "Kiyimni mustahkamlash uchun",
+    "D": "Kiyimning shaklini o‘zgartirish uchun",
+    "tugri": "A"
+  },
+  {
+    "savol": "Chok ichiga joylashgan cho‘ntak qanday tikiladi?",
+    "A": "Kiyimning asosiy chok qismiga yashirin tarzda joylashtiriladi.",
+    "B": "Gazlama ustiga tikib qo‘yiladi",
+    "C": "Faqat sport kiyimlarida ishlatiladi",
+    "D": "Maxsus elim bilan yopishtiriladi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Burma nima uchun ishlatiladi?",
+    "A": "Kiyimga hajm va bezak berish uchun.",
+    "B": "Faqat bolalar kiyimlarida qo‘llaniladi",
+    "C": "Gazlamani cho‘zish uchun",
+    "D": "Kiyimni qisqartirish uchun",
+    "tugri": "A"
+  },
+  {
+    "savol": "Volan nima?",
+    "A": "Kiyimning pastki qismiga qo‘shiladigan bezak mato.",
+    "B": "Chok ichiga joylashtirilgan mato",
+    "C": "Gazlamani tiklash texnikasi",
+    "D": "Faqat choyshablar uchun ishlatiladi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Bezak elementlarining asosiy vazifasi nima?",
+    "A": "Kiyimga estetik ko‘rinish berish.",
+    "B": "Faqat kiyimni mustahkamlash uchun",
+    "C": "Faqat rasmiy kiyimlarga ishlatiladi",
+    "D": "Kiyimni yengillashtirish uchun",
+    "tugri": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri kiyim bezak elementlariga kiradi?",
+    "A": "Volanlar, burmalar, applikatsiya, tikmalar.",
+    "B": "Faqat tugmalar va fermuarlar",
+    "C": "Faqat kiyim shakli",
+    "D": "Chok va ichki qavatlar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kashtado‘zlik qanday usullar bilan bajariladi?",
+    "A": "Qo‘lda yoki mashinada.",
+    "B": "Faqat mashinada",
+    "C": "Faqat bo‘yoq bilan",
+    "D": "Faqat bosma naqsh orqali",
+    "tugri": "A"
+  },
+  {
+    "savol": "Bezak elementlarining mustahkamligini ta’minlash uchun nima ishlatiladi?",
+    "A": "Qo‘shimcha choklar, dublir mato, flizelin.",
+    "B": "Faqat mato qatlamlarini ko‘paytirish",
+    "C": "Yelim bilan yopishtirish",
+    "D": "Har qanday element tabiiy ravishda mustahkam bo‘ladi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Bortlar chetiga qanday ishlov berish mumkin?",
+    "A": "«Sof» ziyli, yolg‘on qaviqli, bezak baxyaqatorli.",
+    "B": "Qoplama ziyli, ag‘darma chokli, yolg‘on qaviqli",
+    "C": "Ag‘darma chokli, buklama chokli, yolg‘on qaviqli",
+    "D": "Qo‘yma chokli, sof ziyli, ag‘darma qaviqli",
+    "tugri": "A"
+  },
+  {
+    "savol": "Yubkalar qanday asosiy turlarga bo‘linadi?",
+    "A": "To‘g‘ri, trapesiya, qalam, burmali, quyma yubka.",
+    "B": "Faqat uzun va kalta",
+    "C": "Faqat tor va keng",
+    "D": "Faqat sport yubkalari",
+    "tugri": "A"
+  },
+  {
+    "savol": "Pliseli yubka qanday hosil qilinadi?",
+    "A": "Maxsus dazmollash yoki presslash orqali matoda ingichka burmalar yaratish yo‘li bilan.",
+    "B": "Faqat qo‘lda chok bilan ishlanadi",
+    "C": "Faqat yupqa matolardan tikiladi",
+    "D": "Faqat to‘qilgan matolardan tayyorlanadi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Yubkalarni qanday materiallardan tikish mumkin?",
+    "A": "Paxta, ipak, shoyi, jinsi, trikotaj, sintetik matolar.",
+    "B": "Faqat tabiiy matolar",
+    "C": "Faqat qalin matolar",
+    "D": "Faqat polyester",
+    "tugri": "A"
+  },
+  {
+    "savol": "Yoqalar necha xil larga bo‘ladi?",
+    "A": "O‘tqazma yoqa, tik yoqa, shol yoqa, matroscha yoqalarga.",
+    "B": "Chokli, qaytarma yoqa, yelimli yoqa, shol yoqaga",
+    "C": "Qaviqli yoqa, shol yoqa, qoplama yoqaga",
+    "D": "Ziy yoqa, adip yoqa, shol yoqa, tik yoqaga",
+    "tugri": "A"
+  },
+    {
+    "savol": "O‘g‘il bolalar shimlari qanday asosiy qismlardan iborat?",
+    "A": "Old va orqa bo‘laklar, bel qismi, cho‘ntaklar, etak qismi.",
+    "B": "Faqat old va orqa bo‘laklar",
+    "C": "Bel va etak qismi",
+    "D": "Faqat cho‘ntaklar va choklar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Shimlarning old qismida ishlatiladigan cho‘ntak turi qaysi?",
+    "A": "Yon kesimli cho‘ntak.",
+    "B": "Faqat qoplamali cho‘ntak",
+    "C": "Faqat orqa cho‘ntak",
+    "D": "Hech qanday cho‘ntak bo‘lmaydi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Shimlarning etak qismiga qanday ishlov beriladi?",
+    "A": "Oddiy egma chok, overlok yoki yashirin chok bilan.",
+    "B": "Faqat matoni kesib tashlash bilan",
+    "C": "Faqat elim bilan yopishtirish",
+    "D": "Har qanday mato tabiiy ravishda bukilib turadi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Shimlarning asosiy turlari qaysilar?",
+    "A": "Klassik, jinsi, sport, cargo, chinos.",
+    "B": "Faqat jinsi va sport shimlar",
+    "C": "Faqat klassik va tor shimlar",
+    "D": "Faqat shorti va leggins",
+    "tugri": "A"
+  },
+  {
+    "savol": "Erkaklar milliy choponi qanaqa fasonda bo’ladi?",
+    "A": "Yaxlit bichilgan old va ort qismlari, yeng, tiriz, xishtakli.",
+    "B": "Ikkita old bo’lak, 2 ta ort bo’lak, yeng, yoqa",
+    "C": "2 ta old bo’lak, 1 ta ort qismi, yeng, yoqa, adip",
+    "D": "Old bo’lak, 2 ort bo’lak, cho’ntak, tugma, tugmaga taqilma, adip, yoqa",
+    "tugri": "A"
+  },
+  {
+    "savol": "Erkaklar shimi cho’ntak xaltasining qirqimlari qanday choklar bilan tikiladi?",
+    "A": "Mag’iz chok, qo’sh chok, tikish-yo’rmalash choki.",
+    "B": "Qo’sh chok, ag’darma chok, listochka chok",
+    "C": "Tikish-yo’rmalash, listochka chok, bostirma chok",
+    "D": "Buklama listochka, yorma chok, tikish-yo’rmalash chok",
+    "tugri": "A"
+  },
+  {
+    "savol": "Yoqa nechta detaldan iborat?",
+    "A": "3 ta.",
+    "B": "5 ta",
+    "C": "6 ta",
+    "D": "8 ta",
+    "tugri": "A"
+  },
+  {
+    "savol": "Yoqalarning tikilishi qanday bosqichdan iborat?",
+    "A": "Ostki yoqa tayyorlash, ustki yoqaga ostki yoqani ulash  va  yoqalarni o`mizga o`tqazish.",
+    "B": "Ustki yoqaga ostki yoqani ulash  va  yoqalarni o`mizga biriktirish",
+    "C": "Ostki yoqa tayyorlash va  yoqalarni o`mizga biriktirish.",
+    "D": "Ustki yoqaga ostki yoqani ulash  va  o`mizga biriktirish.",
+    "tugri": "A"
+  },
+  {
+    "savol": "Vitochkalar qanday usullar bilan ishlanadi?",
+    "A": "Maxsus chok, dazmollash va bukish orqali.",
+    "B": "Faqat overlok chok bilan",
+    "C": "Elim bilan yopishtirish orqali",
+    "D": "Faqat matoni buklab qo‘yish orqali",
+    "tugri": "A"
+  },
+  {
+    "savol": "Orqa bo‘lakdagi vitochkalar qanday maqsadda ishlatiladi?",
+    "A": "Bel qismida shakl berish uchun.",
+    "B": "Faqat kiyimni bezash uchun",
+    "C": "Faqat matoni qalinlashtirish uchun",
+    "D": "Faqat tikish jarayonini tezlashtirish uchun",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ko‘krak vitochkalarining uzunligi qanday belgilanadi?",
+    "A": "Ko‘krak hajmiga va kiyim modeliga qarab.",
+    "B": "Har doim bir xil uzunlikda bo‘ladi",
+    "C": "Faqat mato turi bilan belgilanadi",
+    "D": "Kiyim uzunligiga bog‘liq",
+    "tugri": "A"
+  },
+  {
+    "savol": "Vitochkalarni ishlov berishda qaysi vositalardan foydalaniladi?",
+    "A": "Tikuv mashinasi, dazmol, maxsus choklar.",
+    "B": "Igna va ip",
+    "C": "Mato qirqish vositalari",
+    "D": "Faqat elim va mato",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ayollar ko‘ylagining old bo‘lagi qaysi qismlardan iborat?",
+    "A": "Ko‘krak qismi, bel qismi, yon qism, yeng ulash qismi.",
+    "B": "Faqat bel va etak qismi",
+    "C": "Faqat bo‘yin qismi va etak",
+    "D": "Faqat orqa bo‘lak",
+    "tugri": "A"
+  },
+  {
+    "savol": "Bel qismiga ishlov berishda qanday choklardan foydalaniladi?",
+    "A": "Oddiy tikuv choklari, overlok yoki yashirin chok.",
+    "B": "Faqat bo‘rtma chok",
+    "C": "Qo‘lda tikish",
+    "D": "Hech qanday chok ishlatilmaydi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Etak qismini lif bilan biriktirgandan so‘ng qanday ishlov berish kerak?",
+    "A": "Choklarni dazmollash va tekislash.",
+    "B": "Faqat overlok bilan qoplash",
+    "C": "Faqat buklab qo‘yish",
+    "D": "Hech qanday ishlov berilmaydi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Orqa bo‘lak va etak qismini biriktirishda qanday vositalardan foydalaniladi?",
+    "A": "Tikuv mashinasi, dazmol, maxsus choklar.",
+    "B": "Faqat igna va ip",
+    "C": "Faqat mato qirqish vositalari",
+    "D": "Faqat elim va mato",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ayollar ko‘ylagining vitachkalari qanday maqsadda ishlatiladi?",
+    "A": "Kiyim shaklini yaxshilash va tanaga mos tushishini ta’minlash uchun.",
+    "B": "Faqat bezak uchun",
+    "C": "Faqat kiyimni uzunroq qilish uchun",
+    "D": "Faqat matoni mustahkamlash uchun",
+    "tugri": "A"
+  },
+  {
+    "savol": "Vitachkaning chuqurligi qanday aniqlanadi?",
+    "A": "Kiyim modeli va tananing o‘lchamiga qarab.",
+    "B": "Faqat mato turi bilan",
+    "C": "Har doim bir xil bo‘ladi",
+    "D": "Faqat kiyim uzunligiga bog‘liq",
+    "tugri": "A"
+  },
+  {
+    "savol": "Erkaklar ko‘ylagining mayda detallari qaysilar?",
+    "A": "Yoqa, yeng yigi, manjet, tugma iliklari.",
+    "B": "Faqat yoqa va manjet",
+    "C": "Faqat old va orqa bo‘laklar",
+    "D": "Faqat yeng va etak",
+    "tugri": "A"
+  },
+  {
+    "savol": "Manjet qanday usulda ko‘ylakka biriktiriladi?",
+    "A": "Yeng qismiga qo‘shilib, chok orqali tikiladi.",
+    "B": "Faqat yopishtiriladi",
+    "C": "Faqat ilik va tugma orqali mahkamlanadi",
+    "D": "Manjet ishlatilmaydi",
+    "tugri": "A"
+  },
+    {
+    "savol": "Manjetning shakli va o‘lchami nima asosida tanlanadi?",
+    "A": "Ko‘ylak modeli va mijoz talabiga qarab.",
+    "B": "Faqat standart o‘lchamlarga asoslanib",
+    "C": "Har doim bir xil o‘lchamda bo‘ladi",
+    "D": "Faqat mato turiga qarab",
+    "tugri": "A"
+  },
+  {
+    "savol": "Erkaklar ko‘ylagining yoqa turlari qaysilar?",
+    "A": "Klassik yoqa, stendli yoqa, butun tikilgan yoqa.",
+    "B": "Faqat klassik yoqa",
+    "C": "Faqat bezak uchun yoqa",
+    "D": "Erkaklar ko‘ylagida yoqa bo‘lmaydi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Erkaklar ko‘ylagining yeng qismi qanday matodan tikiladi?",
+    "A": "Asosiy mato bilan bir xil bo‘lishi kerak.",
+    "B": "Faqat elastik matodan",
+    "C": "Faqat paxtali matodan",
+    "D": "Faqat dublir matodan",
+    "tugri": "A"
+  },
+  {
+    "savol": "Yo‘l-yo‘l va katakli matolar bilan ishlashda asosiy muammo nima?",
+    "A": "Chiziqlar va naqshlarni bir-biriga mos tushirish.",
+    "B": "Matoni kesishning murakkabligi yo‘qligi",
+    "C": "Matoni bo‘yashning qiyinligi",
+    "D": "Ushbu matolarni tikish mumkin emas",
+    "tugri": "A"
+  },
+  {
+    "savol": "Katakli matolardan tikilgan kiyimning estetik ko‘rinishini yaxshilash uchun nima qilish kerak?",
+    "A": "Naqshlarni bir-biriga mos tushirish va simmetrik joylashtirish.",
+    "B": "Faqat matoni mustahkamlash",
+    "C": "Faqat bezak elementlari qo‘shish",
+    "D": "Naqshlarni har xil yo‘nalishda joylashtirish",
+    "tugri": "A"
+  },
+  {
+    "savol": "Chiziqli matolar bilan ishlashda qanday chok turi tavsiya etiladi?",
+    "A": "Yashirin yoki mustahkam choklar.",
+    "B": "Faqat overlok choklari",
+    "C": "Faqat qo‘lda tikilgan choklar",
+    "D": "Tikuv choklari ishlatilmaydi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Katakli matolarda naqshlarni aniq joylashtirish uchun qanday texnika ishlatiladi?",
+    "A": "Naqsh joylashuvini oldindan belgilash va qat’iy tartibda bichish.",
+    "B": "Faqat qo‘lda tikish",
+    "C": "Naqsh joylashuviga e’tibor bermaslik",
+    "D": "Barcha chiziqlarni bir joyga yig‘ish",
+    "tugri": "A"
+  },
+  {
+    "savol": "Yaxlit bichiq konstruksiyasida yoqa va yeng qanday hosil qilinadi?",
+    "A": "Maxsus bichim texnologiyasi yordamida.",
+    "B": "Har doim alohida tikiladi",
+    "C": "Faqat elim bilan biriktiriladi",
+    "D": "Kiyimning tuzilishi o‘zgarmaydi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Yaxlit bichiq texnologiyasi qaysi kiyim turlarida ko‘proq qo‘llaniladi?",
+    "A": "Moda kiyimlari, sport kiyimlari, trikotaj mahsulotlar.",
+    "B": "Faqat an’anaviy milliy kiyimlarda",
+    "C": "Faqat yumshoq matolarda",
+    "D": "Faqat jinsi shimlarda",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ishlab chiqarish nuqsonlariga qaysi omillar kiradi?",
+    "A": "Tikish sifati, choklarning noto‘g‘ri joylashishi, noto‘g‘ri bichish.",
+    "B": "Faqat mato tanlashdagi xatolik",
+    "C": "Faqat yuvish natijasida yuzaga keladigan nuqsonlar",
+    "D": "Faqat kiyimdan noto‘g‘ri foydalanish",
+    "tugri": "A"
+  },
+  {
+    "savol": "Konstruktiv nuqsonlar nima?",
+    "A": "Kiyim shakli va o‘lchami noto‘g‘ri loyihalangan bo‘lishi.",
+    "B": "Faqat choklarning sifatsizligi",
+    "C": "Faqat tugmalar noto‘g‘ri joylashganligi",
+    "D": "Mato tanlashdagi muammolar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kiyim nuqsonlari qanday turlarga bo‘linadi?",
+    "A": "Ishlab chiqarish, konstruktiv va ekspluatatsiya nuqsonlari.",
+    "B": "Faqat ishlab chiqarish nuqsonlari",
+    "C": "Faqat mato sifati bilan bog‘liq muammolar",
+    "D": "Faqat mijoz xatosi tufayli yuzaga keladigan nuqsonlar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Bichish texnologiyasidagi asosiy nuqsonlar qaysilar?",
+    "A": "Detallarni noto‘g‘ri joylashtirish, noto‘g‘ri kesish, simmetriyaning buzilishi.",
+    "B": "Mato rangi o‘zgarishi",
+    "C": "Faqat matoning siyrak joylari bo‘lishi",
+    "D": "Kiyimni noto‘g‘ri saqlash",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tikuv jarayonida eng ko‘p uchraydigan nuqson nima?",
+    "A": "Choklarning noto‘g‘ri joylashishi va sifatsiz ishlov berish.",
+    "B": "Faqat mato tanlashdagi xatoliklar",
+    "C": "Kiyimdan noto‘g‘ri foydalanish",
+    "D": "Yuvish natijasida mato deformatsiyasi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kiyim detallari qaysilar?",
+    "A": "Old bo’lak, ort bo’lak.",
+    "B": "Shim, yubka, yubka",
+    "C": "Chopqilar, qaychi, shim",
+    "D": "Nimca, old bo’lak, sarochka",
+    "tugri": "A"
+  },
+  {
+    "savol": "Yoqa qaysi turdagi chok yordamida o‘miza qismiga tikiladi?",
+    "A": "Qaytarma chok.",
+    "B": "Maxfiy chok",
+    "C": "Tekis chok",
+    "D": "Overlok chok",
+    "tugri": "A"
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri cho‘ntak turlari hisoblanadi?",
+    "A": "Chok ichiga joylashgan, yamoq, shtapka cho‘ntak.",
+    "B": "Faqat ichki va tashqi cho‘ntak",
+    "C": "Tikilgan va yopishtirilgan cho‘ntak",
+    "D": "Har qanday shakldagi gazlama bo‘lagi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kiyim bezaklarida qanday qo‘shimcha materiallar ishlatiladi?",
+    "A": "Tasmalar, dublir mato, fetr, toshlar, boncuklar.",
+    "B": "Faqat tabiiy matolar",
+    "C": "Faqat iplar va tugmalar",
+    "D": "Har qanday mato va ip",
+    "tugri": "A"
+  },
+  {
+    "savol": "Applikatsiya qanday tayyorlanadi?",
+    "A": "Matoga boshqa gazlama yoki material yopishtirish yoki tikish orqali.",
+    "B": "Yelim bilan yopishtirish orqali",
+    "C": "Faqat qo‘lda chizish orqali",
+    "D": "Matoni kesish va burish orqali",
+    "tugri": "A"
+  },
+  {
+    "savol": "Bezak elementlarini kiyimga qanday biriktirish mumkin?",
+    "A": "Tikish, yopishtirish, yelimlash, maxsus mahkamlagichlar yordamida.",
+    "B": "Faqat elim bilan yopishtirish orqali",
+    "C": "Faqat igna bilan mahkamlash orqali",
+    "D": "Faqat to‘qish orqali",
+    "tugri": "A"
+  },
+    {
+    "savol": "Shakllantirilgan (3D) bezak elementlariga misol keltiring.",
+    "A": "Gul shaklidagi volanlar, tikilgan kamonlar, kashtali naqshlar.",
+    "B": "Faqat mato ichiga solingan qalin material",
+    "C": "Faqat rasmiy kiyimlar uchun elementlar",
+    "D": "Faqat bejirim tugmalar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Texnologik jihatdan presslar qanday turlarga bo`linadi?",
+    "A": "Dazmollovchi, buklovchi va bug`lovchi.",
+    "B": "Choklovchi, dazmollovchi, buklovchi va yelimlash",
+    "C": "Tekislash, buklovchi va ko’rinma",
+    "D": "Qopqoqli, ko’rinmavabug`lovchi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kiyim mayda detallariga nimalar kiradi?",
+    "A": "Belbog’, xlyastik, listochka, cho’ntak qopqoq.",
+    "B": "Yubka, belbog’, orqa bo’lak, yoqa, shim",
+    "C": "Sarochka, yoqa, xlyastik, manjet, shim, old bo’lak",
+    "D": "Orqa bo’lak, astar, shim, belbog’",
+    "tugri": "A"
+  },
+  {
+    "savol": "Etalon andazalar qaysi sexda saqlanadi va ishlatiladi?",
+    "A": "Eksperemental sexida.",
+    "B": "Tayyorlov sexiga",
+    "C": "Bichish sexiga",
+    "D": "Tikish, yig’ish sexiga",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qaviqlarning qanday turlari bor?",
+    "A": "To’g’ri, qiya, iroqisimon, halqasimon, halqa qaviqlarga",
+    "B": "Halqasimon, birlashtirma, qiya, ziy, tepchima qaviqlardan",
+    "C": "Iroqisimon, yo’rma, ag’darma, halqa, qo’shqaviqlardan",
+    "D": "Yo’rma, to’rsimon, mag’iz, iroqisimon qaviqlardan",
+    "tugri": "A"
+  },
+  {
+    "savol": "Iste’molchilar talablariga nimalar kiradi?",
+    "A": "Gigienik,ekpluatasion, estetik, talablar.",
+    "B": "Standartlashtirish, ishlov erish, qulaylik va tejamkorlik kiradi",
+    "C": "Kiyimni vazifasi va kiyib yuriladigan sharoitga mosligi qulayligini saqlash kerak",
+    "D": "Estetik, gigienik, bezak, chokli",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qadimgi Gretsiyada erkaklar kiyimi necha qismdan iborat?",
+    "A": "2-qismdan-xiton va gimatiy.",
+    "B": "3-qismdan-xiton, gimatiy va peplos",
+    "C": "2-qismdan-xiton va peplos",
+    "D": "2-qism-peplos va gimatiy",
+    "tugri": "A"
+  },
+  {
+    "savol": "Borokko uslubi davri nechanchi asrga to‘g‘ri keladi?",
+    "A": "XVIII-asr.",
+    "B": "XVII-asr",
+    "C": "XVI-asr",
+    "D": "XV-asr",
+    "tugri": "A"
+  },
+  {
+    "savol": "Moda so‘zining ma'nosi?",
+    "A": "Zamonaviy.",
+    "B": "Urf-odat",
+    "C": "Yangilik",
+    "D": "Yorqilik",
+    "tugri": "A"
+  },
+  {
+    "savol": "Gotika uslubi nechanchi asrga to‘g‘ri keladi?",
+    "A": "XI-XII-asr.",
+    "B": "XII-XV-asr",
+    "C": "XIII-XIV-asr",
+    "D": "XI-XV-asr",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kiyimlar jins, yosh belgilarga ko‘ra qaysi turlarga bo‘linadi?",
+    "A": "Erkaklar, ayollar, bolalar.",
+    "B": "Maishiy, kundalik, uy",
+    "C": "Mashg‘ulot uchun, madaniy kiyim",
+    "D": "Katta, o‘rta, kichik",
+    "tugri": "A"
+  },
+  {
+    "savol": "Shimning «molniya» tasmali taqilmasini tikish uchun qanday choklar ishlatiladi?",
+    "A": "Ag’darma, qo’yma, yo’rma, bostirma.",
+    "B": "Pressli, buklama, ag’darma, mag’iz chok",
+    "C": "Qirqma, biriktirma, mag’iz chok, yormachok",
+    "D": "Mag’iz, qoplama, bostirma, mag’iz chok",
+    "tugri": "A"
+  },
+  {
+    "savol": "Bezak choklarga qaysi choklar kiradi?",
+    "A": "Taxlamalar, bo’rtma choklar.",
+    "B": "Ag’darma, bostirma qaviqlar",
+    "C": "Bo’rtma, bostirma qaviqlar",
+    "D": "Qo’yma chok, taxlamalar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Bezak detallarga nimalar kiradi?",
+    "A": "Volanlar, beykalar, cho`ntak qopqoqlar, xlyastiklar, listochkalar, pagonlar kiradi.",
+    "B": "Yubkalar, beykalar, cho`ntak qopqoqlar, xlyastiklar, listochkalar, manjetlari",
+    "C": "Koketkalar, shimlar, palto, cho`ntak qopqoqlar, xlyastiklar, listochkalar",
+    "D": "Chokli volanlar, tasmalar yoki tugma va izmalar, shim kiradi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tabiatda uchraydigan ranglar necha xilga bo‘linadi?",
+    "A": "2-xil.",
+    "B": "6-xil",
+    "C": "4-xil",
+    "D": "7-xil",
+    "tugri": "A"
+  },
+  {
+    "savol": "Zardo’zlik hunari bilan dastlab kimlar shug’ullangan?",
+    "A": "Xotin-qizlar.",
+    "B": "Ziyolilar",
+    "C": "Erkaklar",
+    "D": "Hunarmandlar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Zardo’zlik o’zbek xalqining keng tarqalgan amaliy bezak san’at turi bo’lib, markazi qaysi shahar bo’lgan?",
+    "A": "Marg’ilon.",
+    "B": "Buxoro",
+    "C": "Samarqand",
+    "D": "Toshkent",
+    "tugri": "A"
+  },
+  {
+    "savol": "Zardo’zlikda ishlatiladigan asboblar qaysi qatorda to’g’ri yozilgan",
+    "A": "Qalam, qog’oz, bo’yoq.",
+    "B": "Qalam, qog’oz",
+    "C": "Pichoq, bolta, mato",
+    "D": "Mo’ylov, cho’tka, qalam",
+    "tugri": "A"
+  },
+  {
+    "savol": "Zardo’zlik toshlari necha guruhga bo’linadi?",
+    "A": "3 guruhga.",
+    "B": "4 guruhga",
+    "C": "5 guruhga",
+    "D": "2 guruhga",
+    "tugri": "A"
+  },
+  {
+    "savol": "Zardo’zlik buyumlari qaysi materiallardan tayyorlanadi?",
+    "A": "Matolar, iplar, zargarlik buyumlari.",
+    "B": "Faqat mato",
+    "C": "Qog’oz va karton",
+    "D": "Faqat yog’och",
+    "tugri": "A"
+  },
+    {
+    "savol": "Kashtachilik nima?",
+    "A": "Matolarni bezash uchun ip bilan tikuv ishlari.",
+    "B": "Matolarni to’qish san’ati",
+    "C": "Yog’och o’ymakorligi",
+    "D": "Metall buyumlarni shakllantirish",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kashtachilikda ishlatiladigan asosiy materiallar qaysilar?",
+    "A": "Matolar, iplar va ignala.",
+    "B": "karton",
+    "C": "Yog’och va metall",
+    "D": "Guruch va shisha",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qaysi mato kashta tikish uchun eng maqbul hisoblanadi?",
+    "A": "Paxta matolari.",
+    "B": "Nilon matolari",
+    "C": "Teridan tayyorlangan matolar",
+    "D": "Suede matolari",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kashta tikishda eng ko’p ishlatiladigan ip turi qaysi?",
+    "A": "Paxta ipi.",
+    "B": "Ipak ipi",
+    "C": "Sintetik ipi",
+    "D": "Jun ipi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kashtachilikda “atlas tikuvi” nima?",
+    "A": "Matoga ip bilan naqsh solish usuli.",
+    "B": "Matoni to’qish usuli",
+    "C": "Ipni ranglash usuli",
+    "D": "Matoni tikish usuli",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kashta tikish san’ati qaysi mamlakatda mashhur?",
+    "A": "Yaponiyada.",
+    "B": "Braziliyada",
+    "C": "Avstraliyada",
+    "D": "Kanadada",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kashta tikishda “zanjirli tikuv” qanday ko’rinishga ega?",
+    "A": "Bir-biriga ulanib turgan kichik zanjirlar.",
+    "B": "Doimiy aylana shakli",
+    "C": "Yassi chiziqlar",
+    "D": "To’liq yopiq shakl",
+    "tugri": "A"
+  },
+  {
+    "savol": "Biser tikish usuli nima?",
+    "A": "Matoga biser yoki munchoqlarni tikish orqali bezash.",
+    "B": "Matoga ip bilan naqsh solish",
+    "C": "Matoni to’qish",
+    "D": "Matoni ranglash",
+    "tugri": "A"
+  },
+  {
+    "savol": "Biser tikishda qanday asboblar ishlatiladi?",
+    "A": "Ignalar va iplar.",
+    "B": "Pichoq va qalam",
+    "C": "Qaychi va igna",
+    "D": "Qaychi va qalim",
+    "tugri": "A"
+  },
+  {
+    "savol": "Biser tikish uchun qaysi matolar eng maqbul hisoblanadi?",
+    "A": "O’rta qalinlikdagi matolar.",
+    "B": "Paxta",
+    "C": "Nilon matolari",
+    "D": "Qalin matolar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Biser tikishda naqshni qanday yaratish mumkin?",
+    "A": "Turli shakl va naqshlarda.",
+    "B": "Faqat geometrik shakllarda",
+    "C": "Faqat gorizontal chiziqlar shaklida",
+    "D": "Faqat to’g’ri chiziqlar shaklida",
+    "tugri": "A"
+  },
+  {
+    "savol": "Biser tikishda naqshni yaratish uchun qanday texnikalardan foydalaniladi?",
+    "A": "Tikuv va yelimlash usullari.",
+    "B": "Faqat yelimlash usullari",
+    "C": "Faqat tikuv usullari",
+    "D": "Faqat bo’rtirma usullari",
+    "tugri": "A"
+  },
+  {
+    "savol": "Biser tikishda naqshni yaratish uchun qanday naqshlar ishlatiladi?",
+    "A": "Turli xil naqshlar.",
+    "B": "Faqat hayvonot naqshlari",
+    "C": "Faqat geometrik naqshlar",
+    "D": "Faqat o’simlik naqshlari",
+    "tugri": "A"
+  },
+  {
+    "savol": "Biser tikishda naqshni yaratish uchun qanday ranglar ishlatiladi?",
+    "A": "Turli ranglar.",
+    "B": "Faqat sovuq ranglar",
+    "C": "Faqat qora va oq ranglar",
+    "D": "Faqat bir rang",
+    "tugri": "A"
+  },
+  {
+    "savol": "Biser tikishda naqshni yaratish uchun qanday materiallar ishlatiladi?",
+    "A": "Biser, mato va ip.",
+    "B": "Biser va mato",
+    "C": "mato",
+    "D": "Faqat biser",
+    "tugri": "A"
+  },
+  {
+    "savol": "Biser tikish usullari nechta?",
+    "A": "4-usul.",
+    "B": "3-usul",
+    "C": "5-usul",
+    "D": "2-usul",
+    "tugri": "A"
+  },
+  {
+    "savol": "Zardo’zlik san’atining qaysi davrda shakllanganligi haqida ma’lumotlar mavjud?",
+    "A": "O’rta asrlarda.",
+    "B": "Qadimgi Misr davrida",
+    "C": "Qadimgi Yunoniston davrida",
+    "D": "19-asrda",
+    "tugri": "A"
+  },
+  {
+    "savol": "Ranglar doirasida to’liq to’plamda nechta asosiy rang mavjud?",
+    "A": "3.",
+    "B": "6",
+    "C": "12",
+    "D": "24",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tikuvchilikda “monoxromatik” ranglar uyg’unligi nima?",
+    "A": "Bir xil rangning turli soyalar.",
+    "B": "Qarama-qarshi ranglarning kombinatsiyasi",
+    "C": "Qo’sh ranglarning uyg’unligi",
+    "D": "Ranglarning yorqinligini",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tikuvchilikda “analog” ranglar uyg’unligi nima?",
+    "A": "Bir-biriga yaqin ranglarning kombinatsiyasi.",
+    "B": "Ranglarning to’yinganligini kamaytirish",
+    "C": "Ranglarning yorqinligini oshirish",
+    "D": "Qarama-qarshi ranglarning uyg’unligi",
+    "tugri": "A"
+  },
+    {
+    "savol": "Qaysi ranglar to’plami “sovuq” ranglarga kiradi?",
+    "A": "Moviy, yashil, binafsha.",
+    "B": "Qizil, sariq, sariq",
+    "C": "To’q qizil, jigarrang, qora",
+    "D": "qizil,sariq,yashil",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qaysi ranglar to’plami “issiq” ranglarga kiradi?",
+    "A": "Qizil, sariq, to’q sariq.",
+    "B": "Moviy, binafsha",
+    "C": "To’q qizil, jigarrang",
+    "D": "moviy, qora, yashil",
+    "tugri": "A"
+  },
+  {
+    "savol": "Tikuvchilikda ranglar uyg’unligini yaratishda qaysi usuldan foydalanish tavsiya etiladi?",
+    "A": "Ranglar doirasidagi qo’sh ranglarni tanlash.",
+    "B": "Faqat bir rangni ishlatish",
+    "C": "Ranglarning yorqinligini kamaytirish",
+    "D": "Ranglarning to’yinganligini oshirish",
+    "tugri": "A"
+  },
+  {
+    "savol": "Mato turiga qarab model yaratishda qaysi omil eng muhim hisoblanadi?",
+    "A": "Matoning tuzilishi va elastikligi.",
+    "B": "Matoning rangi",
+    "C": "Matoning narxi",
+    "D": "Matoning brendi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qaysi mato turi qattiq va shaklni yaxshi ushlab turadi, shuning uchun rasmiy kiyimlar uchun mos keladi?",
+    "A": "Lana.",
+    "B": "Paxta",
+    "C": "Jensi",
+    "D": "Jersi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qaysi mato turi cho’ziluvchanligi tufayli sport kiyimlari uchun keng qo’llaniladi?",
+    "A": "Spandeks.",
+    "B": "Jins",
+    "C": "Lana",
+    "D": "Paxta",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qaysi mato turi odatda rasmiy kostyumlar uchun ishlatiladi, chunki u silliq va porloq ko’rinishga ega?",
+    "A": "Tafta.",
+    "B": "Atlas",
+    "C": "Paxta",
+    "D": "Jersey",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qaysi mato turi ko’pincha qishki kiyimlar uchun ishlatiladi, chunki u issiqlikni yaxshi ushlab turadi?",
+    "A": "Lana.",
+    "B": "Paxta",
+    "C": "Jens",
+    "D": "Taft",
+    "tugri": "A"
+  },
+  {
+    "savol": "Mato turiga qarab model yaratishda dizaynerlar nimani hisobga olishlari kerak?",
+    "A": "Matoning tuzilishini va foydalanish maqsadini.",
+    "B": "Matoning rangini",
+    "C": "Matoning narxini",
+    "D": "Matoning brendini",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kostyumda dekorativ bezaklarning asosiy vazifasi nima?",
+    "A": "Kiyimga estetik ko’rinish berish.",
+    "B": "Kiyimning funksionalligini oshirish",
+    "C": "Kiyimning narxini oshirish",
+    "D": "Kiyimni og’irlashtirish",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qaysi bezak turi kostyumning shaklini o’zgartirish yoki ajratib ko’rsatishda ishlatiladi?",
+    "A": "Bo’rtma burmalar.",
+    "B": "Kashta",
+    "C": "Tugmalar",
+    "D": "Cho’ntaklar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kostyumda dekorativ bezaklar qanday asosiy guruhlarga bo’linadi?",
+    "A": "Shakli va materialiga qarab.",
+    "B": "Rangiga qarab",
+    "C": "Narxiga qarab",
+    "D": "Faqat funksiyasiga qarab",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qaysi bezak turi faqat dekorativ maqsadda ishlatiladi va ko’pincha qo’shimcha materiallardan tayyorlanadi?",
+    "A": "Qo’yma burmalar.",
+    "B": "Bo'rtma burmalar",
+    "C": "Kashta",
+    "D": "Cho’ntaklar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kostyumda dekorativ bezaklar tanlashda qaysi omil muhim hisoblanadi?",
+    "A": "Bezakning mato bilan uyg’unligi.",
+    "B": "Bezakning narxi",
+    "C": "Bezakning funksionalligi",
+    "D": "Bezakning brendi",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kostyumda bezaklarni qo’shishda qanday usuldan foydalanish tavsiya etiladi?",
+    "A": "Bezakning turiga va matoga qarab mos usulni tanlash.",
+    "B": "Faqat mashina tikuvlari",
+    "C": "Faqat qo’lda tikish",
+    "D": "Bezaklarni yopishtirish",
+    "tugri": "A"
+  },
+  {
+    "savol": "Illuziya yaratishda qaysi usul matoning yorqinligini oshirishga yordam beradi?",
+    "A": "Matoni ranglash.",
+    "B": "Matoni qizdirish",
+    "C": "Matoni yuvish",
+    "D": "Matoni tikish",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qaysi mato turi yorqin ranglarni yaxshi ushlab turadi, bu esa illuziya yaratishda foydalidir?",
+    "A": "Taft.",
+    "B": "Lana",
+    "C": "Jins",
+    "D": "Paxta",
+    "tugri": "A"
+  },
+  {
+    "savol": "Illuziya yaratishda naqshlarning qanday joylashuvi muhim rol o’ynaydi?",
+    "A": "Vertikal va gorizontal chiziqlar.",
+    "B": "Tasodifiy joylashuvi",
+    "C": "Diagonal chiziqlar",
+    "D": "Gorizontal chiziqlar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Illuziya yaratishda matoning qanday tuzilishi afzalroqdir?",
+    "A": "Silliq.",
+    "B": "Qattiq",
+    "C": "Yumshoq",
+    "D": "To’qilgan",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qaysi usul matoning yuzasida yorqinlikni oshirishga yordam beradi, bu esa illuziya effektini kuchaytiradi?",
+    "A": "Matoni parlatish.",
+    "B": "Matoni ranglash",
+    "C": "Matoni qizdirish",
+    "D": "Matoni yuvish",
+    "tugri": "A"
+  },
+    {
+    "savol": "Illuziya yaratishda naqshlarning qanday o’lchami afzalroqdir?",
+    "A": "Kichik.",
+    "B": "O’rta",
+    "C": "Katta",
+    "D": "O’lcham muhim emas",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qaysi tikuv usuli matoning yuzasida yorqinlik va porlashni oshirishga yordam beradi?",
+    "A": "Kashta.",
+    "B": "Biser tikish",
+    "C": "Qo'yma burmalar",
+    "D": "Fermuar tikish",
+    "tugri": "A"
+  },
+  {
+    "savol": "Illuziya yaratishda matoning qanday ranglari afzalroqdir?",
+    "A": "Yorqin va to’yingan ranglar.",
+    "B": "Pastel ranglari",
+    "C": "Qora va oq",
+    "D": "Barcha ranglar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Illuziya yaratishda naqshlarning qanday takrorlanishi muhimdir?",
+    "A": "Doimiy va tartibli takrorlanish.",
+    "B": "Tasodifiy takrorlanish",
+    "C": "Takrorlanishning yo'qligi",
+    "D": "Takrorlanish faqat burchaklarda",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kiyim konstruksiyasida qanday usullar qo’llaniladi?",
+    "A": "Qo’lda va mashina tikish usullari kombinatsiyasi.",
+    "B": "Faqat qo’lda tikish",
+    "C": "Faqat mashina tikish",
+    "D": "Faqat bezak ishlovlari",
+    "tugri": "A"
+  },
+  {
+    "savol": "Kiyim konstruksiyasida naqshlarning qanday takrorlanishi muhimdir?",
+    "A": "Doimiy va tartibli takrorlanish.",
+    "B": "Tasodifiy takrorlanish",
+    "C": "Takrorlanishning yo’qligi",
+    "D": "Takrorlanish burchaklarda",
+    "tugri": "A"
+  },
+  {
+    "savol": "Gotika uslubining me’morchiligida qaysi elementlar asosiy o’rin tutadi?",
+    "A": "Yengil struktura, o’zgacha baland minoralar va katta vitrajlar.",
+    "B": "Qalin devorlar",
+    "C": "Yuqori gumbazlar va mozaik bezaklar",
+    "D": "Simmetrik rejalashtirish va bezaklar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Rokoko uslubining me’morchiligida qaysi elementlar asosiy o’rin tutadi?",
+    "A": "Asimmetrik shakllar, o’zgacha bezaklar va yorqin ranglar.",
+    "B": "Simmetrik rejalashtirish va oddiy bezaklar",
+    "C": "Yengil struktura, o’zgacha baland minoralar va katta vitrajlar",
+    "D": "Qalin devorlar va kichik derazalar",
+    "tugri": "A"
+  },
+  {
+    "savol": "Rokoko uslubi qanday san’at shakllarida namoyon bo’ldi?",
+    "A": "Me’morchilik, rasmlar, haykaltaroshlik va bezak san’atida.",
+    "B": "Faqat me’morchilikda",
+    "C": "Faqat rasmlarda",
+    "D": "Faqat haykaltaroshlikda",
+    "tugri": "A"
+  },
+  {
+    "savol": "XX asr boshlarida ayollar kostyumlarida qaysi elementlar asosiy o’rin tutgan?",
+    "A": "Tor bel va keng yubkalar.",
+    "B": "Keng yelka va tor yubkalar",
+    "C": "Keng yubkalar va qisqa ko’ylaklar",
+    "D": "Tor bel, keng yubkalar va uzun ko’ylaklar",
+    "tugri": "A"
+  },
+  {
+    "savol": "1920-yillarda erkaklar kostyumlarida qaysi uslub ommalashgan edi?",
+    "A": "Smokin.",
+    "B": "Tuxli",
+    "C": "Dublot",
+    "D": "Klassik kostyum",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qadimgi yunon erkaklarining asosiy kiyimi nima deb atalgan?",
+    "A": "Tunika.",
+    "B": "Himation",
+    "C": "Chiton",
+    "D": "Peplos",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qadimgi yunonlar kiyimlarini qanday materiallardan tayyorlashgan?",
+    "A": "Asosan jun matolaridan.",
+    "B": "Paxta va ipak",
+    "C": "Jun va ipak",
+    "D": "Paxta va jun",
+    "tugri": "A"
+  },
+  {
+    "savol": "Fantaziya uslubi qaysi asrda va qaysi mintaqada shakllangan?",
+    "A": "19-asr, Yevropada.",
+    "B": "20-asr, Shimoliy Amerikada",
+    "C": "19-asr, Shimoliy Amerikada",
+    "D": "20-asr, Yevropada",
+    "tugri": "A"
+  },
+  {
+    "savol": "Qadimgi yunon ayollarining libosi qanday nomlanadi?",
+    "A": "Peplos.",
+    "B": "Chiton",
+    "C": "Himation",
+    "D": "Tunika",
+    "tugri": "A"
+  }
+]

@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8" />
+  <title>Test Natijasi</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f0f8ff;
+      padding: 40px;
+      color: #333;
+    }
+    .box {
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      border-radius: 12px;
+      padding: 30px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #2e7d32;
+      text-align: center;
+      text-transform: uppercase;
+    }
+    .info-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 20px;
+    }
+    .info-table td {
+      padding: 8px 12px;
+      font-size: 16px;
+    }
+    .btn {
+      margin: 15px 10px 0;
+      padding: 10px 20px;
+      background: #1976d2;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    .btn:hover {
+      background: #125ea6;
+    }
+    .kodBox {
+      margin-top: 30px;
+      padding: 20px;
+      background: #f9f9f9;
+      border-radius: 10px;
+      display: none;
+    }
+    .question {
+      margin-bottom: 20px;
+      padding: 15px;
+      border-radius: 10px;
+      border-left: 5px solid transparent;
+    }
+    .correct {
+      background: #e8f5e9;
+      border-left-color: #43a047;
+    }
+    .incorrect {
+      background: #ffebee;
+      border-left-color: #e53935;
+    }
+    .answer {
+      margin-top: 8px;
+    }
+  </style>
+
+  <!-- HTML2PDF kutubxonasi -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+</head>
+<body>
+  <div class="box" id="resultBox">
+    <h1>Test Natijasi</h1>
+    <table class="info-table">
+      <tr><td><strong>F.I.SH:</strong></td><td id="fio"></td></tr>
+      <tr><td><strong>Guruh:</strong></td><td id="guruh"></td></tr>
+      <tr><td><strong>Boshlanish vaqti:</strong></td><td id="boshlanish"></td></tr>
+      <tr><td><strong>Tugatish vaqti:</strong></td><td id="tugatish"></td></tr>
+      <tr><td><strong>To'g'ri javoblar soni:</strong></td><td id="togri"></td></tr>
+      <tr><td><strong>Foiz:</strong></td><td id="foiz"></td></tr>
+      <tr><td><strong>Ball:</strong></td><td id="ball"></td></tr>
+      <tr><td><strong>Baho:</strong></td><td id="baho"></td></tr>
+    </table>
+
+    <button class="btn" onclick="showDetails()">KO'RIB CHIQISH</button>
+    <button class="btn" onclick="downloadPDF()">PDF YUKLAB OLISH</button>
+    <a href="index.html" class="btn" id="restartBtn" style="display: none;">BOSH SAHIFA</a>
+
+    <div class="kodBox" id="kodBox"></div>
+  </div>
+
+  <script>
+    const data = JSON.parse(localStorage.getItem("natija"));
+
+    // Formatlash funksiyasi
+    // Formatlash funksiyasi
+function formatTime(dateStr) {
+  const date = new Date(dateStr);
+  return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")} ` +
+         `${String(date.getHours()).padStart(2, "0")}:${String(date.getMinutes()).padStart(2, "0")}:${String(date.getSeconds()).padStart(2, "0")}`;
+}
+
+
+
+
+    // Natijalarni joylash
+    document.getElementById("fio").innerText = `${data.familiya} ${data.ism}`;
+    document.getElementById("guruh").innerText = data.guruh;
+    document.getElementById("togri").innerText = data.togri;
+    document.getElementById("foiz").innerText = `${data.foiz}%`;
+    document.getElementById("ball").innerText = data.ball;
+    document.getElementById("baho").innerText = data.baho;
+
+    // Boshlanish va tugash vaqtlarini ko‘rsatish
+    if (data.boshlanishVaqti && data.tugashVaqti) {
+      document.getElementById("boshlanish").innerText = formatTime(data.boshlanishVaqti);
+      document.getElementById("tugatish").innerText = formatTime(data.tugashVaqti);
+    } else {
+      document.getElementById("boshlanish").innerText = "Ma'lumot yo‘q";
+      document.getElementById("tugatish").innerText = "Ma'lumot yo‘q";
+    }
+
+    // Tafsilotlarni ko‘rsatish
+    function showDetails() {
+      const box = document.getElementById("kodBox");
+      box.style.display = "block";
+      box.innerHTML = "";
+
+      data.userAnswers.forEach((item, i) => {
+        const div = document.createElement("div");
+        const isCorrect = item.userAnswer === item.tugri;
+
+        const userText = item.variants.find(v => v.key === item.userAnswer)?.text || "Tanlanmadi";
+        const correctText = item.variants.find(v => v.key === item.tugri)?.text || "Noma'lum";
+
+        div.className = "question " + (isCorrect ? "correct" : "incorrect");
+        div.innerHTML = `
+          <strong>${i + 1}. ${item.savol}</strong>
+          <div class="answer"><b>Siz tanlagan javob:</b> ${userText}</div>
+          ${!isCorrect ? `<div class="answer"><b>To‘g‘ri javob:</b> ${correctText}</div>` : ""}
+        `;
+        box.appendChild(div);
+      });
+
+      // 0.5 soniyadan so'ng avtomatik PDF yuklash
+      setTimeout(() => {
+        downloadPDF();
+      }, 500);
+    }
+
+    // PDF ga yuklab olish
+    function downloadPDF() {
+      const element = document.getElementById("resultBox");
+      const opt = {
+        margin:       0.3,
+        filename:     `Test_natijasi_${data.guruh}_${data.familiya}_${data.ism}.pdf`,
+        image:        { type: 'jpeg', quality: 0.98 },
+        html2canvas:  { scale: 2 },
+        jsPDF:        { unit: 'in', format: 'a4', orientation: 'portrait' }
+      };
+      html2pdf().set(opt).from(element).save();
+    }
+
+    // 2 daqiqadan so‘ng "Yana Test Yechish" tugmasi ko‘rinadi
+    setTimeout(() => {
+      document.getElementById("restartBtn").style.display = "inline-block";
+    }, 120000);
+  </script>
+</body>
+</html>

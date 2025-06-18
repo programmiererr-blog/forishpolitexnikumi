@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Forish Politexnikumi Test Platformasi</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Roboto', sans-serif;
+    }
+
+    body, html {
+      height: 100%;
+      overflow: hidden;
+    }
+
+    .slider-background {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+    }
+
+    .slider-background img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      position: absolute;
+      opacity: 0;
+      transition: opacity 1s ease-in-out;
+    }
+
+    .slider-background img.active {
+      opacity: 1;
+    }
+
+    nav {
+      background-color: rgba(0, 64, 128, 0.8);
+      color: white;
+      padding: 1rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      position: relative;
+      z-index: 2;
+    }
+    .logo>img{
+      width: 50px;
+      height: 50px;
+      border-radius:40%;
+
+    }
+
+    .nav-title {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 1.3rem;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+
+    .nav-links button {
+      background-color: white;
+      color: #004080;
+      border: none;
+      padding: 0.5rem 1rem;
+      margin-left: 1rem;
+      font-weight: bold;
+      cursor: pointer;
+      border-radius: 5px;
+      transition: background-color 0.3s;
+      text-transform: uppercase;
+    }
+
+    .nav-links button:hover {
+      background-color: #dceeff;
+    }
+
+    .main {
+      height: calc(100vh - 70px);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+    }
+
+    .scrolling-text {
+      position: absolute;
+      white-space: nowrap;
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: #004080;
+      background-color: rgba(255, 255, 255, 0.7);
+      padding: 10px 20px;
+      border-radius: 10px;
+      animation: scroll-left 15s linear infinite;
+      text-transform: uppercase;
+      z-index: 1;
+    }
+
+    @keyframes scroll-left {
+      from {transform: translateX(100%);}
+      to {transform: translateX(-100%);}
+    }
+  </style>
+</head>
+<body>
+
+  <!-- SLIDER BACKGROUND -->
+  <div class="slider-background">
+    <img src="./assets/back1.png" class="active" />
+    <img src="./assets/back2.png" />
+    <img src="./assets/back3.png" />
+    <img src="./assets/back4.png" />
+    <img src="./assets/back5.png" />
+    <img src="./assets/back6.png" />
+    <img src="./assets/back7.png" />
+    <img src="./assets/back8.png" />
+    <img src="./assets/back9.png" />
+    <img src="./assets/back10.png" />
+    <img src="./assets/back11.png" />
+    <img src="./assets/back12.png" />
+    
+  </div>
+
+  <!-- NAVIGATION -->
+  <nav>
+    
+    <div class="nav-title"><div class="logo"><img src="./assets/logo.jpg" /></div>&nbsp&nbsp Forish Tuman Politexnikumi</div>
+    <div class="nav-links" id="navButtons">
+      <!-- JS orqali tugmalar -->
+    </div>
+  </nav>
+
+  <!-- MAIN SECTION -->
+  <div class="main">
+    <div class="scrolling-text">
+      Forish Politexnikumi sayt test rejimda ishlamoqda...
+    </div>
+  </div>
+
+  <script>
+    // Navigatsiya tugmalari
+    const nav = document.getElementById('navButtons');
+    const user = localStorage.getItem('loggedInUser');
+
+    if (user) {
+      nav.innerHTML = `<button onclick="logout()">Chiqish</button>`;
+    } else {
+      nav.innerHTML = `
+        <button onclick="window.location.href='student-login.html'">Talaba</button>
+        <button onclick="window.location.href='admin-login.html'">Admin</button>
+      `;
+    }
+
+    function logout() {
+      localStorage.removeItem('loggedInUser');
+      window.location.href = 'index.html';
+    }
+
+    // Slider avtomatik almashish
+    const slides = document.querySelectorAll('.slider-background img');
+    let index = 0;
+
+    setInterval(() => {
+      slides[index].classList.remove('active');
+      index = (index + 1) % slides.length;
+      slides[index].classList.add('active');
+    }, 5000); // 5 soniyada bir o‘zgaradi
+  </script>
+
+</body>
+</html>
