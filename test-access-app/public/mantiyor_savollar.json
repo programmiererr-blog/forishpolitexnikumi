@@ -1,7 +1,7 @@
 [
   {
     "savol": "O‘zbekiston elektr tarmoqlarida qanday nominal kuchlanishlar mavjud?",
-    "A": "0,22,,500 kV.",
+    "A": "0,22,,500 kV",
     "B": "0,23……,380 kV",
     "C": "0,6……,500 kV",
     "D": "0,6……,500 kV",
@@ -9,7 +9,7 @@
   },
   {
     "savol": "To‘la, aktiv va reaktiv quvvatlarning o‘lchov birliklari to‘g‘ri ketma ketlikda ko‘rsatilgan qatorni aniqlang?",
-    "A": "kVA, kVt, kVar.",
+    "A": "kVA, kVt, kVar",
     "B": "kVA va kVar",
     "C": "kVt, kVar va kVA",
     "D": "kVt va kVar",
@@ -17,7 +17,7 @@
   },
   {
     "savol": "Kuchlanish o‘lchov transformatorlari birlamchi zanjir tarmog‘iga qanday ulanadi?",
-    "A": "Parallel.",
+    "A": "Parallel",
     "B": "Ketma-ket",
     "C": "parallel ketma-ket",
     "D": "perpindikulyar",
@@ -25,7 +25,7 @@
   },
   {
     "savol": "Transformatorlarda moy qanday vazifani bajaradi?",
-    "A": "sovitish.",
+    "A": "sovitish",
     "B": "metal ishqalanganda yemirilishni kamaytiradi",
     "C": "hech qanday foydasi yo’q",
     "D": "qizitadi",
@@ -33,7 +33,7 @@
   },
   {
     "savol": "Qanday lampalar eng tejamkor yorug`lik manbalariga kiradi",
-    "A": "Led.",
+    "A": "Led",
     "B": "Lyuminisent",
     "C": "Foton",
     "D": "Chiroq",
@@ -41,7 +41,7 @@
   },
   {
     "savol": "Ko‘p simli o‘tkazgichlar qanday materiallardan tayyorlanadi?",
-    "A": "Mis va alyuminiydan.",
+    "A": "Mis va alyuminiydan",
     "B": "mis platina",
     "C": "alyumen latun",
     "D": "temer kumush",
@@ -49,7 +49,7 @@
   },
   {
     "savol": "Elektr ta’minoti tizimida kuchlanishning standart kattaliklarini ko‘rsating",
-    "A": "0,22;0,38;0,66;3;6;10;20;35;110;150;220;330;500;750;1150 kV.",
+    "A": "0,22;0,38;0,66;3;6;10;20;35;110;150;220;330;500;750;1150 kV",
     "B": "0,22;0,38;0,66;3;4;10;20;35;110;150;220;330;500;750;1150 kV",
     "C": "0,22;0,38;0,66;3;7;10;20;35;110;150;220;330;500;750;1150 kV",
     "D": "20;35;110;150;220;330;500;750;1150 kV",
@@ -57,7 +57,7 @@
   },
   {
     "savol": "Tranformator pasport parametrlarida qaysi kattalik mavjud emas",
-    "A": "Yillik energiya isrofi.",
+    "A": "Yillik energiya isrofi",
     "B": "ishlash muddati",
     "C": "yillik energiya ishlab chiqarishi",
     "D": "oylik energiya ishlab cheqaradi",
@@ -65,7 +65,7 @@
   },
   {
     "savol": "O‘zbekistonda eng katta quvvatli issiqlik elektr stansiyasi qaysi?",
-    "A": "Sirdaryo IES.",
+    "A": "Sirdaryo IES",
     "B": "Qashqadarya IES",
     "C": "Navoiy IES",
     "D": "Talimarjon IES",
@@ -73,7 +73,7 @@
   },
   {
     "savol": "O‘zbekistonda eng katta quvvatli GES?",
-    "A": "Chorvoq GES.",
+    "A": "Chorvoq GES",
     "B": "O`zbekistonda GES yo`q",
     "C": "Fatxod GES",
     "D": "A va C",
@@ -81,7 +81,7 @@
   },
   {
     "savol": "Gidroturbinaning vazifasi?",
-    "A": "SUV energiyasini mexanik energiyaga aylantirish.",
+    "A": "SUV energiyasini mexanik energiyaga aylantirish",
     "B": "Potensial energiyani kinetik energiyaga aylantirish",
     "C": "Barcha javob to’g’ri",
     "D": "Suvning potensial energiyasini kinetik energiyaga aylantiradi",
@@ -89,7 +89,7 @@
   },
   {
     "savol": "Bug‘ turbinasining vazifasi?",
-    "A": "Bug’ning mexanik energiyasini elektr energiyaga aylantiruvchi qurilma.",
+    "A": "Bug’ning mexanik energiyasini elektr energiyaga aylantiruvchi qurilma",
     "B": "Potensial energiyani kinetic energiyaga aylantirish",
     "C": "SUV energiyasini mexanik energiyaga aylantirish",
     "D": "To`g`ri javob yo`q",
@@ -97,7 +97,7 @@
   },
   {
     "savol": "Aktiv quvvatning o‘lchov birligi?",
-    "A": "Vt, kVt, MVt.",
+    "A": "Vt, kVt, MVt",
     "B": "Om, kOm, Mom",
     "C": "VA, kVA, MVA",
     "D": "Var, KVar, MVar",
@@ -105,7 +105,7 @@
   },
   {
     "savol": "Kuchlanishning o‘lchov birligi?",
-    "A": "V; KV.",
+    "A": "V; KV",
     "B": "VA, KVA",
     "C": "Om, KOm, MOm",
     "D": "barcha javoblar to’g’ri",
@@ -113,7 +113,7 @@
   },
   {
     "savol": "Qayta tiklanuvchan energiya manbalari qaysilar?",
-    "A": "Quyosh enegiyasi, shamol, geotermal energiyalar.",
+    "A": "Quyosh enegiyasi, shamol, geotermal energiyalar",
     "B": "AES,termal issiqlik stansiyasi",
     "C": "IES,GES",
     "D": "GES va shamol gidravlik,geotermal energiyalar",
@@ -121,7 +121,7 @@
   },
   {
     "savol": "Birlamchi energiya nima?",
-    "A": "Tabiatdan olinadigan energiya.",
+    "A": "Tabiatdan olinadigan energiya",
     "B": "Quyosh enegiyasi olinadigan energiya.",
     "C": "Shamol gidravlik,geotermal energiyalar olinadigan energiya",
     "D": "Qayta tiklanadigan energiya",
@@ -129,7 +129,7 @@
   },
   {
     "savol": "Tiklanadigan energetik resurslar deb nimaga aytiladi?",
-    "A": "Tabiat tomonidan qayta tiklanadigan resurslar (suv, shamol, quyosh).",
+    "A": "Tabiat tomonidan qayta tiklanadigan resurslar (suv, shamol, quyosh)",
     "B": "AES,GES",
     "C": "Tabiat tomonidan qayta tiklanmayadigan resurslar",
     "D": "Tiklanadigan energiya manbalari yo`q",
@@ -137,7 +137,7 @@
   },
   {
     "savol": "Issiqlik elektr stansiyasida birlamchi energiyasi sifatida qanday energetik resurslar ishlatiladi?",
-    "A": "Ko'mir, tabiy gaz, mazut.",
+    "A": "Ko'mir, tabiy gaz, mazut",
     "B": "uran, shamol",
     "C": "quyosh nuri, suv",
     "D": "Qayta tiklanuvchan energiya manbalari",
@@ -145,7 +145,7 @@
   },
   {
     "savol": "Tiklanmaydigan energetik resurslarga nimalar kiradi?",
-    "A": "Ko'mir, neft, tabiy gaz.",
+    "A": "Ko'mir, neft, tabiy gaz",
     "B": "Quyosh enegiyasi olinadigan energiya",
     "C": "Shamol energiyasidan olinadigan energiya",
     "D": "Geotermal energiyalar olinadigan energiya",
@@ -153,7 +153,7 @@
   },
   {
     "savol": "Ampermetr elektr zanjiriga qanday ulanadi?",
-    "A": "ketma - ket.",
+    "A": "ketma - ket",
     "B": "parallel",
     "C": "aralash",
     "D": "parallel va ketma-ket",
@@ -162,7 +162,7 @@
     {
     "savol": "Tok o‘lchov transformatorining vazifasi nimadan iborat?",
     "A": "o‘lchash asboblarini, rele himoyasi va avtomatikasi elementlarini ulash uchun foydalaniladi.",
-    "B": "o‘lchash asboblarini ulash uchun",
+    "B": "o‘lchash asboblarini ulash uchun.",
     "C": "rele himoyasi va avtomatikasi elementlarini ulash uchun",
     "D": "to’g’ri javob yo’q",
     "tugri": "A"
@@ -170,7 +170,7 @@
   {
     "savol": "Kuchlanish transformatorining vazifasi nimalardan iborat?",
     "A": "o‘lchash asboblarini, rele himoyasi va avtomatikasi elementlarini ulash uchun ishlatiladi.",
-    "B": "o‘lchash asboblarini",
+    "B": "o‘lchash asboblarini.",
     "C": "rele himoyasi va avtomatikasi elementlarini ulash uchun ishlatiladi",
     "D": "avtomatikasi eiementlar",
     "tugri": "A"
@@ -178,7 +178,7 @@
   {
     "savol": "Reaktiv quvvatning o‘lchov birligi?",
     "A": "Var, kVar, MVar.",
-    "B": "Om, kOm, MOm",
+    "B": "Om, kOm, MOm.",
     "C": "Vt, kVt, MVt",
     "D": "Vatt, kVA, MVA",
     "tugri": "A"
@@ -188,7 +188,7 @@
     "A": "98-99 %",
     "B": "80%",
     "C": "90%",
-    "D": "100%",
+    "D": "100%.",
     "tugri": "A"
   },
   {
@@ -196,12 +196,12 @@
     "A": "1 kOm.",
     "B": "10 kOm",
     "C": "100 kOm",
-    "D": "100 Om",
+    "D": "100 Om.",
     "tugri": "A"
   },
   {
     "savol": "Jarohatlangan kishiga qancha vaqt ichida yordam ko’rsatilsa samarasi yuqori bo’ladi?",
-    "A": "4-5 min.",
+    "A": "4-5 min",
     "B": "5-6 min",
     "C": "6-8 min",
     "D": "8-10 min",
@@ -209,7 +209,7 @@
   },
   {
     "savol": "Quyidagi o’lchov asboblaridan qaysi birining yordamida elektr tokining kuchi o’lchanadi?",
-    "A": "Ampermetr.",
+    "A": "Ampermetr",
     "B": "Ossillograf",
     "C": "Fazometr",
     "D": "Voltmetr",
@@ -217,7 +217,7 @@
   },
   {
     "savol": "Keltirilgan elementlarning qaysi birida elektr zaryadlari to’planishi mumkin?",
-    "A": "Kondensator.",
+    "A": "Kondensator",
     "B": "Rezsistor",
     "C": "Induktiv g’altak (L)",
     "D": "Xech birida",
@@ -225,7 +225,7 @@
   },
   {
     "savol": "Uchinchi toifadagi iste’molchilar elektr energiya bilan qanday ta’minlanadi?",
-    "A": "Bitta ta'minot manbaidan.",
+    "A": "Bitta ta'minot manbaidan",
     "B": "Ikkita ta’minot manbaidan",
     "C": "Uchinchi ta’minot manbaidan",
     "D": "Beshta ta’minot manbaidan",
@@ -233,7 +233,7 @@
   },
   {
     "savol": "Tok transformatorining ikkilamchi cho‘lg‘amining standart toki necha amper?",
-    "A": "1 A yoki 5 A.",
+    "A": "1 A yoki 5 A",
     "B": "4 A yoki 5 A",
     "C": "1 A yoki 3 A",
     "D": "2 A yoki 5 A",
@@ -241,7 +241,7 @@
   },
   {
     "savol": "Aktiv quvvat formulasi to‘g‘ri javobni ko‘rsating?",
-    "A": "P= IUcosф.",
+    "A": "P= IUcosф",
     "B": "Q= IUcosф",
     "C": "A= IUsinф",
     "D": "P=IU",
@@ -249,7 +249,7 @@
   },
   {
     "savol": "Elektr toki ta’siriga tushib qolgan kishiga birinchi bo’lib qanday yordam ko’rsatish kerak?",
-    "A": "Tokni ajratish yoki tok ta’siridan qutqazib olish kerak.",
+    "A": "Tokni ajratish yoki tok ta’siridan qutqazib olish kerak",
     "B": "Qo’lidan tortish kerak",
     "C": "Yerga ko’mish kerak",
     "D": "Oyog’idan tortish kerak",
@@ -257,7 +257,7 @@
   },
   {
     "savol": "Qurilmalarni yerga ulashdan maqsad nima?",
-    "A": "Xizmat ko’rsatuvchi xodimlarni xavfsizligini ta’minlash.",
+    "A": "Xizmat ko’rsatuvchi xodimlarni xavfsizligini ta’minlash",
     "B": "Tokdan himoyalash",
     "C": "Yashindan himoyalash",
     "D": "Elektr energiyasini tejash",
@@ -265,7 +265,7 @@
   },
   {
     "savol": "Elektr toki ta’sirida inson organizmida qanday ta’sir kuzatiladi?",
-    "A": "Termik, mexanik va kimyoviy.",
+    "A": "Termik, mexanik va kimyoviy",
     "B": "Mexanik, elektroitik va biologik",
     "C": "Kimyoviy, termik va biologik",
     "D": "Termik, elektrolitik va biologik",
@@ -273,7 +273,7 @@
   },
   {
     "savol": "Dielektrik rezinali gilamlar nechchi voltgacha himoya vazifasi bo’ladi?",
-    "A": "1000 V.",
+    "A": "1000 V",
     "B": "220 V",
     "C": "380 V",
     "D": "1000 V dan yuqori",
@@ -281,7 +281,7 @@
   },
   {
     "savol": "TT va TN lar qanday qurilma?",
-    "A": "o’lchov transformatorlari.",
+    "A": "o’lchov transformatorlari",
     "B": "Hisoblagichlar",
     "C": "kuch transformatorlari",
     "D": "Rubilnik",
@@ -289,7 +289,7 @@
   },
   {
     "savol": "Gelioenergetika nima?",
-    "A": "Quyoshdan energiya olish.",
+    "A": "Quyoshdan energiya olish",
     "B": "Yer ostidagi issiqlik energiyasidan foydalanish",
     "C": "Suvdan energiya olish",
     "D": "Okean to’lqinlaridan energiya olish",
@@ -297,7 +297,7 @@
   },
   {
     "savol": "Elektr iste’molchilar ishlash toki turi bo'yicha necha xil bo'ladi?",
-    "A": "2xil.",
+    "A": "2xil",
     "B": "3xil",
     "C": "4xil",
     "D": "1xil",
@@ -305,7 +305,7 @@
   },
   {
     "savol": "Elеktr kuchlаnishi dеb nimаgа аytilаdi?",
-    "A": "Ikki nuqtа оrаsidаgi pоtеntsiаllаr fаrqi.",
+    "A": "Ikki nuqtа оrаsidаgi pоtеntsiаllаr fаrqi",
     "B": "Ikki nuqtа pоtеntsiаllаrining tа’siri",
     "C": "Pоtеntsiаllar ayirmasi",
     "D": "Uch nuqtа pоtеntsiаllаrining tа’siri",
@@ -313,7 +313,7 @@
   },
   {
     "savol": "Elеktr zаnjirigа vоltmеtr qаndаy ulаnishi kеrаk?",
-    "A": "Yuklаmа qаrshiligigа pаrаllеl.",
+    "A": "Yuklаmа qаrshiligigа pаrаllеl",
     "B": "Iste'molchi qаrshiligigа kеtmа-kеt",
     "C": "Qаrаmа - qаrshi",
     "D": "Aralash",
@@ -321,7 +321,7 @@
   },
     {
     "savol": "Kirxgofning II-qonuni qaysi kattaliklarni bog’laydi?",
-    "A": "EYuK va kuchlanish tushuvi.",
+    "A": "EYuK va kuchlanish tushuvi",
     "B": "Kirish toklari bilan chiqish toklarini",
     "C": "Magnit oqim va tok",
     "D": "Tok va moment",
@@ -329,7 +329,7 @@
   },
   {
     "savol": "Vattmetr tarmoqga qanday ulanadi?",
-    "A": "Ketma-ket-Paralel.",
+    "A": "Ketma-ket-Paralel",
     "B": "Paralel",
     "C": "Ketma-ket",
     "D": "Zigzag",
@@ -337,7 +337,7 @@
   },
   {
     "savol": "Atrof – muhitga, ekologiyaga eng katta zarar yetkazadigan elektr stansiyasi?",
-    "A": "IES.",
+    "A": "IES",
     "B": "AES",
     "C": "GES",
     "D": "GAES",
@@ -345,7 +345,7 @@
   },
   {
     "savol": "Qaysi elektr istemolchi elektr mashinalarga misol bo’la oladi?",
-    "A": "Motor.",
+    "A": "Motor",
     "B": "Bug’ turbinasi",
     "C": "Gaz turbinasi",
     "D": "Quyosh panellari",
@@ -353,7 +353,7 @@
   },
   {
     "savol": "Elektr energiya ishlab chiqaradigan qurilma bu ____ hisoblanadi.",
-    "A": "Generator.",
+    "A": "Generator",
     "B": "Akkumulyator",
     "C": "Motor",
     "D": "Transformator",
@@ -369,7 +369,7 @@
   },
   {
     "savol": "Elektr birliklarining qaysi biri - Vatt da o’lchаnаdi?",
-    "A": "P.",
+    "A": "P",
     "B": "S",
     "C": "Q",
     "D": "R",
@@ -377,7 +377,7 @@
   },
   {
     "savol": "Quvvаt kоffitsеnti bu____ ga aytiladi",
-    "A": "Аktiv quvvаtni to’lа quvvаtgа nisbаti.",
+    "A": "Аktiv quvvаtni to’lа quvvаtgа nisbаti",
     "B": "Rеаktiv quvvаtni to’lа quvvаtgа nisbаti",
     "C": "Аktiv quvvаtni rеаktiv quvvаtgа nisbаti",
     "D": "Reaktiv quvvat",
@@ -385,7 +385,7 @@
   },
   {
     "savol": "Quyidagi o’tkazgich materiallarni qaysi birining elektr o’tkazuvchanligi eng past hisoblanadi?",
-    "A": "Volfram.",
+    "A": "Volfram",
     "B": "Alyuminiy",
     "C": "Mis",
     "D": "Kumush",
@@ -393,7 +393,7 @@
   },
   {
     "savol": "Uchfazali dvigatellarda faza chulg`amlari statorda o’zaro necha gradus burchak ostida joylashgan bo’ladi?",
-    "A": "120°.",
+    "A": "120°",
     "B": "150°",
     "C": "180°",
     "D": "90°",
@@ -401,7 +401,7 @@
   },
   {
     "savol": "Transformator chulg’amlari qanday materialdan yasaladi?",
-    "A": "Mis va alyuminiydan.",
+    "A": "Mis va alyuminiydan",
     "B": "Misdan",
     "C": "Alyuminiydan",
     "D": "Po’latdan",
@@ -409,7 +409,7 @@
   },
   {
     "savol": "Elektr tokini o’tkazmaydigan elementlar nima deb ataladi?",
-    "A": "Dielektriklar.",
+    "A": "Dielektriklar",
     "B": "O’tkazgichlar",
     "C": "Elektrolitlar",
     "D": "Yarim o’tkazgichlar",
@@ -417,7 +417,7 @@
   },
   {
     "savol": "Elektrotexnika materiallari necha turga bo‘linadi?",
-    "A": "O‘tkazgichlar, dielektriklar, yarim o‘tkazgich, magnit materiallar.",
+    "A": "O‘tkazgichlar, dielektriklar, yarim o‘tkazgich, magnit materiallar",
     "B": "O‘tkazgichlar va izolyatorlar",
     "C": "O‘tkazgichlar, dielektriklar va yarim o‘tkazgichlar",
     "D": "O‘tkazgichlar, dielektriklar va magnit materiallar",
@@ -425,7 +425,7 @@
   },
   {
     "savol": "Solishtirma elektr qarshilik formulasini aniqlang?",
-    "A": "? = R* S / l.",
+    "A": "? = R* S / l",
     "B": "? = R /S * l",
     "C": "? = I / R S",
     "D": "? = S /R* l",
@@ -433,7 +433,7 @@
   },
   {
     "savol": "Metallarning temperaturasi oshishi bilan _________",
-    "A": "Qarshiligi ortadi.",
+    "A": "Qarshiligi ortadi",
     "B": "Qarshiligi o‘zgarmaydi",
     "C": "Qarshiligi kamayadi",
     "D": "O'tkazuvchanlik yo'qoladi",
@@ -441,7 +441,7 @@
   },
   {
     "savol": "Magnit materiallari deb nimaga aytiladi",
-    "A": "Tashqi magnit maydoni ta’sirida magnitlanish xossasiga ega elemenlar.",
+    "A": "Tashqi magnit maydoni ta’sirida magnitlanish xossasiga ega elemenlar",
     "B": "Elektr maydoni ta’sirida magnitlanish xossasiga ega elemenlar",
     "C": "O‘z-o‘zidan magnitlanish xossasiga ega elemenlar",
     "D": "Temir va uning qotishmalari",
@@ -465,7 +465,7 @@
   },
   {
     "savol": "Elektr hisoblagichlarning o‘lchash diapazonini kengaytirish uchun qaysi qurilmadan foydalaniladi?",
-    "A": "Tok va kuchlanish o‘lchash transformatorlari.",
+    "A": "Tok va kuchlanish o‘lchash transformatorlari",
     "B": "Aktiv va reaktiv energiya integrallovchi induksiyali asboblar",
     "C": "Aktiv elektr energiya CA3 turdagi uch fazali ikki elementli hisoblagichlar",
     "D": "Elektromagnit rezonansli o‘lchagichlar",
@@ -473,7 +473,7 @@
   },
   {
     "savol": "Katta sig’imli kondensator hosil qilish uchun kondensatorni qanday ulash lozim?",
-    "A": "Parallel.",
+    "A": "Parallel",
     "B": "Teskari",
     "C": "Ketma - ket",
     "D": "Hech qanday ulash kerak emas",
@@ -481,7 +481,7 @@
   },
   {
     "savol": "Taqsimlovchi elektr tarmoqlari qanday ifodalanadi?",
-    "A": "Elektr tarmog'ining tarqatish punktidan iste'molchilargacha bo'lgan qismi.",
+    "A": "Elektr tarmog'ining tarqatish punktidan iste'molchilargacha bo'lgan qismi",
     "B": "Elektir tarmoqlaridan iste'molchilargacha bo'lgan qismi",
     "C": "Iste'molchilargacha bo'lgan qismidan iste’molchigacha bo’lgan qismi",
     "D": "Elektir tarmoqlari qismidan bo'lgan qismi",
@@ -489,7 +489,7 @@
   },
     {
     "savol": "Elektr energiyasi nima uchun yuqori kuchlanishda uzatiladi?",
-    "A": "Elektr energiyasi isroflarini kamaytirish maqsadida.",
+    "A": "Elektr energiyasi isroflarini kamaytirish maqsadida",
     "B": "Elektr energiyasi keraklicha yetkazib berish maqsadida",
     "C": "Elektr energiyasi tejash  maqsadida",
     "D": "Elektr energiyasini uzatish uchun",
@@ -497,7 +497,7 @@
   },
   {
     "savol": "Elektr stansiyalar nimaga asoslanib nomlanadi?",
-    "A": "Ularda birlamchi energiyaning qaysi turi ishlatilishiga qarab.",
+    "A": "Ularda birlamchi energiyaning qaysi turi ishlatilishiga qarab",
     "B": "shamol gidravlik, geotermal energiyalar olinadigan energiya asosida",
     "C": "Quyoshdan olinadigan energiyaga",
     "D": "Suv energiyasiga asoslangan",
@@ -505,7 +505,7 @@
   },
   {
     "savol": "Kuchlanishiga ko’ra elektrotexnik qurilmalarning turlari",
-    "A": "1 kV gacha va 1kV dan yuqori.",
+    "A": "1 kV gacha va 1kV dan yuqori",
     "B": "1 kV gacha va 1MV dan yuqori",
     "C": "1 MV dan yuqori",
     "D": "1 kV dan kichik",
@@ -513,7 +513,7 @@
   },
   {
     "savol": "Elektr tarmoqlarining asosiy elementlari?",
-    "A": "Elektr uzatish liniyalari, podstansiyalar, taqsimlash punktlari.",
+    "A": "Elektr uzatish liniyalari, podstansiyalar, taqsimlash punktlari",
     "B": "O'tkazgich simlar va kadellar",
     "C": "elektr o'lchov asboblari va jihozlar.",
     "D": "Yarim o'tkazgichlar, diod tranzistorlar",
@@ -521,7 +521,7 @@
   },
   {
     "savol": "Transformatorning ishlash prinsipi qaysi qonunga asoslangan",
-    "A": "Elektromagnit induksiya qonuniga.",
+    "A": "Elektromagnit induksiya qonuniga",
     "B": "Om qonuniga asoslangan",
     "C": "joul-lens qonuni",
     "D": "Nyutonning birinchi va ikkinchi qonuniga",
@@ -529,7 +529,7 @@
   },
   {
     "savol": "Korxonadagi bosh pasaytiruvchi podstansiyaning korxona hududidagi o‘rni qanday tanlanadi",
-    "A": "Elektr yuklamalar markazi asosida.",
+    "A": "Elektr yuklamalar markazi asosida",
     "B": "eng yuqori kuchlanishda ishlaydigan sexga yaqin joyda",
     "C": "korxona xududiddan chetga",
     "D": "aniq shartlari mavjud emas",
@@ -537,7 +537,7 @@
   },
   {
     "savol": "Havo va kabel EUY ning kesim yuzasini tanlash kattaliklari ko’rsatilgan qatorni aniqlang",
-    "A": "Tok va tok zichligi asosida.",
+    "A": "Tok va tok zichligi asosida",
     "B": "kuchlanish asosida",
     "C": "qarshilik asosida",
     "D": "chastota asosida",
@@ -545,7 +545,7 @@
   },
   {
     "savol": "Transformatorning cho`lg‘amlari nima vazifani bajaradi?",
-    "A": "Elektromagnit jarayonlarni vujudga keltirish.",
+    "A": "Elektromagnit jarayonlarni vujudga keltirish",
     "B": "elektr tokini o’zidan o’tkazadi",
     "C": "magnit vazianini bajaradi",
     "D": "Yuqori,o'rta va past kuchlanishni o’tkazish",
@@ -553,7 +553,7 @@
   },
   {
     "savol": "Kuch transformatorining vazifasi nima?",
-    "A": "quvvat va chastotani (davr tezligini) saqlagan holda kuchlanishni o‘zgartiradi.",
+    "A": "quvvat va chastotani (davr tezligini) saqlagan holda kuchlanishni o‘zgartiradi",
     "B": "quvvat va chastotani saqlagan holda kuchlanishni oshiradi",
     "C": "quvvat va kuchlanishni saqlagan holda chastotani  o‘zgartiradi",
     "D": "kuchlanishni saqlagan holda chastotani  o‘zgartiradi",
@@ -562,14 +562,14 @@
   {
     "savol": "Transformatorning parallel ishlash shartlari to`g`ri ko‘rsatilgan javobni to’liq ko’rsating",
     "A": "nominal U lari va ulanish sxemasi mosligi, qisqa tutashuv kuchlanishi mosligi va nominal quvvati teng yoki farqi 1/3 dan ortmasligi",
-    "B": "qisqa tutashuv kuchlanishi mosligi va nominal quvvati teng",
+    "B": "qisqa tutashuv kuchlanishi mosligi va nominal quvvati teng.",
     "C": "nominal kuchlanishlari va ulanish sxemasi mosligi",
     "D": "nominal toklari va ulanish sxemasi mosligi",
     "tugri": "A"
   },
   {
     "savol": "Kuchlanishning ortishi yoritish qurilmalariga qanday ta’sir qiladi?",
-    "A": "lampani ishlash muddati kamayadi.",
+    "A": "lampani ishlash muddati kamayadi",
     "B": "lampa yorqinligi yana oshadi",
     "C": "lampa ishlashiga kuchlanishni tasiri yo’q",
     "D": "lampani ishlashi va yorug'ligi kamayadi",
@@ -577,7 +577,7 @@
   },
   {
     "savol": "O‘lchov transformatorlari nima uchun ishlatiladi?",
-    "A": "o‘lchov asboblari va releli himoya unsurlarini ulash uchun ishlatiladi.",
+    "A": "o‘lchov asboblari va releli himoya unsurlarini ulash uchun ishlatiladi",
     "B": "tarmoqdagi elektr energiyani o’lchash uchun",
     "C": "transformatordagi elektr energiyani o’lchash uchun",
     "D": "quvvat ishlab chiqarish uchun ishlatiladi",
@@ -585,7 +585,7 @@
   },
   {
     "savol": "Iste’molchilarni uzluksiz elektr energiya bilan ta’minlash talabi asosida necha toifaga bo'linadi",
-    "A": "Uch kategoriyalarga.",
+    "A": "Uch kategoriyalarga",
     "B": "to’rt kategoryaga",
     "C": "ikki kategoriyaga",
     "D": "bitta kategoriyaga",
@@ -593,7 +593,7 @@
   },
   {
     "savol": "Qaysi uskuna tashqi elektr ta’minot tizimiga kiradi",
-    "A": "Bosh pasaytiruvchi podstansiya.",
+    "A": "Bosh pasaytiruvchi podstansiya",
     "B": "o’lchov transformatori",
     "C": "kuchaytiruvchi transformator",
     "D": "kamaytruvchi transformator",
@@ -601,7 +601,7 @@
   },
   {
     "savol": "Issiqlik elektr stansiyalarida qanday yuqori samaradorli qurilma qo‘llanilmoqda?",
-    "A": "Bug'-gaz qurilmasi.",
+    "A": "Bug'-gaz qurilmasi",
     "B": "Yangi turgagi geniratorlar",
     "C": "Gaz qurilmalari",
     "D": "Issiqlik elektr stansiyalari qurilmalari",
@@ -609,7 +609,7 @@
   },
   {
     "savol": "Reaktiv quvvat formulasi to‘g`ri javobni ko`rsating",
-    "A": "Q =IUsinф.",
+    "A": "Q =IUsinф",
     "B": "Q=IUcosф",
     "C": "Q=IUtgф",
     "D": "P=IU",
@@ -617,7 +617,7 @@
   },
   {
     "savol": "Yulduz sxemasida ulangan elektr uskuna faza chulg‘amlarining elementlarining umumiy nuqtasi nima deyiladi?",
-    "A": "Neytral.",
+    "A": "Neytral",
     "B": "Faza;",
     "C": "Nol;",
     "D": "Transformatsiyalash",
@@ -625,7 +625,7 @@
   },
   {
     "savol": "Quyoshdan bevosita olinadigan issiqlikni elektr energiyaga o‘zgartiradigan stansiyaga qanday stansiya deyiladi?",
-    "A": "Gelioelektrik stansiya.",
+    "A": "Gelioelektrik stansiya",
     "B": "Gidravlik elektr stansiya;",
     "C": "Atom stansiya;",
     "D": "Nimstansiya;",
@@ -633,7 +633,7 @@
   },
   {
     "savol": "Elektr energiyani transformatsiyalash yoki taqsimlash uchun mo‘ljallangan hamda ikki yoki undan ortiq tarmoqlarni bog‘lovchi elektr uskunalar va ularga tegishli inshoatlar majmuasiga nima deyiladi?",
-    "A": "Nimstansiya.",
+    "A": "Nimstansiya",
     "B": "Taqsimlash qurilmasi;",
     "C": "Issiqlik elektr stansiya;",
     "D": "Atom elektr stansiya;",
@@ -641,7 +641,7 @@
   },
   {
     "savol": "Elektr yuklamani markazi nima uchun qo’llaniladi?",
-    "A": "Elektroenergiyaning  ratsional taqsimot nuqtasi.",
+    "A": "Elektroenergiyaning  ratsional taqsimot nuqtasi",
     "B": "Yuklamalarning taqsimot markazi masshtab buyicha aniqlash uchun",
     "C": "Tanlanayotgan podstansiyaning ratsional taqsimoti uchun",
     "D": "Kuch transformatorlarining quvvatini to’g’ri tanlash uchun",
@@ -649,7 +649,7 @@
   },
   {
     "savol": "Birinchi toifa uchun  transformatorning yuklama koeffitsiyenti o’rtacha qancha bo’ladi?",
-    "A": "0,7.",
+    "A": "0,7",
     "B": "0,75",
     "C": "0,85",
     "D": "0,6",
@@ -657,7 +657,7 @@
   },
     {
     "savol": "Bir necha tok oqadigan elektr zanjir qanday ataladi?",
-    "A": "tarmoqlangan.",
+    "A": "tarmoqlangan",
     "B": "tarmoqlanmagan",
     "C": "murakkab",
     "D": "oddiy",
@@ -665,7 +665,7 @@
   },
   {
     "savol": "Elektr tarmoqlarini vazifasi nimadan iborat?",
-    "A": "Elektr energiyani uzatishda.",
+    "A": "Elektr energiyani uzatishda",
     "B": "Elektr energiyani ishlab chiqarish",
     "C": "Elektr energiyani iste’mol qilishda",
     "D": "Farqi yuq",
@@ -673,7 +673,7 @@
   },
   {
     "savol": "Tugunga kiruvchi toklar bilan tugundan chiquvchi toklar o'rtasidagi munosabatni belgilovchi qonunni ko’rsating?",
-    "A": "Kirxgofni I-qonuni.",
+    "A": "Kirxgofni I-qonuni",
     "B": "Om qonuni",
     "C": "Kirxgofni II-qonuni",
     "D": "Amper qonuni",
@@ -681,7 +681,7 @@
   },
   {
     "savol": "Elektr ta’minoti tizimi deganda umuman nima tushiniladi?",
-    "A": "Elektr energiyani ishlab chiqarish, uzatish va taqsimlash qurilmalarining yig‘indisi.",
+    "A": "Elektr energiyani ishlab chiqarish, uzatish va taqsimlash qurilmalarining yig‘indisi",
     "B": "Elektr ta’minoti va issiqlik ta’minoti",
     "C": "Elektr ta’minoti, issiqlik ta’minoti va gaz ta’minoti",
     "D": "Elektr energiyani ishlab chiqarish qurilmalarining yig‘indisi",
@@ -689,7 +689,7 @@
   },
   {
     "savol": "I kategoriyali iste’molchilari uchun elektr ta’minotida uzilish ________ruxsat etiladi",
-    "A": "AVR ni ishlash vaqtigacha.",
+    "A": "AVR ni ishlash vaqtigacha",
     "B": "1 (bir) soatga",
     "C": "10 minutgacha",
     "D": "1 sutkagacha",
@@ -697,7 +697,7 @@
   },
   {
     "savol": "Taqsimlash podstansiyalari nima uchun hizmat qiladi?",
-    "A": "elektr energiyasini qabul qilish va taqsimlash uchun.",
+    "A": "elektr energiyasini qabul qilish va taqsimlash uchun",
     "B": "elektr energiyani taqsimlash uchun",
     "C": "elektr energiyani o‘zgartirish uchun",
     "D": "elektr energiyani qabul qilish va o‘zgartirish uchun",
@@ -705,7 +705,7 @@
   },
   {
     "savol": "Shaxar elektr tarmoqlari tuzilishi bo‘yicha quyidagi sxemalarga bo‘lish mumkin",
-    "A": "magistral, aralash va radial.",
+    "A": "magistral, aralash va radial",
     "B": "magistral va aralash",
     "C": "radial va aralash",
     "D": "radial va funksional",
@@ -721,7 +721,7 @@
   },
   {
     "savol": "AVR deb qanday qo‘rilmaga aytiladi?",
-    "A": "zahiradagi manbani avtomatik ravishda ulash.",
+    "A": "zahiradagi manbani avtomatik ravishda ulash",
     "B": "zahiradagi manbani avtomatik ravishda o‘chirish",
     "C": "manbani avtomatik ravishda ulash",
     "D": "manbani avtomatik qayta ulash",
@@ -729,7 +729,7 @@
   },
   {
     "savol": "Ajratgich qanday toklarni uzadi?",
-    "A": "Toksiz va kichik toklarni uzadi.",
+    "A": "Toksiz va kichik toklarni uzadi",
     "B": "Kichik toklarni uzadi",
     "C": "Zarba toklarni uzadi",
     "D": "Qiska tutashuv toklarni uzadi",
@@ -737,7 +737,7 @@
   },
   {
     "savol": "Elektrostansiya nima?",
-    "A": "Elektr energiyasi ishlab chiqarishga mo’ljallangan korxona yoki qurilma.",
+    "A": "Elektr energiyasi ishlab chiqarishga mo’ljallangan korxona yoki qurilma",
     "B": "Elektr energiyani mexanik energiyaga aylantiruvchi qurilma",
     "C": "Elektr energiyani issiqlik energiyasiga aylantiruvchi qurilma",
     "D": "Elektr energiyani yorug’lik energiyasiga aylantiruvchi qurilma",
@@ -745,7 +745,7 @@
   },
   {
     "savol": "Reaktorni vazifasi nima?",
-    "A": "Qiska tutashuv tokni cheklash.",
+    "A": "Qiska tutashuv tokni cheklash",
     "B": "Kuchlanishni cheklash",
     "C": "Quvvatni cheklash",
     "D": "Chastotani cheklash",
@@ -753,7 +753,7 @@
   },
   {
     "savol": "Yoritishning necha xillari bor?",
-    "A": "3.",
+    "A": "3",
     "B": "5",
     "C": "8",
     "D": "10",
@@ -761,7 +761,7 @@
   },
   {
     "savol": "Avtotransformator kuchlanishni _______ V bo‘lgan oraliqda o‘zgartirish imkonini beradi",
-    "A": "0-250.",
+    "A": "0-250",
     "B": "0-380",
     "C": "0-660",
     "D": "0-950",
@@ -769,7 +769,7 @@
   },
   {
     "savol": "Ahamiyati yuqori bo‘lgan 1 toifaga mansub elektr iste’molchilari elektr energiyasi bilan qanday ta’minlanadi?",
-    "A": "Ikkita bir-birga bog'liq bo'lmagan manbalardan va zaxiradagi (avtonom ES) ta'minot manbaidan.",
+    "A": "Ikkita bir-birga bog'liq bo'lmagan manbalardan va zaxiradagi (avtonom ES) ta'minot manbaidan",
     "B": "Zaxira geniratorlari bo’lishi shart",
     "C": "Manbadan 3ta ta’minot olib kelish orqali",
     "D": "Manbadan 1ta ta’minot olib kelish orqali",
@@ -777,7 +777,7 @@
   },
   {
     "savol": "Sinxron generatorlarning vazifasi:",
-    "A": "Mexanik energiyani elektr energiyasiga aylantiradi.",
+    "A": "Mexanik energiyani elektr energiyasiga aylantiradi",
     "B": "elektr energiyani mexanik energiyaga aylantiradi",
     "C": "sinxiron generator ham mexanik ham elektr energiya ishlab chiqaradi",
     "D": "Individual, guruhli, markazlashgan",
@@ -785,7 +785,7 @@
   },
   {
     "savol": "Gidroturbinaning vazifasi?",
-    "A": "Suv energiyasini mexanik energiyaga aylantirish uchun.",
+    "A": "Suv energiyasini mexanik energiyaga aylantirish uchun",
     "B": "Potensial kuchni kinetik energiyaga aylantirish",
     "C": "Kinetik energiyani hosil qilish uchun",
     "D": "Suvning energiyasini oshiradi",
@@ -793,7 +793,7 @@
   },
   {
     "savol": "Atom elektr stansiyalarida ishlatiladigan birlamchi energiya turi?",
-    "A": "Uran.",
+    "A": "Uran",
     "B": "Suv",
     "C": "Gaz",
     "D": "Shamol",
@@ -801,7 +801,7 @@
   },
   {
     "savol": "TT (tok transformatori) va TN (kuchlanish transformatori) lar qayerlarda ishlatiladi?",
-    "A": "o’lchashlarda.",
+    "A": "o’lchashlarda",
     "B": "zanjirni ajratishga",
     "C": "kuchlanishni pasaytirishga",
     "D": "himoyalashda",
@@ -809,7 +809,7 @@
   },
   {
     "savol": "Uch va undan ortiq o’tkazgichlar tutashgan nuqta nima deyiladi?",
-    "A": "Tugun.",
+    "A": "Tugun",
     "B": "Kontur",
     "C": "Umumiy nuqta",
     "D": "Tutashma",
@@ -825,7 +825,7 @@
   },
   {
     "savol": "Izolyatorlarni vazifasi nimadan iborat?",
-    "A": "Tok o’tkazmaydigan qismlarni tok o’tkazadigan qismlardan izolyatsiyalaydi, himoyalaydi.",
+    "A": "Tok o’tkazmaydigan qismlarni tok o’tkazadigan qismlardan izolyatsiyalaydi, himoyalaydi",
     "B": "Tokni cheklaydi",
     "C": "Tok o’tkazmaydigan qismlarni bog’laydi",
     "D": "Chaqmoqdan himoyalaydi",
@@ -833,7 +833,7 @@
   },
   {
     "savol": "Qisqa tutashuvda tarmoqda nima sodir bo’ladi?",
-    "A": "Tok cheksizga, kuchlanish nolga intiladi.",
+    "A": "Tok cheksizga, kuchlanish nolga intiladi",
     "B": "Kuchlanish cheksizga oshadi",
     "C": "Kuchlanish nolga intiladi",
     "D": "Tok o'zgaradi,  kuchlanish o'zgarmaydi",
@@ -841,7 +841,7 @@
   },
   {
     "savol": "Kondensator batareyalari nima vazifani bajaradi?",
-    "A": "Reaktiv quvvatni kompensatsiya qilish.",
+    "A": "Reaktiv quvvatni kompensatsiya qilish",
     "B": "Aktiv quvvatni kompensatsiya qilish",
     "C": "To’la quvvatni kompensatsiya qilish",
     "D": "Zaryadlash",
@@ -849,7 +849,7 @@
   },
   {
     "savol": "Transformatorni birlamchi chulg‘amni tarmoqqa ulanib ikkilamchi chulg‘amning ochiq qoldirishi qanday holat deb ataladi?",
-    "A": "Transformatorning salt ishlashi.",
+    "A": "Transformatorning salt ishlashi",
     "B": "Transformatorning yuklama bilan ishlashi",
     "C": "Transformatorning qisqa tutashuv rejimida;",
     "D": "Transformatorni tekshirish",
@@ -857,7 +857,7 @@
   },
   {
     "savol": "Transformatorning ikkilamchi chulg‘am o‘ramlar sonni ortishi bilan chulg‘am kuchlanishi qanday o‘zgaradi",
-    "A": "ortadi.",
+    "A": "ortadi",
     "B": "o‘zgarmaydi",
     "C": "kamayadi",
     "D": "ikki marta kamayadi",
@@ -865,7 +865,7 @@
   },
   {
     "savol": "Nima maqsadda elektr stansiyalarda elektr uzatish liniyasining boshida kuchaytiruvchi transformatorlar o'rnatiladi?",
-    "A": "Elektr uzatish liniyalarida energiya isroflarini kamaytirish uchun.",
+    "A": "Elektr uzatish liniyalarida energiya isroflarini kamaytirish uchun",
     "B": "Liniya qurilishining kapital xarajatlarini kamaytirish uchun",
     "C": "Sistemaning quvvat koeffitsientini oshirish uchun",
     "D": "Liniyalarga o'tkazgich sarfini kamaytirish uchun",
@@ -873,7 +873,7 @@
   },
   {
     "savol": "Asinxron dvigatelining asosiy qismlarini ko’rsating",
-    "A": "Stator, rotor  va magnit o’tkazgichlar.",
+    "A": "Stator, rotor  va magnit o’tkazgichlar",
     "B": "O’tkazgich va plastinkalar",
     "C": "Mis, alyuminiy va simlar",
     "D": "Korpus, rotor",
@@ -881,7 +881,7 @@
   },
   {
     "savol": "Uchta parallel ulangan kondensatorlarning umumiy sig’imini toping: 4700 pF, 300 pF va 200 pF",
-    "A": "5200 pF.",
+    "A": "5200 pF",
     "B": "4200 pF",
     "C": "5000 pF",
     "D": "4800 pF",
@@ -889,7 +889,7 @@
   },
   {
     "savol": "Elektr zanjiri nima ?",
-    "A": "Elektr tokining oqishi uchun yo’l hosil qiladigan elementlar to’plami.",
+    "A": "Elektr tokining oqishi uchun yo’l hosil qiladigan elementlar to’plami",
     "B": "Generator, akkumulyator  va o'tkazgichlar",
     "C": "Kondensator , o’zgarmas tok generatori",
     "D": "Elektr tarmoq",
@@ -897,7 +897,7 @@
   },
   {
     "savol": "Qarshliklarni  parallel ulash  formulasini aniqlang",
-    "A": "1/R = 1/R1 + 1/R2 + 1/R3.",
+    "A": "1/R = 1/R1 + 1/R2 + 1/R3",
     "B": "R = r*l/s",
     "C": "R = U/I",
     "D": "R = R1+R2-R3",
@@ -905,7 +905,7 @@
   },
   {
     "savol": "O’tkazgichning ko’ndalang kesim yuzasidan o’tayotgan zaryadlarning vaqtga bo’lgan nisbatiga  ……… deyiladi",
-    "A": "Tok kuchi.",
+    "A": "Tok kuchi",
     "B": "Kuchlanish",
     "C": "Amper kuchi",
     "D": "Quvvat",
@@ -913,7 +913,7 @@
   },
   {
     "savol": "Elektr zanjirida U-18 V kuchlanish ostida turgan o`tkazgichdan  I-3A tok oqayotgan bo`lsa, uning qarshiligini toping?",
-    "A": "6 Om.",
+    "A": "6 Om",
     "B": "15 Om",
     "C": "21 Om",
     "D": "54 Om",
@@ -922,7 +922,7 @@
   {
     "savol": "O`tkazgichning qarshiligi qanday kattaliklarga bog`liq?",
     "A": "ko`ndalang kesim yuzasiga, uzunligiga va materialiga.",
-    "B": "ko`ndalang kesim yuzasiga, diametriga va materialiga",
+    "B": "ko`ndalang kesim yuzasiga, diametriga va materialiga.",
     "C": "elektr kuchlanishiga, tok kuchiga va manbaning elektr yurituvchi kuchiga",
     "D": "elektr kuchlanishiga",
     "tugri": "A"
@@ -931,7 +931,7 @@
     "savol": "Yuqori  kuchlanish qurilmalarning tashqi izolyasiyasida asosiy dielektrik vazifani nima o‘taydi?",
     "A": "Havo.",
     "B": "Izolyator",
-    "C": "Dielektrik bo‘lmaydi",
+    "C": "Dielektrik bo‘lmaydi.",
     "D": "Havo tayanchlari",
     "tugri": "A"
   },
@@ -939,7 +939,7 @@
     "savol": "Tugun nima?",
     "A": "uch yoki undan ortiq tarmoqning tutashgan joyi.",
     "B": "ikkita tarmoqning tutashgan joyi",
-    "C": "tarmoqning tok yig’iladigan qismi",
+    "C": "tarmoqning tok yig’iladigan qismi.",
     "D": "tarmoqning oxirigi qismi",
     "tugri": "A"
   },
@@ -948,12 +948,12 @@
     "A": "materiyaning bir turi bo`lib, doimiy magnitlar va tokli o`tkazgichlar atrofida mavjud bo'ladi.",
     "B": "materiyaning bir turi bo`lib, qo`zg`almas zaryadlar atrofida yuzaga keladi",
     "C": "materiyaning bir turi bo`lib,faqat doimiy magnitlar atrofida yuzaga keladi",
-    "D": "materiyaning bir turi bo`lib,faqat yarim o`tkazgichlar atrofida mavjud bo'ladi",
+    "D": "materiyaning bir turi bo`lib,faqat yarim o`tkazgichlar atrofida mavjud bo'ladi.",
     "tugri": "A"
   },
   {
     "savol": "Kontur nima ?",
-    "A": "berk zanjir (yopiq).",
+    "A": "berk zanjir (yopiq)",
     "B": "ochiq zanjir",
     "C": "tarmoqlangan zanjir",
     "D": "ikkita tarmoqning tutashgan joyi",
@@ -964,7 +964,7 @@
     "A": "yopiq kontur atrofida magnit oqimining o`zgarishi natijasida tok hosil bo`lishiga aytiladi.",
     "B": "elektrmaydoni magnit maydonini yuzaga keltirishiga aytiladi",
     "C": "magnit maydonining tok hosil qilishiga aytiladi",
-    "D": "tokli o`tkazgich atrofida magnit maydoninig yuzaga kelishiga aytiladi",
+    "D": "tokli o`tkazgich atrofida magnit maydoninig yuzaga kelishiga aytiladi.",
     "tugri": "A"
   },
   {
@@ -972,7 +972,7 @@
     "A": "Liniya va neytral sim orasidagi kuchlanish.",
     "B": "ikkita liniya orasidagi potensial kuch",
     "C": "O’rtacha kuchlanish",
-    "D": "Nominal kuchlanish",
+    "D": "Nominal kuchlanish.",
     "tugri": "A"
   },
     {
@@ -980,7 +980,7 @@
     "A": "o’ta magnitlanish isrofini kamaytirish uchun.",
     "B": "salt yurish tokini kamaytirish uchun",
     "C": "kuchlanishni me’yorlash uchun",
-    "D": "uyurma toklarning kuchaytirish uchun",
+    "D": "uyurma toklarning kuchaytirish uchun.",
     "tugri": "A"
   },
   {
@@ -988,7 +988,7 @@
     "A": "AT da birlamchi va ikkilamchi chulg’amlar elektr va magnitli bog’langan bo'lib, ikkilamchi chulg’amlar o'ramlar soni, birlamchi chulg’am o'ramlar sonini bir qismini tashkil etadi",
     "B": "avtotransformator po'lat o'zagi bo'lmagan oddiy transformator",
     "C": "AT ning ikkilamchi chulgami qismida kuchlanish avtomatik ravishda o'zgarmas holda saqlanadi",
-    "D": "AT ni kirish kuchlanishi chiqish kuchlanishiga nisbatan kichikroq bo'ladi",
+    "D": "AT ni kirish kuchlanishi chiqish kuchlanishiga nisbatan kichikroq bo'ladi.",
     "tugri": "A"
   },
   {
@@ -996,12 +996,12 @@
     "A": "Magnit o'zakda bo’ladigan isroflarni aniqlash.",
     "B": "Transformatorning FIK aniqlash",
     "C": "Transformatorning mis chulg'amlarini qizishida sarf bo'lgan quvvat isrofini aniqlash",
-    "D": "Transformatorning narxini aniqlash",
+    "D": "Transformatorning narxini aniqlash.",
     "tugri": "A"
   },
   {
     "savol": "Elektromagnit maydon tizimidagi rotorning orqada qolib aylanishi qaysi elektr mashinalarida kuzatiladi?",
-    "A": "asinxron mashinalarda.",
+    "A": "asinxron mashinalarda",
     "B": "sinxron mashinalarda",
     "C": "o'zgarmas tok mashinalarda",
     "D": "transformatorlarda",
@@ -1009,7 +1009,7 @@
   },
   {
     "savol": "Asinxron dvigatelni aylanish tezligini o’zgartirish nimalarga bo’g’liq?",
-    "A": "Juft qutblar soniga va chastotaga.",
+    "A": "Juft qutblar soniga va chastotaga",
     "B": "kuchlanishga",
     "C": "tok kuchiga",
     "D": "quvvatga",
@@ -1017,7 +1017,7 @@
   },
   {
     "savol": "Kirxgofning 1-qonuni formulasi qanday yoziladi?",
-    "A": "ΣI_kir = ΣI_chiq.",
+    "A": "ΣI_kir = ΣI_chiq",
     "B": "ΣV = 0",
     "C": "U = IR",
     "D": "P = UI",
@@ -1025,7 +1025,7 @@
   },
   {
     "savol": "Liniya kuchlanishi nima?",
-    "A": "ikkita liniya orasidagi kuchlanish.",
+    "A": "ikkita liniya orasidagi kuchlanish",
     "B": "o’rtacha kuchlanish",
     "C": "maksimal kuchlanish",
     "D": "liniya va neytral sim orasidagi kuchlanish",
@@ -1033,7 +1033,7 @@
   },
   {
     "savol": "Yulduzsimon ulangan transformatorning chulg‘amlarining uchlari birlashtirilgan nuqta qanday nomlanadi?",
-    "A": "neytral.",
+    "A": "neytral",
     "B": "umumiy",
     "C": "simmetrik",
     "D": "ishchi",
@@ -1041,7 +1041,7 @@
   },
   {
     "savol": "Avtomatik uzgichni nominal toki nima?",
-    "A": "Avtomatik uzgich nominal tokda uzoq muddat ishlab turadi.",
+    "A": "Avtomatik uzgich nominal tokda uzoq muddat ishlab turadi",
     "B": "Avtomatik uzgich nominal tokda ishdan to’xtaydi",
     "C": "Nominal tok tarmoq tokiga teng bo’ladi",
     "D": "Tarmoq toki nominal tokga teng bo’ladi",
@@ -1049,7 +1049,7 @@
   },
   {
     "savol": "U-35-110 kVli havo liniyalarini tayanch oralig masofasi necha metrgacha bo’ladi",
-    "A": "50-100 metr.",
+    "A": "50-100 metr",
     "B": "100-200 metr",
     "C": "250-300 metr",
     "D": "300-500 metr",
@@ -1057,7 +1057,7 @@
   },
   {
     "savol": "35kV gacha kuchlanishli kabellarni transheya sirtiga _______ mm qalinlikda toza turpoq sepiladi",
-    "A": "80 mm.",
+    "A": "80 mm",
     "B": "90 mm",
     "C": "100 mm",
     "D": "70 mm",
@@ -1065,7 +1065,7 @@
   },
   {
     "savol": "Avtomatlar (avtomatik uzgichlar) qanday vazifa bajaradi?",
-    "A": "Himoya.",
+    "A": "Himoya",
     "B": "Uzadilar",
     "C": "Ulaydilar",
     "D": "Ajratadi",
@@ -1073,7 +1073,7 @@
   },
   {
     "savol": "Havo liniyasi trasasi simlari bilan binolar oralig’i qancha masofada bo'ladi?",
-    "A": "1,5m.",
+    "A": "1,5m",
     "B": "2,5m",
     "C": "2m",
     "D": "3m",
@@ -1081,7 +1081,7 @@
   },
   {
     "savol": "Avtomat uzgichlarni vazifasi nima?",
-    "A": "Qisqa tutashuv tokidan himoyalash.",
+    "A": "Qisqa tutashuv tokidan himoyalash",
     "B": "O’ta yuklanishdan himoyalash",
     "C": "Kuchlanishni oshib ketishidan himoyalash",
     "D": "Qisqa tutashuv tokini cheklash",
@@ -1090,7 +1090,7 @@
   {
     "savol": "Nazorat apparatlariga nimalar kiradi",
     "A": "Turli rusumdagi relelar, o’lchov asboblari va datchiklar kiradi.",
-    "B": "Schyotchiklar kiradi",
+    "B": "Schyotchiklar kiradi.",
     "C": "Datchik va relelar",
     "D": "Saqlagichlar kiradi",
     "tugri": "A"
@@ -1100,20 +1100,20 @@
     "A": "1 – 2 va 3 polyusli bo’ladi.",
     "B": "2 polyusli bo’ladi",
     "C": "3 polyusli bo’ladi",
-    "D": "1 polyusli bo’ladi",
+    "D": "1 polyusli bo’ladi.",
     "tugri": "A"
   },
   {
     "savol": "Nol himoya nima",
     "A": "Elektr iste'molchilarni tarmog’da kuchlanishni o’z-o’zidan ulanishdan asraydi.",
     "B": "Motorni himoyasi",
-    "C": "Nol sim bo’lmasa ishlamaydi",
+    "C": "Nol sim bo’lmasa ishlamaydi.",
     "D": "Elektr apparatlar himoyachisi",
     "tugri": "A"
   },
   {
     "savol": "Yuqori kuchlanishli tarmoqdagi elektr energiya miqdori qanday asboblar yordamida o’lchanadi?",
-    "A": "Vattmetr, voltmetr, ampermetr.",
+    "A": "Vattmetr, voltmetr, ampermetr",
     "B": "Vattmetr, tok transformatori, kuchlanish transformatori",
     "C": "Elektr hisoblagich, tok transformatori, kuchlanish transformatori",
     "D": "Ommetr, chastotamer, ossillograf",
@@ -1121,7 +1121,7 @@
   },
   {
     "savol": "Kabel liniyalarni havo liniyalaridan afzalliklarini ko’rsating",
-    "A": "Uzoq muddat foydalanish.",
+    "A": "Uzoq muddat foydalanish",
     "B": "Atrof muhit ta`siriga chidamliligi",
     "C": "Yerlarni foydalanishdan chiqarmaslik",
     "D": "Atrof muhit ta`siriga chidamsizligi",
@@ -1129,7 +1129,7 @@
   },
   {
     "savol": "Boshqarish kalitlarini vazifasi nima?",
-    "A": "Boshqarish va siignalizasiya zanjirlarini ulash va uzish.",
+    "A": "Boshqarish va siignalizasiya zanjirlarini ulash va uzish",
     "B": "Boshqarish va signalizasiya zanjirlarini faqat ulash",
     "C": "Boshqarish va signalizasiya zanjirlarini faqat uzish",
     "D": "Bajaruvchi mexanizmni ulash va uzish",
@@ -1137,7 +1137,7 @@
   },
     {
     "savol": "Reostatni vazifasi nima",
-    "A": "Aktiv qarshiliklar yig’indisi bo’lgan yurgizuvchi qurilma.",
+    "A": "Aktiv qarshiliklar yig’indisi bo’lgan yurgizuvchi qurilma",
     "B": "Rostlovchi qurilma",
     "C": "Aktiv qarshiliklar yig’indisi",
     "D": "Reaktiv qarshiliklar yig’indisi",
@@ -1145,7 +1145,7 @@
   },
   {
     "savol": "Qurilmalarni yerga ulashdan maqsad",
-    "A": "Qurilmani himoyalaydi.",
+    "A": "Qurilmani himoyalaydi",
     "B": "Inson hayotini saqlaydi",
     "C": "Qarshilikni kamaytiradi",
     "D": "Qisqa tutashuv tokini cheklaydi",
@@ -1153,7 +1153,7 @@
   },
   {
     "savol": "Yorug’likni asosiy kattaligi nimalar",
-    "A": "Yorug’lik oqimi, yorug’lik kuchi.",
+    "A": "Yorug’lik oqimi, yorug’lik kuchi",
     "B": "Yorug’lik oqimi",
     "C": "Yorug’lik kuchi",
     "D": "Nurlanganlik",
@@ -1161,7 +1161,7 @@
   },
   {
     "savol": "DPL lampa qanday quvvatlarda chiqariladi",
-    "A": "250, 400, 700, 1000 watt.",
+    "A": "250, 400, 700, 1000 watt",
     "B": "400, 700, 1000, 2000 watt",
     "C": "400watt",
     "D": "250 watt",
@@ -1169,7 +1169,7 @@
   },
   {
     "savol": "Uch tolali kabellar asosan qayerlarda ishlatiladi",
-    "A": "Elektr energiyani uzatish liniyalarida.",
+    "A": "Elektr energiyani uzatish liniyalarida",
     "B": "Yerlashtirgich sifatida",
     "C": "Nosimmetrik sistemali iste'molchilarda",
     "D": "Simmetrik sistemalarda",
@@ -1177,7 +1177,7 @@
   },
   {
     "savol": "Qurilmani profilaktika qilishda nimalar tekshiriladi",
-    "A": "Izolyasiya qarshiligi.",
+    "A": "Izolyasiya qarshiligi",
     "B": "Ishga tushiruvchi apparatlar",
     "C": "Himoya relesiv, yerga ulanishi",
     "D": "O’tkazgich qarshiligi",
@@ -1185,7 +1185,7 @@
   },
   {
     "savol": "Kuchlanishi U- 1kV dan yuqori bo’lgan dvigatellarni tekshirishda necha -% nominal qiymatdan kam bo’lmasligi kerak",
-    "A": "40%.",
+    "A": "40%",
     "B": "50%",
     "C": "10%",
     "D": "20%",
@@ -1193,7 +1193,7 @@
   },
   {
     "savol": "Elektr zanjirdagi tok kuchini rostlash uchun xizmat qiladigan asbob nima?",
-    "A": "Reostatlar.",
+    "A": "Reostatlar",
     "B": "Rezistorlar",
     "C": "Ampermetr",
     "D": "Vattmetr",
@@ -1201,7 +1201,7 @@
   },
   {
     "savol": "Transformatorlar bir-biridan qanday farq qiladi?",
-    "A": "cho’lg’amlari va fazalar soni hamda sovitilish usuli bilan.",
+    "A": "cho’lg’amlari va fazalar soni hamda sovitilish usuli bilan",
     "B": "cho’lg’amlarning soni va sovitilishi",
     "C": "ferromagnitning materialiga ko’ra",
     "D": "fazalari va sovitilish usuli bilan",
@@ -1209,7 +1209,7 @@
   },
   {
     "savol": "Havo liniyalarining asosiy elementlariga ____ kiradi",
-    "A": "simlar, izolyator, tayanchlar.",
+    "A": "simlar, izolyator, tayanchlar",
     "B": "kondensator, tayanch, simlar",
     "C": "transformator, izolyator, simlar",
     "D": "taqsimlash qurilmasi, izolyator",
@@ -1217,7 +1217,7 @@
   },
   {
     "savol": "Elektr zanjir elementlarining shartli belgilari va ular orasidagi tutashuvlar ko’rsatilgan grafik nima deyiladi?",
-    "A": "Elektr zanjir sxemasi.",
+    "A": "Elektr zanjir sxemasi",
     "B": "Prinsipial sxema",
     "C": "Qisqa tutashuv sxemasi",
     "D": "Ulanish sxemasi",
@@ -1225,7 +1225,7 @@
   },
   {
     "savol": "Elektr tarmoqlarining birlashgan joyi …… deyiladi",
-    "A": "Tugun.",
+    "A": "Tugun",
     "B": "Kontur",
     "C": "Tarmoq",
     "D": "Zanjir",
@@ -1233,7 +1233,7 @@
   },
   {
     "savol": "Bir jinsli elektr maydoni deb nimaga aytiladi?",
-    "A": "Elektr maydonining barcha nuqtalarida maydon kuchlanganligi bir xil bo’lsa.",
+    "A": "Elektr maydonining barcha nuqtalarida maydon kuchlanganligi bir xil bo’lsa",
     "B": "Elektr maydonning barcha nuqtalarida maydon kuchlanganligi har xil bo’lsa",
     "C": "Elektr toki bo’lmaydigan, harakat qilmaydigan zaryadlangan jismlar maydoni",
     "D": "Elektr maydonning barcha nuqtalarida maydon kuchlanganligi o'zaro teng bo’lsa",
@@ -1241,7 +1241,7 @@
   },
   {
     "savol": "Kabel qo‘lda yotqizilsa, kabel bo‘lagini og‘irligi umumiy ishchilar soni har bir erkak va ayol uchun necha kg hisobidan aniqlanishi kerak.",
-    "A": "har bir erkak uchun 35 kg , ayol uchun 15 kg.",
+    "A": "har bir erkak uchun 35 kg , ayol uchun 15 kg",
     "B": "har bir erkak uchun 40 kg , ayol uchun 20 kg",
     "C": "har bir erkak uchun 50 kg , ayol uchun 20 kg",
     "D": "har bir erkak uchun 30kg , ayol uchun 20 kg",
@@ -1249,7 +1249,7 @@
   },
   {
     "savol": "Bir necha tarmoqlardan tashkil topgan berk elektr zanjiri nima deyiladi?",
-    "A": "Kontur.",
+    "A": "Kontur",
     "B": "Tarmoq",
     "C": "Zanjir",
     "D": "Tugun",
@@ -1257,7 +1257,7 @@
   },
   {
     "savol": "Qaysi qatorda elektr zanjir elementlari to’g’ri ko’rsatilgan",
-    "A": "tok manbai, ulovchi sim, iste’molchi.",
+    "A": "tok manbai, ulovchi sim, iste’molchi",
     "B": "tok manbai, kalit",
     "C": "ulovchi sim, iste’molchi , kalit",
     "D": "iste’molchi , kalit",
@@ -1265,7 +1265,7 @@
   },
   {
     "savol": "Zaryadlangan zarrachaga ta’sir etuvchi kuchning shu zaryadga bo’lgan nisbati …deyiladi",
-    "A": "elektr kuchlanganlik.",
+    "A": "elektr kuchlanganlik",
     "B": "kuch chiziqlari",
     "C": "zaryad",
     "D": "tok kuchi",
@@ -1273,7 +1273,7 @@
   },
   {
     "savol": "Elektr zanjirning bitta elektr tugunida yo’nalgan toklar yig’indisi tugundan yo’nalgan toklar yig’indisiga teng. Bu kimning ta’rifi?",
-    "A": "Kirxgofning birinchi qonuni.",
+    "A": "Kirxgofning birinchi qonuni",
     "B": "Kirxgofning ikkinchi qonuni",
     "C": "Nyuton qonuni",
     "D": "Kulon qonuni",
@@ -1281,7 +1281,7 @@
   },
   {
     "savol": "Elementlarning to’liq tarkibini va ular orasidagi bo’g’lanishlarni ko’rsatadigan sxema ……deyiladi",
-    "A": "Montaj sxema.",
+    "A": "Montaj sxema",
     "B": "Prinsipial sxema",
     "C": "Elektr sxema",
     "D": "Grafik sxema",
@@ -1289,7 +1289,7 @@
   },
   {
     "savol": "Ф = В*S     Bu qaysi formula",
-    "A": "Magnit oqimi.",
+    "A": "Magnit oqimi",
     "B": "Magnit induksiyasi",
     "C": "Induktivlik",
     "D": "Maydon kuchlanganligi",
@@ -1305,7 +1305,7 @@
   },
   {
     "savol": "G’altakning oqimlashuvi shu g’altakning toki tufayli paydo bo’lsa, … hodisasi d-di",
-    "A": "O’zinduksiya.",
+    "A": "O’zinduksiya",
     "B": "Magnit oqimi",
     "C": "Oqimlashuv",
     "D": "Induksiya",
@@ -1313,7 +1313,7 @@
   },
   {
     "savol": "Amplitudasi bir-biriga teng , chastotasi bir xil , faza jihatdan bir-biriga nisbatan 2π/3 burchakka siljigan sistema ……d-di",
-    "A": "Uch fazali sistema.",
+    "A": "Uch fazali sistema",
     "B": "Bir fazali sistema",
     "C": "O’zgaruvchan tok sistemasi",
     "D": "O’zgarmas tok sistemasi",
@@ -1321,7 +1321,7 @@
   },
   {
     "savol": "Ketma-ket ulangan R1=10 Om, R2=6 Om, R3=8 Om zanjirning umumiy qarshiligini toping",
-    "A": "24 om.",
+    "A": "24 om",
     "B": "18 om",
     "C": "16 om",
     "D": "4 om",
@@ -1329,7 +1329,7 @@
   },
   {
     "savol": "Transformatorning chiqishidagi aktiv quvvatni  kirishdagi aktiv quvvarga nisbati……d-di",
-    "A": "Foydali ish koeffisiyenti.",
+    "A": "Foydali ish koeffisiyenti",
     "B": "Transformatsiya koeffisiyentini",
     "C": "Magnit oqim amplitudasi",
     "D": "Quvvat koeffisiyenti",
@@ -1345,7 +1345,7 @@
   },
   {
     "savol": "Vaqt o’tishi bilan o’zgarmaydigan elektr toki qanday maydonni hosil qiladi",
-    "A": "Statsionar elektr maydoni.",
+    "A": "Statsionar elektr maydoni",
     "B": "Magnit maydoni",
     "C": "Potensial maydon",
     "D": "Elektromagnit maydon",
@@ -1353,7 +1353,7 @@
   },
   {
     "savol": "O’zgaruvchan tok mashinalarining asosiy qismlari nimadan iborat.",
-    "A": "stator, rotor.",
+    "A": "stator, rotor",
     "B": "kollektor, pazlar",
     "C": "magnit qutblari va cho'lg'am",
     "D": "stator, yakor",
@@ -1361,7 +1361,7 @@
   },
   {
     "savol": "Statorga kiruvchi asosiy detallar nima",
-    "A": "korpus, o’zak, cho’lg’am.",
+    "A": "korpus, o’zak, cho’lg’am",
     "B": "o’zak, rotor, cho'lg'am",
     "C": "cho'lg'am, rotor, korpus",
     "D": "rotor, yakor, o’zak",
@@ -1369,7 +1369,7 @@
   },
   {
     "savol": "Barcha elektr tarmoqlari uchun standart chastota nechaga teng",
-    "A": "50 Gs.",
+    "A": "50 Gs",
     "B": "55 Gs",
     "C": "60 Gs",
     "D": "45 Gs",
@@ -1377,7 +1377,7 @@
   },
   {
     "savol": "Elektr mashinalarida o’z-o’zini uyg’otishli sxemalari qanday ulanadi",
-    "A": "ketma-ket, aralash , mustaqil.",
+    "A": "ketma-ket, aralash , mustaqil",
     "B": "parallel, ketma-ket, aralash",
     "C": "aralash, mustaqil",
     "D": "parallel, mustaqil",
@@ -1385,7 +1385,7 @@
   },
   {
     "savol": "Mexanik quvvatning elektr quvvatga nisbati k=P2/P1  ……  d-di",
-    "A": "foydali ish koeffisiyenti.",
+    "A": "foydali ish koeffisiyenti",
     "B": "to'la quvvat",
     "C": "quvvat koeffisiyenti",
     "D": "aktiv quvvat",
@@ -1393,7 +1393,7 @@
   },
   {
     "savol": "Elektr asboblarni ishga tushirish, harakat tezligini rostlash, berilgan dasturga ko’ra rejimlarni o’zgartirish, sekinlashtirish, to’xtatish, uzib qo’yish vazifasini bajaruvchi qurilma …… d-di",
-    "A": "elektr yuritma.",
+    "A": "elektr yuritma",
     "B": "elektr relelari va o’lchov asboblari",
     "C": "elektr dvegatellar va datchiklar",
     "D": "avtomat o'chirgichlar",
@@ -1401,7 +1401,7 @@
   },
   {
     "savol": "Elektr yuritmani avtomatik boshqarish apparatlariga……kiradi",
-    "A": "reli, kontaktor va datchiklar.",
+    "A": "reli, kontaktor va datchiklar",
     "B": "avtomatik o'chirgichlar",
     "C": "paketli uzgich, pubilnik, kontroller",
     "D": "pubilnik, kontroller, rele",
@@ -1409,7 +1409,7 @@
   },
   {
     "savol": "Quvvatning vaqtga bog’liqlik grafigi …… d-di",
-    "A": "yuklama grafigi.",
+    "A": "yuklama grafigi",
     "B": "ishga tushirish grafigi",
     "C": "himoya grafigi",
     "D": "nazorat grafigi",
@@ -1417,7 +1417,7 @@
   },
   {
     "savol": "Elektr podstansiyalar nimasi bilan farq qiladi?",
-    "A": "kuchlanish bilan.",
+    "A": "kuchlanish bilan",
     "B": "tok kuchi bilan",
     "C": "cho’lg’am, faza, sovutish usuli bilan",
     "D": "transformator soni bilan",
@@ -1425,7 +1425,7 @@
   },
   {
     "savol": "Metall o`tkazgichlar qanday xususiyati bilan xarakterlanadi?",
-    "A": "erkin elektronlar soni bilan.",
+    "A": "erkin elektronlar soni bilan",
     "B": "erkin ionlar soni bilan",
     "C": "erkin elektronlar va ionlar soni bilan",
     "D": "qarshiligi bilan",
@@ -1433,7 +1433,7 @@
   },
   {
     "savol": "I=U/R ifoda qaysi qonunni ifodalaydi",
-    "A": "Zanjirning bir qismi uchun Om qonuni.",
+    "A": "Zanjirning bir qismi uchun Om qonuni",
     "B": "To’la zanjir uchun Om qonuni",
     "C": "Kirxgof qonuni",
     "D": "Volt-amper xarakteristikasi",
@@ -1441,7 +1441,7 @@
   },
   {
     "savol": "O’zgarmas tok deb nimaga aytiladi",
-    "A": "Zanjirdan o’tayotgan tokning yo’nalishi va qiymati o’zgarmasa.",
+    "A": "Zanjirdan o’tayotgan tokning yo’nalishi va qiymati o’zgarmasa",
     "B": "Zanjirdagi tokning yo’nalishi va qiymati har xil bo’lsa",
     "C": "Zanjirdagi tok minimal bo’lsa",
     "D": "Zanjirdagi tok maksimal qiymatga saqlansa",
@@ -1449,7 +1449,7 @@
   },
   {
     "savol": "Nuqtaviy ikkita zaryadlangan zarralarning o’zaro ta'sir kuchi kim tomonidan aniqlangan?",
-    "A": "Sharl Kulon.",
+    "A": "Sharl Kulon",
     "B": "Maykl Faradiy",
     "C": "Isaak Nyuton",
     "D": "Arximed",
@@ -1457,7 +1457,7 @@
   },
   {
     "savol": "Kuchlanishi 220 V tarmoqqa P=500 Vt elektr dvigatel ulangan Dvigateldan otayotgan tok kuchini aniqlang",
-    "A": "2,27 A.",
+    "A": "2,27 A",
     "B": "110 kA",
     "C": "0,44 A",
     "D": "720 A",
@@ -1465,7 +1465,7 @@
   },
   {
     "savol": "Yoritish zanjiriga har birining qarshiligi R-12 Om bo’lgan 4 ta lampa ketma-ket ulangan zanjir qismining umumiy qarshiligini toping",
-    "A": "48 om.",
+    "A": "48 om",
     "B": "3 om",
     "C": "12 om",
     "D": "6 om",
@@ -1473,7 +1473,7 @@
   },
   {
     "savol": "Elektr yoritgichlari bir fazali iste’molchi hisoblanib, bittasining quvvati qancha  kVt dan oshmaydi",
-    "A": "2 kVt.",
+    "A": "2 kVt",
     "B": "3 kVt",
     "C": "1 kVt",
     "D": "4 kVt",
@@ -1489,7 +1489,7 @@
   },
   {
     "savol": "Elektrolit deb nimaga aytiladi?",
-    "A": "Erituvchida eriganda ionlarga ajraluvchi moddalar.",
+    "A": "Erituvchida eriganda ionlarga ajraluvchi moddalar",
     "B": "Erituvchida eriganda elektronlarga ajraluvchi moddalar",
     "C": "Eriganda zaryadlanuvchi moddalar",
     "D": "Qattiq holdagi moddalar",
@@ -1497,7 +1497,7 @@
   },
   {
     "savol": "Elektr transportning barcha turlarida qo’llaniladigan tok …… deyiladi",
-    "A": "o’zgarmas tok.",
+    "A": "o’zgarmas tok",
     "B": "o’zgaruvchan tok",
     "C": "induksion tok",
     "D": "o’zinduksion tok",
@@ -1521,7 +1521,7 @@
   },
   {
     "savol": "Elektr qarshiligini o'lchovchi  asboblar qanday nomlanadi?",
-    "A": "Megommetr.",
+    "A": "Megommetr",
     "B": "Ampermetr",
     "C": "Voltmetr.",
     "D": "Vattmetr",
@@ -1529,7 +1529,7 @@
   },
   {
     "savol": "Bir xir uzunlikda va ko'ndalang kesim yuzalari teng bo'lgan uchta sim mis, po'lat va kumush parallel ulangan Qaysi simdan katta tok o'tadi?",
-    "A": "Kumush.",
+    "A": "Kumush",
     "B": "Mis.",
     "C": "Temir.",
     "D": "Po'lat",
@@ -1545,7 +1545,7 @@
   },
   {
     "savol": "Ishni o'lchov birligi formulasini yozing. Qanaqa asbob bilan tokning bajargan ishi o'lchanadi",
-    "A": "kVt*soat (Hisoblagich).",
+    "A": "kVt*soat (Hisoblagich)",
     "B": "Vatt, kVatt  (Vattmetr)",
     "C": "kA *soat (Ampermetr)",
     "D": "kV*soat (Voltmetr)",
@@ -1553,7 +1553,7 @@
   },
   {
     "savol": "Uyingizda elektr hisoblagich (schetchik) nimani hisoblaydi?",
-    "A": "elektr energiya.",
+    "A": "elektr energiya",
     "B": "elektr quvvat",
     "C": "kuchlanish",
     "D": "tok kuchi",
@@ -1561,7 +1561,7 @@
   },
   {
     "savol": "Qaysi metalni solishtirma elektr qarshiligi nisbatan kichik?",
-    "A": "Mis (Med).",
+    "A": "Mis (Med)",
     "B": "Oltin (zoloto)",
     "C": "Alyuminiy (Al)",
     "D": "Pulat (Stal).",
@@ -1569,7 +1569,7 @@
   },
   {
     "savol": "Qanday maqsadda EYK manbalari parallel ulanadi.",
-    "A": "Tokni oshirish uchun.",
+    "A": "Tokni oshirish uchun",
     "B": "Tokni kamaytirish uchun",
     "C": "Kuchlanishni oshirish uchun",
     "D": "Kuchlanishni kamaytirish uchun",
@@ -1586,7 +1586,7 @@
   {
     "savol": "Sinxron kompensator - bu:",
     "A": "Sinxron  mashina yuklanmagan dvigatel rejimida ishlasa va elektr qurilmalarini quvvat koeffisientini oshirish (reaktiv quvvatni kompensasiyalash) uchun mo'ljallangan sinxron dvigateldir",
-    "B": "O'zgarmas tok elektr energiyasini mexanik energiyaga aylantirib beradi",
+    "B": "O'zgarmas tok elektr energiyasini mexanik energiyaga aylantirib beradi.",
     "C": "O'zgaruvchan tok generatori bo'lib mexanizmlarni harakatga keltiradi",
     "D": "Sinxron kompensator - bu o'zgaruvchan tok generatori bo'lib elektr dvigatellarini harakatga keltiradi",
     "tugri": "A"
@@ -1604,7 +1604,7 @@
     "A": "ishchi yoritish,favqulotda yoritish.",
     "B": "umumiy yoritish",
     "C": "aralash yoritish",
-    "D": "joylardagi yoritish",
+    "D": "joylardagi yoritish.",
     "tugri": "A"
   },
   {
@@ -1612,7 +1612,7 @@
     "A": "elektr moslamalarni qisqa tutashuv toklaridan himoya qilish.",
     "B": "avtomatlarni qisqa tutashuvdan himoya",
     "C": "relelarni qisqa tutashuvdan himoyalash",
-    "D": "yerga ulash qurilmasini himoyalash",
+    "D": "yerga ulash qurilmasini himoyalash.",
     "tugri": "A"
   }
 ]
