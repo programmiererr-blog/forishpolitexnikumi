@@ -1577,7 +1577,7 @@
   },
   {
     "savol": "Quvvat koeffisienti formulasi (cos?)ni aniqlang",
-    "A": "cos? = P/S.",
+    "A": "cos? = P/S",
     "B": "cos? = P*S",
     "C": "cos? =P/Q",
     "D": "cos? =P/I",
@@ -1586,7 +1586,7 @@
   {
     "savol": "Sinxron kompensator - bu:",
     "A": "Sinxron  mashina yuklanmagan dvigatel rejimida ishlasa va elektr qurilmalarini quvvat koeffisientini oshirish (reaktiv quvvatni kompensasiyalash) uchun mo'ljallangan sinxron dvigateldir",
-    "B": "O'zgarmas tok elektr energiyasini mexanik energiyaga aylantirib beradi.",
+    "B": "O'zgarmas tok elektr energiyasini mexanik energiyaga aylantirib beradi",
     "C": "O'zgaruvchan tok generatori bo'lib mexanizmlarni harakatga keltiradi",
     "D": "Sinxron kompensator - bu o'zgaruvchan tok generatori bo'lib elektr dvigatellarini harakatga keltiradi",
     "tugri": "A"
@@ -1601,7 +1601,7 @@
   },
   {
     "savol": "Sanoat korxonalarida yoritishni turini toping",
-    "A": "ishchi yoritish,favqulotda yoritish.",
+    "A": "ishchi yoritish,favqulotda yoritish",
     "B": "umumiy yoritish",
     "C": "aralash yoritish",
     "D": "joylardagi yoritish.",
@@ -1609,7 +1609,7 @@
   },
   {
     "savol": "Saqlagich deb nimaga aytiladi?",
-    "A": "elektr moslamalarni qisqa tutashuv toklaridan himoya qilish.",
+    "A": "elektr moslamalarni qisqa tutashuv toklaridan himoya qilish",
     "B": "avtomatlarni qisqa tutashuvdan himoya",
     "C": "relelarni qisqa tutashuvdan himoyalash",
     "D": "yerga ulash qurilmasini himoyalash.",
