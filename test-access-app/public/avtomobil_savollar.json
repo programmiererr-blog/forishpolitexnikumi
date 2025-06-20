@@ -17,7 +17,7 @@
   },
   {
     "savol": "Chap tomondan tashqari qolgan tomonlardan necha mm qoladi?",
-    "A": "5.",
+    "A": "5",
     "B": "8",
     "C": "12",
     "D": "20",
@@ -41,7 +41,7 @@
   },
   {
     "savol": "Narsalarning tekislikdagi tasviri nima deyiladi?",
-    "A": "Proyeksiya.",
+    "A": "Proyeksiya",
     "B": "Portret",
     "C": "Tasvirlash",
     "D": "Korrilatsiya",
@@ -49,7 +49,7 @@
   },
   {
     "savol": "Buyumning shakli, о‘lchamlari haqida tо‘liq ma’lumot beruvchi vosita  nima deiladi?",
-    "A": "Chizma.",
+    "A": "Chizma",
     "B": "Portret",
     "C": "Proyeksiya",
     "D": "Tasvirlash",
@@ -57,7 +57,7 @@
   },
   {
     "savol": "Mashina detallarini yasashda, asosan, ularning qanday chizmalaridan foydalanadi?",
-    "A": "Proyeksion chizmalaridan.",
+    "A": "Proyeksion chizmalaridan",
     "B": "Aksonometrik",
     "C": "Ish chizmalaridan",
     "D": "3d chizmalardan",
@@ -65,7 +65,7 @@
   },
   {
     "savol": "Aksionometriya qaysi tildan olingan?",
-    "A": "Yunoncha.",
+    "A": "Yunoncha",
     "B": "Inglizcha",
     "C": "Lotincha",
     "D": "Grrekcha",
@@ -73,7 +73,7 @@
   },
   {
     "savol": "Aylanish о‘qiga parallel tо‘g‘ri chiziq bilan hosil qilingan sirt nima?",
-    "A": "Silindr.",
+    "A": "Silindr",
     "B": "Piramida",
     "C": "Sfera",
     "D": "Konus",
@@ -97,7 +97,7 @@
   },
   {
     "savol": "О‘zbekiston Respublikasining Mehnatni muhofaza qilish tо‘g‘risidagi qonuni qachon qabul qilindi?",
-    "A": "1993 yil 6 may.",
+    "A": "1993 yil 6 may",
     "B": "1991 yil 1 sentabr",
     "C": "1991 yil 21 dekabr",
     "D": "1996 yil 1 aprel",
@@ -105,7 +105,7 @@
   },
   {
     "savol": "Ishlab chiqarishda baxtsiz hodisaning tashkiliy sababi qaysi javobda kо‘rsatilgan?",
-    "A": "Dastgoh kо‘rsatma asosida о‘rnatilmagan.",
+    "A": "Dastgoh kо‘rsatma asosida о‘rnatilmagan",
     "B": "Dastgoh kо‘rsatma asosida о‘rnatilgan",
     "C": "Dastgoh detallari sinib qoldi",
     "D": "Ishchi fiziologik jixatdan charchagan",
@@ -113,7 +113,7 @@
   },
   {
     "savol": "Teriga kuchli ishqor tо‘kilsa nima qilish kerak?",
-    "A": "Ishqor tо‘kilgan joyni oqin suvda chayib, bor kislotasining 2% li eritmasi quyiladi.",
+    "A": "Ishqor tо‘kilgan joyni oqin suvda chayib, bor kislotasining 2% li eritmasi quyiladi",
     "B": "Ishqor tо‘kilgan joyni oqin suvda chayib, ichimlik sodasining 10% li eritmasi bilan neytrallanadi",
     "C": "Ishqor tо‘kilgan joyni oqin suvda chayiladi xolos",
     "D": "Ishqor tо‘kilgan joyni oqin suvda yuviladi",
@@ -121,7 +121,7 @@
   },
   {
     "savol": "Baxtsiz hodisaning ruhiy omilga bog‘liqligi qaysi javobda kо‘rsatilgan?",
-    "A": "Ishchi ruhiy jixatdan charchagan.",
+    "A": "Ishchi ruhiy jixatdan charchagan",
     "B": "Dastgoh kо‘rsatma asosida о‘rnatilgan",
     "C": "Dastgoh kо‘rsatma asosida о‘rnatilmagan",
     "D": "Ishchi fiziologik jihatdan charchagan",
@@ -129,7 +129,7 @@
   },
   {
     "savol": "Jarohatlanganlarga birinchi tibbiy yordam berishdan maqsad nima?",
-    "A": "Jarohatlanishni tо‘xtatish va uning og‘ir oqibatlarini oldini olish.",
+    "A": "Jarohatlanishni tо‘xtatish va uning og‘ir oqibatlarini oldini olish",
     "B": "Jarohatlanishni tо‘xtatish",
     "C": "Ishlab chiqarish vositalarini ehtiyotlash",
     "D": "Og‘riqni tо‘xtatish qimirlatmaslik",
@@ -137,7 +137,7 @@
   },
   {
     "savol": "Portlashdagi yonish tezligi qaysi javobda tо‘g‘ri kо‘rsatilgan?",
-    "A": "100-1000 m/sek.",
+    "A": "100-1000 m/sek",
     "B": "1000 m/sek dan yuqori",
     "C": "50-60 m/sek",
     "D": "70-80 m/sek",
@@ -145,7 +145,7 @@
   },
   {
     "savol": "Kasb kasalligi nima?",
-    "A": "Mexnat jarayoni ta’siri ostida shu mehnat turi bо‘yicha kо‘p uchraydigan kasallik.",
+    "A": "Mexnat jarayoni ta’siri ostida shu mehnat turi bо‘yicha kо‘p uchraydigan kasallik",
     "B": "Mexnat jarayoni ta’siri ostida shu mehnat turi bо‘yicha Kо‘z kasalligi",
     "C": "Insonlar о‘rtasida kо‘p uchraydigan kasallik",
     "D": "Mexnat jarayoni ta’siri ostida shu mehnat turi bо‘yicha О‘pka kasalligi",
@@ -161,7 +161,7 @@
   },
   {
     "savol": "Musbat va manfiy jismlar bir birida tortilishini kimlar aniqlagan?",
-    "A": "Yunonlar.",
+    "A": "Yunonlar",
     "B": "Arablar",
     "C": "Turklar",
     "D": "Yunonlar va Arablar",
@@ -169,7 +169,7 @@
   },
    {
     "savol": "Elektr energiyasi deb nimaga aytiladi",
-    "A": "Elektr tokini ish bajarish qobiliyatiga.",
+    "A": "Elektr tokini ish bajarish qobiliyatiga",
     "B": "Zaryadlangan zarrachalarning tartibli harakatiga",
     "C": "Zarrachalar yo‘nalishiga",
     "D": "Foydali ish koeffitsientiga",
@@ -177,7 +177,7 @@
   },
   {
     "savol": "Quvvatni belgilanish harfini toping",
-    "A": "P.",
+    "A": "P",
     "B": "R",
     "C": "F",
     "D": "A",
@@ -185,7 +185,7 @@
   },
   {
     "savol": "O‘zgaruvchan tok kuchlanishini kuchaytirib yoki pasaytirib beruvchi elektromagnit apparatga nima deyiladi",
-    "A": "transformator.",
+    "A": "transformator",
     "B": "generator",
     "C": "dvigatel",
     "D": "izolyator",
@@ -193,7 +193,7 @@
   },
   {
     "savol": "Transformator necha xil rejimda ishlaydi",
-    "A": "3.",
+    "A": "3",
     "B": "2",
     "C": "4",
     "D": "5",
@@ -201,7 +201,7 @@
   },
   {
     "savol": "O‘tkazgich materiallar berilgan qatorni toping",
-    "A": "alyuminiy, mis, temir.",
+    "A": "alyuminiy, mis, temir",
     "B": "alyuminiy, oltin, qo‘rg‘oshin",
     "C": "rezinka, qo‘rg‘oshin, temir",
     "D": "hamma javob to‘g‘ri",
@@ -209,7 +209,7 @@
   },
   {
     "savol": "Tok va kuchlanishni to‘sish va me’yorlashtirishda ishlatiladigan qurilmani nomini toping",
-    "A": "rezistor.",
+    "A": "rezistor",
     "B": "kontakt",
     "C": "paketli uzgich",
     "D": "konsentratr",
@@ -217,7 +217,7 @@
   },
   {
     "savol": "Qarshilik qaysi harf bilan belgilanadi",
-    "A": "R.",
+    "A": "R",
     "B": "U",
     "C": "A",
     "D": "I",
@@ -225,7 +225,7 @@
   },
   {
     "savol": "Necha A tok inson uchun havfli",
-    "A": "0,02 A.",
+    "A": "0,02 A",
     "B": "0,1 A",
     "C": "0,2 A",
     "D": "0,05 A",
@@ -233,7 +233,7 @@
   },
   {
     "savol": "Birinchi elektrovakuum lampani kim ixtiro qilgan",
-    "A": "A N Lodign.",
+    "A": "A N Lodign",
     "B": "D N Lodign",
     "C": "Y F Yablochkov",
     "D": "Tesla",
@@ -241,7 +241,7 @@
   },
   {
     "savol": "Vazifasiga ko‘ra avtomobillar qanaqa turlarga bo‘linadi?",
-    "A": "Transport, poyga, maxsus.",
+    "A": "Transport, poyga, maxsus",
     "B": "Transport, Yo‘lovchi tashish, poyga",
     "C": "Yo‘lovchi tashuvchi, yuk tashuvchi, taksi",
     "D": "Avtobus, maxsus",
@@ -249,7 +249,7 @@
   },
   {
     "savol": "Transport avtomobillari qanday turlarga bo‘linadi?",
-    "A": "Yo‘lovchi tashuvchi, yuk tashuvchi,  yuk va yo‘lovchi tashuvchi.",
+    "A": "Yo‘lovchi tashuvchi, yuk tashuvchi,  yuk va yo‘lovchi tashuvchi",
     "B": "Yong‘in o‘chiruvchi, yo‘lovchi tashuvchi, yuk tashuvchi",
     "C": "Yo‘lovchi tashuvchi, yuk tashuvchi, musor tashuvchi",
     "D": "Musor tashuvchi, suv sepuvchi, yuk tashuvchi",
@@ -257,7 +257,7 @@
   },
   {
     "savol": "Avtomobil tuzilishiga ko‘ra nimalardan tashkil topgan?",
-    "A": "Dvigatel, shassi, kuzov.",
+    "A": "Dvigatel, shassi, kuzov",
     "B": "Yurish qismi, transmissiya, boshqaruv qismi",
     "C": "Dvigatel, shassi, transmissiya",
     "D": "Dvigatel, transmissiya, boshqaruv qismi",
@@ -265,7 +265,7 @@
   },
   {
     "savol": "4х2 ma’nosi nima?",
-    "A": "To‘rtadаn ikkitа g‘ildirаgi еtаkchi.",
+    "A": "To‘rtadаn ikkitа g‘ildirаgi еtаkchi",
     "B": "To‘rtadаn to‘rt g‘ildirаgi еtаkchi",
     "C": "Оltitаdаn ikkitа g‘ildirаgi еtаkchi",
     "D": "Uchtаdаn ikkitа g‘ildirаgi еtаkchi",
@@ -281,7 +281,7 @@
   },
   {
     "savol": "Agregat nima?",
-    "A": "Bir necha tuzilmalarni bir butun qilib birlashtirgan qurilma.",
+    "A": "Bir necha tuzilmalarni bir butun qilib birlashtirgan qurilma",
     "B": "Oldingi va orqa osmalar, transmissiya",
     "C": "Bitta umumiy vazifani bajaruvchi qismlar yig‘indisi",
     "D": "Shassi, transmissiya",
@@ -289,7 +289,7 @@
   },
   {
     "savol": "Uzel nima?",
-    "A": "Mashinada ma'lum mustaqil vazifani bajaruvchi bir necha detallar birikmasi.",
+    "A": "Mashinada ma'lum mustaqil vazifani bajaruvchi bir necha detallar birikmasi",
     "B": "Avtomobilning boshqaruv qismi",
     "C": "Shassi, transmissiya",
     "D": "Oldingi va orqa osmalar",
@@ -297,7 +297,7 @@
   },
   {
     "savol": "«Lasetti» avtomobili qanaqa kuzov turiga ega?",
-    "A": "Universal.",
+    "A": "Universal",
     "B": "Xetchbek",
     "C": "Kombi",
     "D": "Sedan",
@@ -313,7 +313,7 @@
   },
   {
     "savol": "Mexanizmga ta'rif bering",
-    "A": "Mexanizm – harakatni ma'lum tartibda uzatuvchi va o‘zgartiruvchi tuzilma.",
+    "A": "Mexanizm – harakatni ma'lum tartibda uzatuvchi va o‘zgartiruvchi tuzilma",
     "B": "Mexanizm – bir necha vazifalarni bajaruvchi qismlar yig‘indisidan tashkil topgan detaldir",
     "C": "Mexanizm – bir necha detallarning mashinada yoki mexanizmda ma'lum mustaqil vazifani bajaruvchi birikmasi",
     "D": "Mexanizm – bir necha detallarning mashinada yoki mexanizmda ma'lum vazifani bajaradi",
@@ -321,7 +321,7 @@
   },
   {
     "savol": "Tormoz tizimining qanday turlari mavjud?",
-    "A": "Ishchi, tuxtab turish va yordamchi.",
+    "A": "Ishchi, tuxtab turish va yordamchi",
     "B": "Ishchi va yordamchi",
     "C": "Ishchi va tutib turish",
     "D": "Yordamchi va tutib turish",
@@ -329,7 +329,7 @@
   },
   {
     "savol": "Qaysi holatda rul mexanizmi qismlari to‘liq ko‘rsatilgan?",
-    "A": "Rul chambaragi, kolonka, vali, chervyak va soshka.",
+    "A": "Rul chambaragi, kolonka, vali, chervyak va soshka",
     "B": "Ko‘ndalang va bo‘ylama tyaga va rolik",
     "C": "Rul kolonka, tyaga va chervyak",
     "D": "Rul chambaragi, bo‘ylama tyaga",
@@ -337,7 +337,7 @@
   },
     {
     "savol": "Mexanik trasmissiyaning birlamchi agregati?",
-    "A": "Ilashish muftasi.",
+    "A": "Ilashish muftasi",
     "B": "Uzatmalar qutisi",
     "C": "Asosiy uzatma",
     "D": "Ichki yonuv dvigateli",
@@ -345,7 +345,7 @@
   },
   {
     "savol": "Nexia 2 avtomobilining ilashish muftasi turini toping?",
-    "A": "Friksion.",
+    "A": "Friksion",
     "B": "Gidravlik",
     "C": "Kambinatsiyalashgan",
     "D": "Pnevmatik",
@@ -353,7 +353,7 @@
   },
   {
     "savol": "4x4 yuritmali avtomobilga misol keltiring?",
-    "A": "Niva.",
+    "A": "Niva",
     "B": "Kobalt",
     "C": "Nexia",
     "D": "Damas",
@@ -361,7 +361,7 @@
   },
   {
     "savol": "Kardan uzatmasining vazifasini toping?",
-    "A": "Uzatmalar qutisida etaklovchi ko‘prikka o‘zgaruvchan burchak ostida harakatni uzatish.",
+    "A": "Uzatmalar qutisida etaklovchi ko‘prikka o‘zgaruvchan burchak ostida harakatni uzatish",
     "B": "Uzatmalar qutisi bilan asosiy uzatmani birlashtirish",
     "C": "Uzatmalar qutisida etaklanuvchi ko‘prikka o‘zgaruvchan burchak ostida harakatni uzatish",
     "D": "Tezliklarni har hil ko‘rinishga keltirish va uzish",
@@ -369,7 +369,7 @@
   },
   {
     "savol": "Benzin markasidagi A harfi nimani bildiradi?",
-    "A": "Avtomobil benzini ekanligini.",
+    "A": "Avtomobil benzini ekanligini",
     "B": "Benzin  sifatini",
     "C": "benzini ekanligini",
     "D": "hech narsani anglatmaydi",
@@ -377,7 +377,7 @@
   },
   {
     "savol": "Tadbirkorlik faoliyati bilan shug'ullanishi mumkin bo'lgan shaxslar?",
-    "A": "davlat organlarining mansabdor shaxslari.",
+    "A": "davlat organlarining mansabdor shaxslari",
     "B": "nafaqaho'rlar",
     "C": "nogironlar",
     "D": "o'qituvchilar",
@@ -393,7 +393,7 @@
   },
   {
     "savol": "Iqtisodiy nazariya fani fanlarning qanday guruhiga kiradi?",
-    "A": "ijtimoiy-gumanitar fanlar.",
+    "A": "ijtimoiy-gumanitar fanlar",
     "B": "siyosiy fanlar",
     "C": "tabiiy fanlar",
     "D": "iqtisodiy fanlar",
@@ -401,7 +401,7 @@
   },
   {
     "savol": "Iqtisodiyot nazariyasi fani nimani o‘rganadi?",
-    "A": "kishilik jamiyati rivojlanishining iqtisodiy qonun va qonuniyatlari.",
+    "A": "kishilik jamiyati rivojlanishining iqtisodiy qonun va qonuniyatlari",
     "B": "ishlab chiqarish kuchlarini",
     "C": "moddiy ne’matlar ishlab chiqarish",
     "D": "ijtimoiy tuzumni",
@@ -409,7 +409,7 @@
   },
   {
     "savol": "“Tadqiqot uslublari majmui” deganda nimani tushunasiz?",
-    "A": "ilmiy bilishni qoidalari, shakllari va usullari.",
+    "A": "ilmiy bilishni qoidalari, shakllari va usullari",
     "B": "mikroiqtisodiy tahlilni",
     "C": "makroiqtisodiy va mikroiqtisodiy tahlilni",
     "D": "makroiqtisodiy tahlilni",
@@ -417,7 +417,7 @@
   },
   {
     "savol": "Iqtisodiy qonunlar qanday xarakterga ega?",
-    "A": "yuqoridagilarning barchasi to‘g‘ri.",
+    "A": "yuqoridagilarning barchasi to‘g‘ri",
     "B": "sub’ektiv",
     "C": "ob’ektiv va sub’ektiv",
     "D": "ob’ektiv",
@@ -425,7 +425,7 @@
   },
   {
     "savol": "Bozor iqtisodiyotining asosiy qonuni?",
-    "A": "talab va taklif qonuni.",
+    "A": "talab va taklif qonuni",
     "B": "taklif qonuni",
     "C": "qiymat qonuni",
     "D": "talab qonuni",
@@ -433,7 +433,7 @@
   },
   {
     "savol": "Yuridik shaxslarga kimlar?",
-    "A": "o‘z balanasi va muhriga ega bo‘lgan kichik firmalar, korxona va tashkilotlar.",
+    "A": "o‘z balanasi va muhriga ega bo‘lgan kichik firmalar, korxona va tashkilotlar",
     "B": "Korxonalar",
     "C": "firmalar",
     "D": "Chet el fuqarolari",
@@ -441,7 +441,7 @@
   },
   {
     "savol": "Biznesda QQQni o‘rganishda necha xil yondashuv mavjud?",
-    "A": "Ikki xil: tashkiliy va psixologik.",
+    "A": "Ikki xil: tashkiliy va psixologik",
     "B": "Uch xil: boshqarish, psixologik, iqtisodiy",
     "C": "Ikki xil: tashkiliy va tavakkalchilik",
     "D": "Uch xil: tashkiliy, psixologik, amaliy",
@@ -449,7 +449,7 @@
   },
   {
     "savol": "Tadbirkorlik subektlari necha xil soliqga tortilishi mumkin",
-    "A": "Ikki xil umumbelgilangan va soddalashtirilgan tartibda.",
+    "A": "Ikki xil umumbelgilangan va soddalashtirilgan tartibda",
     "B": "Bir xil qattiy belgilangan soliq",
     "C": "Uch xil mol-mulk , yer va daromad soliq tartibda",
     "D": "Tort xil belgilangan trtibda",
@@ -457,7 +457,7 @@
   },
   {
     "savol": "“Tadbirkorlik to‘g‘risida”gi qonun qachon qabul qilingan?",
-    "A": "1991 yil.",
+    "A": "1991 yil",
     "B": "1992 yil",
     "C": "1993 yil",
     "D": "1994 yil",
@@ -481,7 +481,7 @@
   },
   {
     "savol": "Soliqlar necha turga guruhlanadi?",
-    "A": "2.",
+    "A": "2",
     "B": "3",
     "C": "4",
     "D": "5",
@@ -497,7 +497,7 @@
   },
   {
     "savol": "Dvigatel qanday vazifani bajaradi?",
-    "A": "Yoqilg‘i yonganda hosil bo‘lgan issiqlik energiyasini mexanik energiyaga aylantirib beradi.",
+    "A": "Yoqilg‘i yonganda hosil bo‘lgan issiqlik energiyasini mexanik energiyaga aylantirib beradi",
     "B": "Aylanma harakatni transmissya orqali yurish qismiga uzatadi",
     "C": "Avtomobilning to‘xtab turishini ta’minlaydi",
     "D": "Yuk ortish uchun kerak",
@@ -505,7 +505,7 @@
   },
   {
     "savol": "Nima uchun avtomobillarda ikki taktli dvigatellar qo‘llanilmaydi?",
-    "A": "Chunki uning quvvati kam, atrof-muhitga zarari katta.",
+    "A": "Chunki uning quvvati kam, atrof-muhitga zarari katta",
     "B": "Chunki unga klapanlar o‘rnatilmagan",
     "C": "Chunki u juda yengil",
     "D": "Unda silindrlar soni ikkita",
@@ -513,7 +513,7 @@
   },
   {
     "savol": "Zamonaviy avtomobillarda asosan qanday dvigatellaridan foydalaniladi?",
-    "A": "Ichki yonish dvigatellaridan.",
+    "A": "Ichki yonish dvigatellaridan",
     "B": "Bug‘li dvigatellar",
     "C": "Shamol dvigatellar",
     "D": "Ikki taktli sikl bo‘yicha ishlaydigan dvigatel",
@@ -524,7 +524,7 @@
     "A": "Porshenning ilgarilanma-qaytma harakatinin tirsakli valga uzatib, uning aylanma harakatini hosil qiladi.",
     "B": "Ilashish muftasining mahovik bilan ilashishiga yordam beradi",
     "C": "Uzatmalar qutisida burovchi momentni o‘zuartiradi",
-    "D": "Dvigatel silindrlariga yoqilg‘ni bir maromda ta’minlashda  yordam beradi",
+    "D": "Dvigatel silindrlariga yoqilg‘ni bir maromda ta’minlashda  yordam beradi.",
     "tugri": "A"
   },
   {
@@ -532,14 +532,14 @@
     "A": "Yonuvchi aralashma yoki havo kiritish, siqish va ishlatilgan gazlarni tashqi muhitga chiqarib yuborish uchun xizmat qiladi.",
     "B": "Dvigatelni yonilg‘i bilan ta’minlash, yonilg‘ini fil’trlash uchun xizmat qiladi",
     "C": "Dvigatelning barcha detallari sirtqi qismini moylash uchun xizmat qiladi",
-    "D": "Avtomobil trasmissiyasining bexato ishlashini ta’minlab beradi",
+    "D": "Avtomobil trasmissiyasining bexato ishlashini ta’minlab beradi.",
     "tugri": "A"
   },
   {
     "savol": "Sovitish tizimi nima?",
     "A": "Dvigatelning qizigan detallaridan issiqlikni majburan tashqi muhitga tarqatib, uning kerakli issiqlik maromida ishlashini ta'minlaydi.",
     "B": "Dvigatelning ishlashida yoqilg‘i bilan ta’minlaydi",
-    "C": "Dvigatelning ishlashida yoqilg‘ini havo bilan aralashtirib beradi",
+    "C": "Dvigatelning ishlashida yoqilg‘ini havo bilan aralashtirib beradi.",
     "D": "Avtomobil salonini sovitib beradi, ayniqsa yoz kunlari",
     "tugri": "A"
   },
@@ -548,7 +548,7 @@
     "A": "Dvigatel detallari ishqalanuvchi yuzalariga moy yetkazib berib ulardagi yeyilishni kamaytirish.",
     "B": "Dviganel detallarining qizimasligi uchun suv bilan ta’minlash",
     "C": "Dviganelni yoqilg‘i bilan ta’minlash",
-    "D": "Silindrga kiradigan havoga forsunka yordamida yoqilg‘I yuborish",
+    "D": "Silindrga kiradigan havoga forsunka yordamida yoqilg‘I yuborish.",
     "tugri": "A"
   },
   {
@@ -564,13 +564,13 @@
     "A": "Gaz taqsimlash mexanizimida.",
     "B": "Sovutish tizimida",
     "C": "KSHMda",
-    "D": "Moylash tizimida",
+    "D": "Moylash tizimida.",
     "tugri": "A"
   },
   {
     "savol": "Termostatning klapani nima hisobiga ochiladi?",
     "A": "Suyuqlik harorati  hisobiga.",
-    "B": "Bosim   hisobiga",
+    "B": "Bosim   hisobiga.",
     "C": "Havo xarorati hisobiga",
     "D": "Dvigatel aylanishlar soni hisobiga",
     "tugri": "A"
@@ -578,7 +578,7 @@
   {
     "savol": "Silindrning to‘la hajmi deb nimaga aytiladi?",
     "A": "porshen pastki chekka nuqtada turganda uning yuqorisida hosil bo‘lgan silindr bo‘shlig‘idir.",
-    "B": "porshen yuqorigi chekka nuqtada turganda, uning yuqorisida hosil bo‘lgan hajm",
+    "B": "porshen yuqorigi chekka nuqtada turganda, uning yuqorisida hosil bo‘lgan hajm.",
     "C": "porshen yuqorigi chekka nuqtadan pastki chekka nuqtagacha harakatlanganda hosil bo‘lgan hajm tushuniladi",
     "D": "porshenning bir chekka nuqtadan boshqa chekka nuqtagacha bosib o‘tilgan masofadir",
     "tugri": "A"
@@ -588,13 +588,13 @@
     "A": "3.",
     "B": "2",
     "C": "4",
-    "D": "6",
+    "D": "6.",
     "tugri": "A"
   },
   {
     "savol": "Klapanlar vazifasiga ko‘ra necha хil bo‘ladi?",
     "A": "kiritish va chiqarish.",
-    "B": "oddiy va murakkab",
+    "B": "oddiy va murakkab.",
     "C": "kiritish va chiqarish taktlarida ishchi aralashmani taqsimlab berish va chiqindi gazlarni tashqi muhitga chiqarib yuborishi",
     "D": "og‘ir va yengil",
     "tugri": "A"
@@ -604,7 +604,7 @@
     "A": "qo‘zg‘aluvchan va qo‘zg‘almas.",
     "B": "shatun, tirsakli val, maxovik",
     "C": "harakatlanuvchan va aylanuvchan",
-    "D": "porshen, shatun va tirsakli val",
+    "D": "porshen, shatun va tirsakli val.",
     "tugri": "A"
   },
   {
@@ -613,21 +613,21 @@
     "B": "90°",
     "C": "80°",
     "D": "160°",
-    "tugri": "A"
+    "tugri": "A."
   },
   {
     "savol": "Porshen bilan silindr orasidagi tirqish, porshenning qaysi qismida kichik bo‘ladi?",
     "A": "yo‘naltiruvchi qismida.",
     "B": "kallagida",
     "C": "porshen tubida",
-    "D": "barmoqda",
+    "D": "barmoqda.",
     "tugri": "A"
   },
   {
     "savol": "Silindrni yeyilishi bir tekislikda nechta xil balandlikda o‘lchanadi?",
     "A": "uch (yuqorida, o‘rta va pastda).",
     "B": "ikki (yuqori va pastda)",
-    "C": "bir (yuqori yoki pastda)",
+    "C": "bir (yuqori yoki pastda).",
     "D": "ikki yoki uch (yuqori va o‘rtada yoki yuqorida, o‘rtada va pastda)",
     "tugri": "A"
   },
@@ -636,14 +636,14 @@
     "A": "sovuq dvigatelda taqillashlar sodir bo‘ladi.",
     "B": "qizigan dvigatelda taqillashlar sodir bo‘ladi",
     "C": "dvigatel ishlamaydi",
-    "D": "digatelni ish jarayoniga ta’sir etmaydi",
+    "D": "digatelni ish jarayoniga ta’sir etmaydi.",
     "tugri": "A"
   },
   {
     "savol": "Porshenni chetki nuqtalardan chiqishiga nima yordam beradi?",
     "A": "maxovik.",
     "B": "shatun",
-    "C": "tirsakli val va shatun",
+    "C": "tirsakli val va shatun.",
     "D": "posangilar",
     "tugri": "A"
   },
@@ -651,7 +651,7 @@
     "savol": "KSHM qanday qismlardan tashkil topgan?",
     "A": "Porshen, shatun va tirsakli val.",
     "B": "Shatun, tirsakli val, maxovik",
-    "C": "Harakatlanuvchan va aylanuvcha",
+    "C": "Harakatlanuvchan va aylanuvcha.",
     "D": "Kallak, karter, porshen, shatun",
     "tugri": "A"
   },
@@ -659,14 +659,14 @@
     "savol": "Krivoship shatun mexanizmi ning qaysi detallari geometrik o‘lchamlari bo‘yicha guruhlarga ajratiladi?",
     "A": "porshen, gilza, porshen halqalari, vkladishlar, porshen barmog‘i, tirsakli val.",
     "B": "porshen, gilza, tirsakli val, shatun",
-    "C": "porshen, shatun, tirsakli val, silindr, porshen barmog‘i",
+    "C": "porshen, shatun, tirsakli val, silindr, porshen barmog‘i.",
     "D": "barcha javoblar to‘g‘ri",
     "tugri": "A"
   },
   {
     "savol": "Qaysi turda joylashgan gaz taqsimlash mexanizmi da silindrlarni yonuvchi aralashma yoki havo bilan to‘lishi yaxshi?",
     "A": "Klapanlari yuqorida joylashgan gaz taqsimlash mexanizmi da.",
-    "B": "Klapanlari pastda joylashgan gaz taqsimlash mexanizmi da",
+    "B": "Klapanlari pastda joylashgan gaz taqsimlash mexanizmi da.",
     "C": "Har ikki turida ham",
     "D": "Gaz taqsimlash mexanizmi to‘g‘ri rostlanganida",
     "tugri": "A"
@@ -675,7 +675,7 @@
     "savol": "Gaz taqsimlash fazasi qanday dvigatellarda mavjud?",
     "A": "Benzinli va dizel dvigatellarda.",
     "B": "Dizel dvigatellarida",
-    "C": "Benzinli dvigatellarda",
+    "C": "Benzinli dvigatellarda.",
     "D": "Reaktiv dvigatellarda",
     "tugri": "A"
   },
@@ -683,7 +683,7 @@
     "savol": "Gaz taqsimlash mexanizmi ning detallarini o‘zaro almashtirsa bo‘ladimi?",
     "A": "O‘zaro almashtirib bo‘lmaydi.",
     "B": "Faqat qo‘zg‘aluvchan detallarni",
-    "C": "O‘zaro almashtirib bo‘ladi",
+    "C": "O‘zaro almashtirib bo‘ladi.",
     "D": "",
     "tugri": "A"
   },
@@ -691,7 +691,7 @@
     "savol": "Kiritish va chiqarish klapanlarining farqi nimada?",
     "A": "Kallagining diametri va materialida.",
     "B": "Kallagining diametrida",
-    "C": "Klapanning diametri, materiali va uzunligida",
+    "C": "Klapanning diametri, materiali va uzunligida.",
     "D": "Farqi bo‘lmaydi",
     "tugri": "A"
   },
@@ -700,7 +700,7 @@
     "A": "TICO da.",
     "B": "NEXIA da",
     "C": "VAZ da",
-    "D": "MATIZ da",
+    "D": "MATIZ da.",
     "tugri": "A"
   },
   {
@@ -708,7 +708,7 @@
     "A": "Klapanni yo‘naltiruvchi vtulkada to‘g‘ri chiziqli xarakatini ta’minlash.",
     "B": "Mushtchalarni yeyilishini kamaytirish",
     "C": "Konstruksiya jihatdan majburiyligi",
-    "D": "Metall sarfini kamaytirish",
+    "D": "Metall sarfini kamaytirish.",
     "tugri": "A"
   },
   {
@@ -724,7 +724,7 @@
     "A": "Po‘latdan yoki cho‘yandan.",
     "B": "Po‘lat yoki aluminiy qotishmasidan",
     "C": "Cho‘yan yoki yeyilishga va issiqlikda chidamli qotishmadan",
-    "D": "Qattiq qotishmadan",
+    "D": "Qattiq qotishmadan.",
     "tugri": "A"
   },
   {
@@ -732,14 +732,14 @@
     "A": "Qistirma va zichlovchi qalpoqchalarni.",
     "B": "Klapanlar va zichlovchi qalpoqchasi",
     "C": "Silindrlar kallagining kistirmasi",
-    "D": "Zichlovchi qalpoqchalarni",
+    "D": "Zichlovchi qalpoqchalarni.",
     "tugri": "A"
   },
   {
     "savol": "Suvning qaynash harorati nimaga bog‘liq?",
     "A": "bosimga.",
     "B": "dvigatelni qizishiga",
-    "C": "termostatga",
+    "C": "termostatga.",
     "D": "radiatorfa",
     "tugri": "A"
   },
@@ -748,20 +748,20 @@
     "A": "Dvigatel qizib ketadi.",
     "B": "Suyuqlik satxi kamayadi",
     "C": "Suyuqlik satxi ortadi",
-    "D": "Radiator shikastlanadi",
+    "D": "Radiator shikastlanadi.",
     "tugri": "A"
   },
   {
     "savol": "Sovitish tizimidagi havoni chiqarish klapani qayerda joylashgan?",
     "A": "Radiatr qopqog‘ida.",
-    "B": "Kengaytirgich qopqog‘ida",
+    "B": "Kengaytirgich qopqog‘ida.",
     "C": "Termostatda",
     "D": "Suv nasosida",
     "tugri": "A"
   },
   {
     "savol": "Qaysi holatda sovitish tizimi ochiq tizim deyiladi?",
-    "A": "Radiator qopqog‘i ochiq.",
+    "A": "Radiator qopqog‘i ochiq",
     "B": "Kengaytirgich qopqog‘i ochiq",
     "C": "Havo bilan sovitish tizimi",
     "D": "Suyuqlik bilan sovitish tizimi",
@@ -769,7 +769,7 @@
   },
   {
     "savol": "Termosifon sovitish tizimida suyuqlikni nima harakatlantiradi?",
-    "A": "Suyuqlikning haroratlaridagi farq.",
+    "A": "Suyuqlikning haroratlaridagi farq",
     "B": "Suyuqlikning haroratlarining bir xilligi",
     "C": "Suv nasosi",
     "D": "Radiator",
@@ -777,7 +777,7 @@
   },
   {
     "savol": "Qaysi avtomobilning sovitish tizimida parrakli tasmani taranglovchi moslama mavjud?",
-    "A": "M-412.",
+    "A": "M-412",
     "B": "Tiko",
     "C": "Neksiya",
     "D": "Dama",
@@ -785,7 +785,7 @@
   },
   {
     "savol": "Avtomobil dvigatelini ishga tushirish tizimi tarkibiga qaysilar kiradi?",
-    "A": "Startyor, akkumulyator batareyasi, kommutatsiya jihozlari.",
+    "A": "Startyor, akkumulyator batareyasi, kommutatsiya jihozlari",
     "B": "Generator, kuchlanish rostlagichi",
     "C": "O‘t oldirish shamchasi, distribyutor",
     "D": "Faralar, burilish ko‘rsatkichlari",
@@ -793,7 +793,7 @@
   },
   {
     "savol": "Klassik o‘t oldirish tizimining asosiy kamchiligi nima?",
-    "A": "Ishonchsizligi.",
+    "A": "Ishonchsizligi",
     "B": "Dvigatelni sovuta olmasligi",
     "C": "Ishlash kuchlanishining pastligi",
     "D": "Kuchlanish qiymatini oshira olmasligi",
@@ -801,7 +801,7 @@
   },
   {
     "savol": "Avtomobil dvigatelini o‘t oldirish tizimining asosiy vazifasi nima?",
-    "A": "Yoqilg‘ini elektr uchquni yordamida yondirish.",
+    "A": "Yoqilg‘ini elektr uchquni yordamida yondirish",
     "B": "Dvigatelni sovutish",
     "C": "Akkumulyatorni zaryadlash",
     "D": "Dvigatel moylash tizimini boshqarish",
@@ -809,7 +809,7 @@
   },
   {
     "savol": "Dizellarda yonuvchi aralashma nimaning hisobiga yonadi?",
-    "A": "Havo qizdirish hisobiga.",
+    "A": "Havo qizdirish hisobiga",
     "B": "Bosim hisobiga",
     "C": "Bosim va uchqun hisobiga",
     "D": "Siqish va uchqun hisobiga",
@@ -817,7 +817,7 @@
   },
     {
     "savol": "Diffuzorda yonilg‘i bosimi kattami yoki yonilg‘i tezligimi?",
-    "A": "yonilg‘ining tezligi.",
+    "A": "yonilg‘ining tezligi",
     "B": "yonilg‘ining bosimi",
     "C": "ikkalasi ham katta",
     "D": "ikkalasi ham kichik",
@@ -825,7 +825,7 @@
   },
   {
     "savol": "Ishchi aralashma deb nimaga aytiladi?",
-    "A": "yonilg‘i bilan havoning aralashmasi.",
+    "A": "yonilg‘i bilan havoning aralashmasi",
     "B": "yonuvchi aralashma bilan yonishdan hosil bo‘lgan gazlar aralashmasi",
     "C": "yonuvchi aralashma bilan havoning aralashmasi",
     "D": "yonilg‘i bug‘lari bilan tozalangan havo aralashmasi",
@@ -833,7 +833,7 @@
   },
   {
     "savol": "TICO avtomobilida qaysi turdagi yonilg‘i nasosi o‘rnatilgan?",
-    "A": "elektr maydonli.",
+    "A": "elektr maydonli",
     "B": "diafragmali",
     "C": "past bosimli",
     "D": "shesternyali",
@@ -841,7 +841,7 @@
   },
   {
     "savol": "Qalqovich bo‘limidagi yonilg‘ining sathini nima rostlaydi?",
-    "A": "qalqovich va ninasimon klapan.",
+    "A": "qalqovich va ninasimon klapan",
     "B": "yonilg‘i nasosi va ortiqcha yonilg‘ini bakga to‘kuvchi shlang",
     "C": "diffuzorga sodir bo‘ladigan siyraklanish",
     "D": "«Gaz» tepkisining bosilmagan holati",
@@ -849,7 +849,7 @@
   },
   {
     "savol": "Kalit o‘chirilganida yonilg‘ini diffuzorga o‘tishini nima cheklaydi?",
-    "A": "elektromagnit klapan.",
+    "A": "elektromagnit klapan",
     "B": "drossel to‘sqichi",
     "C": "qalqovichli kameradagi ninasimon klapan",
     "D": "vakuum klapani",
@@ -857,7 +857,7 @@
   },
   {
     "savol": "Tezlatgich nasosi qachon ishga tushadi?",
-    "A": "drossel to‘sqichi shiddat bilan ochilganida.",
+    "A": "drossel to‘sqichi shiddat bilan ochilganida",
     "B": "dvigatel yuqori chastotada ishlaganida",
     "C": "havo to‘sqichi shiddat bilan ochilganida",
     "D": "havo to‘sqichi yopilib, drossel to‘sqichi ochilganida",
@@ -865,7 +865,7 @@
   },
   {
     "savol": "Karburator nima uchun ikki kamerali qilib ishlanadi?",
-    "A": "Avtomobilning tezligi ortganda qo‘shimcha yonilg‘i aralashmasi bilan ta’minlashga.",
+    "A": "Avtomobilning tezligi ortganda qo‘shimcha yonilg‘i aralashmasi bilan ta’minlashga",
     "B": "Silindrni yetarli benzin bilan ta’minlashga",
     "C": "Silindrga yetarli havo kirishiga",
     "D": "Barcha jaavoblar to‘g‘ri",
@@ -873,7 +873,7 @@
   },
   {
     "savol": "Boyitilgan yonilg‘i aralashmasi qanday nisbatda bo‘ladi?",
-    "A": "1 kg benzinga 8–9 kg havo.",
+    "A": "1 kg benzinga 8–9 kg havo",
     "B": "1 kg havoga 2 kg benzin",
     "C": "1 kg benzinga 13 kg havo",
     "D": "1 kg havoga 8–9 kg benzin",
@@ -884,12 +884,12 @@
     "A": "Ignali klapan hisobiga yonilg‘i sathini me’yorida bo‘lishini ta’minlaydi.",
     "B": "Qalqovichli kamera va atmosfera bosimlarini tenglashtiradi, ignali klapanni ko‘tarib tushiriladi",
     "C": "Ignali klapanni ko‘tarib tushiriladi",
-    "D": "Qalqovichli kamera va atmosfera bosimlarini tenglashtiradi",
+    "D": "Qalqovichli kamera va atmosfera bosimlarini tenglashtiradi.",
     "tugri": "A"
   },
   {
     "savol": "Tezlatuvchi nasosning vazifasi nimadan iborat?",
-    "A": "Drossel to‘sqichi keskin ochilganda yonilg‘i aralashmani boyitadi.",
+    "A": "Drossel to‘sqichi keskin ochilganda yonilg‘i aralashmani boyitadi",
     "B": "Havo oqimini tezlatadi",
     "C": "Yonilg‘i aralashmasini tezlatadi",
     "D": "Benzin miqdorini tezlatishni ta’minlaydi",
@@ -897,7 +897,7 @@
   },
   {
     "savol": "Nima hisobiga qalqovichli kameraning ninasi yopiladi?",
-    "A": "Qalqovich bo‘linmasida yonilg‘i miqdori ko‘payishi ta’sirida.",
+    "A": "Qalqovich bo‘linmasida yonilg‘i miqdori ko‘payishi ta’sirida",
     "B": "Yonilg‘i nasos hosil qilgan bosim tufayli",
     "C": "Bosim kamayib siyraklashish ta’sirida",
     "D": "Bosim ko’payib tig’izlashish ta’sirida",
@@ -905,7 +905,7 @@
   },
   {
     "savol": "Yonilg‘i aralashmasi qanday nisbatda to‘liq yonadi",
-    "A": "1:16.",
+    "A": "1:16",
     "B": "1:13",
     "C": "1:09",
     "D": "1:18",
@@ -913,7 +913,7 @@
   },
   {
     "savol": "Havo jiklyorining vazifasi nimadan iborat",
-    "A": "Havo o‘tishiga xizmat qiladi.",
+    "A": "Havo o‘tishiga xizmat qiladi",
     "B": "Havodagi namlikni o‘tkazmaydi",
     "C": "Havo miqdorini me’yorlaydi",
     "D": "Havodagi iflosliklarni o‘tkazmaydi",
@@ -921,7 +921,7 @@
   },
   {
     "savol": "Dvigatel qanday rejimda ishlaganda drossel to‘siqchasi yopiq holatda bo‘ladi?",
-    "A": "Salt rejimida.",
+    "A": "Salt rejimida",
     "B": "O‘rta rejimda, salt rejimida va avtomobil to‘xtagan vaqtda",
     "C": "Avtomobil to‘xtagan vaqtda",
     "D": "O‘rta rejimda",
@@ -929,7 +929,7 @@
   },
   {
     "savol": "Birinchi bo‘linmaning drossel to‘siqchasi qachon ochila boshlaydi?",
-    "A": "Drossel to‘siqchasini tepkisi bosilganda.",
+    "A": "Drossel to‘siqchasini tepkisi bosilganda",
     "B": "Dvigatel maksimal quvvatga yetganda",
     "C": "Dvigatel salt rejimga o‘tganda",
     "D": "Dvigatel o‘t olganda",
@@ -937,7 +937,7 @@
   },
   {
     "savol": "Yonilg‘i jeklyorining vazifasi nimadan iborat?",
-    "A": "Yonilg‘i miqdorini me’yorlaydi.",
+    "A": "Yonilg‘i miqdorini me’yorlaydi",
     "B": "Yonilg‘i miqdorini taqsimlaydi",
     "C": "Yonilg‘ida suv bo‘lsa o‘tkazmaydi",
     "D": "Yonilg‘i tarkibidagi iflosliklarni o‘tkazmaydi",
@@ -945,7 +945,7 @@
   },
   {
     "savol": "Yonilg‘i nasosining yonilg‘i bakida joylashtirilishining sababi nimada?",
-    "A": "Yonilg‘i tizimida benzinning bug‘li tiqinlari hosil bo‘lmasligi uchun.",
+    "A": "Yonilg‘i tizimida benzinning bug‘li tiqinlari hosil bo‘lmasligi uchun",
     "B": "Benzinni uzatish oson bo‘lishi uchun",
     "C": "Joyni tejash uchun",
     "D": "Benzin yo‘lini qisqartirish uchun",
@@ -953,7 +953,7 @@
   },
   {
     "savol": "Nima sababdan injektorli ta’minlash tizimida etillangan benzin ishlatilmaydi?",
-    "A": "Etillangan benzinning zaharliligi.",
+    "A": "Etillangan benzinning zaharliligi",
     "B": "Ishlab bo‘lgan gazlarni neytrallash yomonligi",
     "C": "Benzinni ishlatish sarfining osishi",
     "D": "Benzinni purkash yomonligi",
@@ -961,7 +961,7 @@
   },
   {
     "savol": "Injektorli ta’minlash tizimida yonilg‘i bilan havoning aralashmasi qayerda sodir bo‘ladi?",
-    "A": "Kiritish yo‘l quvirida.",
+    "A": "Kiritish yo‘l quvirida",
     "B": "Silindrda",
     "C": "Forsunkada",
     "D": "Haydash agistralida",
@@ -969,7 +969,7 @@
   },
   {
     "savol": "Injektorli ta’mirlash tizimining haydash magistralida purkash uchun kerakli bosim qanday hosil qilinadi?",
-    "A": "Elektr benzin nasosini ishga tushirib.",
+    "A": "Elektr benzin nasosini ishga tushirib",
     "B": "Dvigatelni ishga tushirib",
     "C": "Qo‘shimcha havo berib",
     "D": "Havo me’yorini kamaytirib",
@@ -977,7 +977,7 @@
   },
   {
     "savol": "Injektorli ta’minlash tizimida benzinni purkash bosimi necha MPa bo‘lishi kerak?",
-    "A": "0,15-0,4.",
+    "A": "0,15-0,4",
     "B": "0-0,1",
     "C": "0,5-1,0",
     "D": "3,5-10",
@@ -985,7 +985,7 @@
   },
   {
     "savol": "Elektr benzin nasosi qanday kuchlanishda ishlaydi?",
-    "A": "12 v.",
+    "A": "12 v",
     "B": "36 v",
     "C": "24 v",
     "D": "127 v",
@@ -993,7 +993,7 @@
   },
   {
     "savol": "Keltirilgan detallardan qaysi biri elektromagnit forsunkaga tegishli emas?",
-    "A": "Saqlagich klapani.",
+    "A": "Saqlagich klapani",
     "B": "Yakor",
     "C": "To‘zitkich",
     "D": "Filtr",
@@ -1001,7 +1001,7 @@
   },
   {
     "savol": "Keltirilgan detallardan qaysi biri elektr nasosiga tegishli",
-    "A": "Keltirilganlarning hammasi.",
+    "A": "Keltirilganlarning hammasi",
     "B": "Saqlagich klapani",
     "C": "nasos",
     "D": "Yakor",
@@ -1017,7 +1017,7 @@
   },
   {
     "savol": "Kiritish quvurini vazifasi nimadan iborat?",
-    "A": "Yonilg‘i aralashmasini silindrlarga taqsimlash.",
+    "A": "Yonilg‘i aralashmasini silindrlarga taqsimlash",
     "B": "Havoni silindrlarga taqsimlash",
     "C": "Havo kiritish",
     "D": "Hamma javoblar to‘g‘ri",
@@ -1025,7 +1025,7 @@
   },
   {
     "savol": "Kiritish va chiqarish quvurlarini farqi nimadan iborat?",
-    "A": "Konstruksiya va materialida.",
+    "A": "Konstruksiya va materialida",
     "B": "Farqi yo‘q",
     "C": "Bir-biridan ozroq farq qiladi",
     "D": "Tuzilishi bilan farq qiladi",
@@ -1033,7 +1033,7 @@
   },
   {
     "savol": "Chiqarish quvuri qanday materialdan tayyorlanadi?",
-    "A": "O‘tga chidamli cho‘yandan.",
+    "A": "O‘tga chidamli cho‘yandan",
     "B": "Kul rang cho‘yandan",
     "C": "Mis qotishmasidan",
     "D": "Po‘latdan",
@@ -1041,7 +1041,7 @@
   },
   {
     "savol": "Kiritish quvurini bo‘shatish ketma-ketligi buzilishi nimaga olib keladi?",
-    "A": "Noqulaylik keltiradi.",
+    "A": "Noqulaylik keltiradi",
     "B": "Hech narsa sodir bo‘lmaydi",
     "C": "Yupqa devorni sinishiga olib keladi",
     "D": "Qiyshayishiga olib keladi",
@@ -1049,7 +1049,7 @@
   },
   {
     "savol": "Kiritish kollektoriga zichlagich nima uchun qo‘yildi?",
-    "A": "Qo‘shimcha havo so‘rmaslik va yoqilg‘i aralashmasi isrof bo‘lmaslik uchun.",
+    "A": "Qo‘shimcha havo so‘rmaslik va yoqilg‘i aralashmasi isrof bo‘lmaslik uchun",
     "B": "Havo kirmaslik uchun",
     "C": "Yaxshi birikma hosil qilishi uchun",
     "D": "Havo chiqmaslik uchun",
@@ -1057,7 +1057,7 @@
   },
   {
     "savol": "Chiqarish kollektoriga zichlagich nima uchun qo‘yiladi?",
-    "A": "Shovqin va tutun chiqmaslik uchun zichlikni ta’minlaydi.",
+    "A": "Shovqin va tutun chiqmaslik uchun zichlikni ta’minlaydi",
     "B": "Tutun chiqmaslikka",
     "C": "Yaxshi o‘rnatish uchun",
     "D": "Shovqin chiqmaslikka",
@@ -1065,7 +1065,7 @@
   },
   {
     "savol": "Kiritish va chiqarish quvuri TICO dvigatelida qanday joylashgan?",
-    "A": "Kiritish quvuri o‘ng, chiqarish quvuri chap tomoniga silindrlar kallagiga joylashgan.",
+    "A": "Kiritish quvuri o‘ng, chiqarish quvuri chap tomoniga silindrlar kallagiga joylashgan",
     "B": "Qarama-qarshi",
     "C": "Yonma-yon",
     "D": "Dvigatelni chap va o‘ng tomoniga joylashgan",
@@ -1073,7 +1073,7 @@
   },
   {
     "savol": "Yonilig'ini qanday boshqa turlaridan foydalanish mumkin?",
-    "A": "Metan, siqilgan gaz, yog'och spirti.",
+    "A": "Metan, siqilgan gaz, yog'och spirti",
     "B": "Metan, siqilgan gaz, yog'och spirti, dizel yonilg'isi",
     "C": "Siqilgan va suyultirilgan gaz,  yogoch  spirti,  gazokondensatlar, benzin va vodorod aralashmasi",
     "D": "Metan",
@@ -1081,7 +1081,7 @@
   },
   {
     "savol": "O't oldirish oni porshenning qanday holatida o'rnatiladi?",
-    "A": "Proshen yuqori chekka nuqtasida, siqish taktida.",
+    "A": "Proshen yuqori chekka nuqtasida, siqish taktida",
     "B": "Porshen yuqori chekka nuqtasida, chiqarish taktida",
     "C": "Porshen yuqori chekka nuqtasida, kiritish taktida",
     "D": "Porshen yuqori chekka nuqtasida, taktning ahamiyati yo'q",
@@ -1089,7 +1089,7 @@
   },
   {
     "savol": "Yonilg‘ining yonishi natijasida hosil bo‘lgan issiqlik energiyasini mexanik energiyaga aylantirib beruvchi agregat nomi",
-    "A": "Elektro dvigatel.",
+    "A": "Elektro dvigatel",
     "B": "Dvigatel",
     "C": "Generator",
     "D": "Transmissiya",
@@ -1097,7 +1097,7 @@
   },
   {
     "savol": "Ichki yonuv dvigateli issiqlik energiyasini qaysi turdagi energiyaga aylantirib beradi",
-    "A": "elektr energiyaga.",
+    "A": "elektr energiyaga",
     "B": "mexanik energiyaga",
     "C": "potensial energiyaga",
     "D": "kinetik energiyaga",
@@ -1105,7 +1105,7 @@
   },
   {
     "savol": "Reduksion klapan nima uchun xizmat qiladi?",
-    "A": "Tizimdagi bosimni me’yordan oshib ketmasligini ta’minlash uchun.",
+    "A": "Tizimdagi bosimni me’yordan oshib ketmasligini ta’minlash uchun",
     "B": "Tizimdagi bosimni oshirish uchun",
     "C": "Benzin nasosni ishga tushirish uchun",
     "D": "Benzinni havo bilan aralashtirish uchun",
@@ -1113,7 +1113,7 @@
   },
   {
     "savol": "O‘t oldirish tizimining asosiy vazifasi nima?",
-    "A": "Yoqilg‘ini elektr uchquni yordamida yondirish.",
+    "A": "Yoqilg‘ini elektr uchquni yordamida yondirish",
     "B": "Dvigatelni sovutish",
     "C": "Akkumulyatorni zaryadlash",
     "D": "Dvigatel moylash tizimini boshqarish",
@@ -1121,7 +1121,7 @@
   },
   {
     "savol": "Mikprotsessorli o‘t oldirish tizimi qaysi afzalliklarga ega?",
-    "A": "Ishlash samaradorligini oshiradi.",
+    "A": "Ishlash samaradorligini oshiradi",
     "B": "Kuchlanishni pasaytiradi",
     "C": "Tizimni murakkablashtiradi",
     "D": "Dvigatelni sovutadi",
@@ -1129,7 +1129,7 @@
   },
   {
     "savol": "Kontaktli o‘t oldirish tizimi qaysi dvigatellar uchun qo‘llaniladi?",
-    "A": "Karbyuratorli benzin dvigatellari.",
+    "A": "Karbyuratorli benzin dvigatellari",
     "B": "Elektr dvigatellar",
     "C": "Dizel dvigatellar",
     "D": "Gibrid dvigatellar",
@@ -1137,7 +1137,7 @@
   },
     {
     "savol": "Odamlarni, yuklarni tashishga yoki maxsus ishlarni bajarishga mo‘ljallangan qurilma qanday ataladi?",
-    "A": "Transport vositasi.",
+    "A": "Transport vositasi",
     "B": "Avtobus",
     "C": "Maxsus avtomobillar",
     "D": "Yuk avtomobillari",
@@ -1145,7 +1145,7 @@
   },
   {
     "savol": "Mеxanik transport vositasi deb nimaga aytiladi?",
-    "A": "Dvigatеl bilan harakatga keltiriladigan transport vositasi.",
+    "A": "Dvigatеl bilan harakatga keltiriladigan transport vositasi",
     "B": "Odamlar va yuklarni tashishga muljallangan transport vositasi",
     "C": "Odamning musqo‘l kuchi bilan xarakatlantiriladigan transport vositasi",
     "D": "Ikki va undan ortik tirkamali transport vositasi",
@@ -1153,7 +1153,7 @@
   },
   {
     "savol": "Yo‘l harakati jarayonida transport vositasining haydovchisi, yo‘lovchisi yoki piyoda tariqasida bevosita ishtirok etayotgan shaxs nima deyiladi?",
-    "A": "Yo‘l harakati qatnashchisi.",
+    "A": "Yo‘l harakati qatnashchisi",
     "B": "Harakati xavfsizligi",
     "C": "Yo‘l-transport hodisasi",
     "D": "Harakat tarkibi",
@@ -1161,7 +1161,7 @@
   },
   {
     "savol": "Haydovchi to‘htash oldidan ogohlantiruvchi ishora bеrishi kerakmi?",
-    "A": "Har doim berishi kerak.",
+    "A": "Har doim berishi kerak",
     "B": "Faqat shu holdaki, agar uning orqasidan boshqa transport vositasi bo‘lsa",
     "C": "Faqat axoli yashaydigan joylarda",
     "D": "Faqat axoli yashaydigan joylardan tashqarida",
@@ -1171,13 +1171,13 @@
     "savol": "«Ruxsat etilgan to‘la vazn» nima?",
     "A": "Jihozlangan transport vositasining ishlab chiqargan korxona tomonidan belgilangan yuk, haydovchi va yo‘lovchilari bilan birgalikdagi eng yuqori vazni(o‘lchovi).",
     "B": "Transport vositasining haqiqiy vazni",
-    "C": "Transport vositasining yuk ko‘tarishi",
+    "C": "Transport vositasining yuk ko‘tarishi.",
     "D": "Transport vositasida nashiladigan yukning ishlab chikargan korxona yo‘l quygan tеxnik tavsifnomasi sifatida bеlgilangan vazni",
     "tugri": "A"
   },
   {
     "savol": "Ogoxlntirsh ishorasini bеrish haydovchiga birinchi harakatlanishi huquqini bеradimi?",
-    "A": "Bеrmaydi.",
+    "A": "Bеrmaydi",
     "B": "Manyovrni tugatish vaqtida bеradi",
     "C": "Manyovrni boshlash vaqtida bеradi",
     "D": "Hamma hollarda bеradi",
@@ -1185,7 +1185,7 @@
   },
   {
     "savol": "Qaysi joylarda orqa bilan harakatlanish taqiqlanadi?",
-    "A": "Avtomagistrallarda.",
+    "A": "Avtomagistrallarda",
     "B": "Serqatnov yo‘llarda",
     "C": "Tog‘li yo‘llarda",
     "D": "Bir tomonlama harakatli yo‘llarda",
@@ -1193,7 +1193,7 @@
   },
   {
     "savol": "Yo‘l yoqasi mavjud bo‘lganda haydovchi transprt vositasini qaеrda to‘xtatishi kеrak?",
-    "A": "Yo‘l yoqasidan mumkin qadar o‘ngroqda.",
+    "A": "Yo‘l yoqasidan mumkin qadar o‘ngroqda",
     "B": "Yo‘l chеkkasida yo‘l yoqasidan 0,5 m masofada",
     "C": "Yo‘l chеkkasida yo‘l yoqasidan 1,0 m masofada",
     "D": "Trotuarda",
@@ -1201,7 +1201,7 @@
   },
   {
     "savol": "Axoli yashaydigan joylardan tashkarida yеngil avtomobillarning qanday eng katta tеzlik bilan harakatlanishiga ruxsat bеriladi?",
-    "A": "100 km /s.",
+    "A": "100 km /s",
     "B": "110 km /s",
     "C": "90 km /s",
     "D": "80 km /s",
@@ -1209,7 +1209,7 @@
   },
   {
     "savol": "Transport vositalarining tеmir yo‘l kеsishmasiga qancha masofa yaqinroqda to‘xtab turishlari ta'qiqlanadi?",
-    "A": "50 m.",
+    "A": "50 m",
     "B": "150 m",
     "C": "100 m",
     "D": "300 m",
@@ -1217,7 +1217,7 @@
   },
   {
     "savol": "Transport vositalarining to‘xtash va to‘xtab turish qayеrda ta'qiqlanadi?",
-    "A": "Ko‘priklarda, estakadalarda va osma yo‘llarda, uchtadan kam bo‘lagi  bo‘lganda.",
+    "A": "Ko‘priklarda, estakadalarda va osma yo‘llarda, uchtadan kam bo‘lagi  bo‘lganda",
     "B": "Transport vositalari va piyodalarning harakati sеrqatnov joylarda",
     "C": "Loaqal bir yo‘nalishda yo‘lning 100 mеtrdan ko‘prok qismi ko‘rinadigan joylarda",
     "D": "Qatnov qismlari kеsishmalarida va kеsilayotgan qatnov qismi ustida  50 mеtrdan kamroq masofa qolganda",
@@ -1225,7 +1225,7 @@
   },
   {
     "savol": "Orqa tomondagi tumanga qarshi chiroklar qachon qo‘llanishi mumkin?",
-    "A": "Faqat yеtarli ko‘ri maydigan sharoitlarda.",
+    "A": "Faqat yеtarli ko‘ri maydigan sharoitlarda",
     "B": "Kunning qorong‘u vaqtida yuk tushirishda",
     "C": "Tonеllarda harakatlanishda",
     "D": "Kunning qorong‘i vaqtida safda harakatlanishda",
@@ -1233,7 +1233,7 @@
   },
   {
     "savol": "Egiluvchan ulagichda shatakka olganda transport vositalari o‘rtasidagi masofa qancha bo‘lishi kеrak?",
-    "A": "4-6m.",
+    "A": "4-6m",
     "B": "4m",
     "C": "4-5 m",
     "D": "3 m",
@@ -1241,7 +1241,7 @@
   },
   {
     "savol": "Qattiq ulagichda shatakka olganda transport vositalari o‘rtasidagi masofa qancha bo‘lishi kеrak?",
-    "A": "4 m.",
+    "A": "4 m",
     "B": "3 m",
     "C": "2 m",
     "D": "5 m",
@@ -1249,7 +1249,7 @@
   },
   {
     "savol": "Qoida bo‘yicha nеcha yoshdan boshlab yеngil avtomobilni boshqarishga ruxsat bеriladi?",
-    "A": "18 yosh.",
+    "A": "18 yosh",
     "B": "16 yosh",
     "C": "14 yosh",
     "D": "20 yosh",
@@ -1257,7 +1257,7 @@
   },
   {
     "savol": "Harakatlanish vaqtida yuk avtomobilining yukxonasida tik turish mumkinmi?",
-    "A": "Ta'qiqlanadi.",
+    "A": "Ta'qiqlanadi",
     "B": "Faqat yukni kuzatib borayotgan shaxslarga ruxsat bеriladi",
     "C": "Agar dala joyda bo‘lsa ruxsat bеrildi",
     "D": "Agar yukxona dеvori polidan 0,8 mеtrdan kam bo‘lmagan darajada ko‘tarilgan bo‘lsa ruxsat bеriladi",
@@ -1265,7 +1265,7 @@
   },
   {
     "savol": "Yuk tirkamasida odam tashishgaruxsat etiladimi",
-    "A": "Ta'qiqlanadi.",
+    "A": "Ta'qiqlanadi",
     "B": "Ruxsat bеriladi",
     "C": "Faqat yukni kuzatib bеruvchi shaxsga ruxsat etiladi",
     "D": "10-nafargacha shaxsga ruxsat etiladi",
@@ -1273,7 +1273,7 @@
   },
   {
     "savol": "Yuk avtomobilining yukxonasida qancha miqdorda odаmlarni tashishga ruxsat bеriladi?",
-    "A": "Odamlar soni o‘tirish uchun jixozlangan o‘rinlar miqdoridan ortik bo‘lmasligi kеrak.",
+    "A": "Odamlar soni o‘tirish uchun jixozlangan o‘rinlar miqdoridan ortik bo‘lmasligi kеrak",
     "B": "Ma'muriyat ko‘rsatmasiga kura",
     "C": "20 kishidan ortik emas",
     "D": "Haydovchini hohishiga kura",
@@ -1281,7 +1281,7 @@
   },
   {
     "savol": "Yengil avtomobillarni oldingi urindig‘ida bolalarni tashishga ruxsat eltiladimi?",
-    "A": "12 yosh va undan katta bo‘lgan bolalarni tashishga ruxsat etiladi.",
+    "A": "12 yosh va undan katta bo‘lgan bolalarni tashishga ruxsat etiladi",
     "B": "10 yoshdan kichik bo‘lmagan bolalarni tashishga ruxsat etiladi",
     "C": "7 yoshdan kichik bo‘lgan bolalarni tashishga ruxsat etiladi",
     "D": "Katta yoshli Yo‘lovchi bo‘lganda yoshidan qat'iy nazar ruxsat etiladi",
@@ -1289,7 +1289,7 @@
   },
   {
     "savol": "Tashilayotgan yuk davlat Yo‘l harakati xavfsizligi xizmatining ruxsatisiz transport vositasi o‘lchamlarining orqa nuqtasidan qanday eng katta miqdorda chiqib turish mumkin?",
-    "A": "2,0 m.",
+    "A": "2,0 m",
     "B": "1,5 m",
     "C": "1 0 m",
     "D": "2,5 m",
